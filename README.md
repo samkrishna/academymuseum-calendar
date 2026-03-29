@@ -20,7 +20,7 @@ Each entry includes title, date, location, description, runtime (for screenings)
 
 1. Fetches the Academy Museum calendar page for the current month (remaining days) plus the next two full months
 2. Extracts event data from the embedded JSON (Contentful CMS)
-3. Filters to Screenings and Conversations categories
+3. Filters for Screenings, Conversations and Book Signings categories
 4. Parses film runtimes from metadata, with [TMDb](https://www.themoviedb.org/) fallback (via [cinelength.com](https://cinelength.netlify.app))
 5. Generates `feed.xml` (RSS 2.0) and `calendar.ics` (iCalendar) in the `docs/` directory
 
@@ -39,11 +39,11 @@ Output is written to `docs/feed.xml` and `docs/calendar.ics`.
 
 A GitHub Actions workflow (`.github/workflows/update-feeds.yml`) runs daily and commits updated feeds to the `docs/` directory. Feeds are served via GitHub Pages.
 
-## Note
+## Notes
 
 - For RSS, use this link: https://raw.githubusercontent.com/samkrishna/academymuseum-calendar/main/docs/feed.xml
-- For iCal and other .ics-compatibile calendar applications, use this link: https://raw.githubusercontent.com/samkrishna/academymuseum-calendar/main/docs/calendar.ics
+- For iCalendar and other .ics-compatibile calendar applications, use this link: https://raw.githubusercontent.com/samkrishna/academymuseum-calendar/main/docs/calendar.ics
 
-NOTE: For the RSS readers, I have tested it on NetNewsWire 7.x (my personal reader) and Feedly. I have tried to get the RSS script to sort the entries based on screening time in ascending order and it looks like Feedly reads this order correctly in a way that NetNewsWire 7.x does not.
+NOTE: For the RSS readers, I have tested this on NetNewsWire 7.x (my personal RSS reader) and Feedly. I have tried to get the RSS script to sort the entries based on screening time in ascending order and it looks like Feedly reads this sequence correctly in a way that NetNewsWire 7.x does not. (I use "Sort from Oldest to Newest" to get the correct sequence.)
 
 NOTE: For the .ics/iCal apps, past screening will revert to "all-day events" because they are no longer purchasable through Ticketure.
