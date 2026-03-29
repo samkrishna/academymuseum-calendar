@@ -311,7 +311,13 @@ def filter_and_parse_events(events_dict):
         })
 
     # Sort by start date/time
-    parsed.sort(key=lambda e: e["event_date"])
+    # Sort by actual start time; all-day events sort to start of their date
+    def sort_key(e):
+        if e["all_day"]:
+            return datetime(e["event_date"].year, e["event_date"].month, e["event_date"].day, tzinfo=PACIFIC)
+        return e["dt_start"]
+
+    parsed.sort(key=sort_key)
     return parsed
 
 
