@@ -15,7 +15,7 @@ TICKETURE_API = "https://tickets.academymuseum.org/api/events"
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 TMDB_API_KEY = "ecc49deb9e28d9a978b54a4321e5c4f1"  # via cinelength.com
 PACIFIC = pytz.timezone("America/Los_Angeles")
-INCLUDED_TYPES = {"Screenings", "Conversations"}
+INCLUDED_TYPES = {"Screenings", "Conversations", "Book Signings"}
 
 
 def get_date_ranges(today=None, lookahead_days=60):

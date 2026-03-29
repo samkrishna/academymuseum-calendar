@@ -8,9 +8,9 @@ from icalendar import Calendar, Event, Timezone, TimezoneDaylight, TimezoneStand
 
 PACIFIC = pytz.timezone("America/Los_Angeles")
 SITE_URL = "https://www.academymuseum.org/calendar"
-FEED_TITLE = "Academy Museum of Motion Pictures — Screenings & Conversations"
+FEED_TITLE = "Academy Museum of Motion Pictures — Screenings, Conversations & Book Signings"
 FEED_DESCRIPTION = (
-    "Upcoming film screenings and conversations at the "
+    "Upcoming film screenings, conversations, and book signings at the "
     "Academy Museum of Motion Pictures in Los Angeles."
 )
 

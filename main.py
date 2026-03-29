@@ -17,7 +17,7 @@ def main():
 
     print("Scraping Academy Museum calendar...")
     events = scrape_all_events()
-    print(f"Found {len(events)} events (Screenings & Conversations)")
+    print(f"Found {len(events)} events (Screenings, Conversations & Book Signings)")
 
     if not events:
         print("Warning: No events found. Feed files will not be updated.", file=sys.stderr)
