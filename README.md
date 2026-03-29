@@ -41,4 +41,9 @@ A GitHub Actions workflow (`.github/workflows/update-feeds.yml`) runs daily and 
 
 ## Note
 
-Event start times are only available for some events (primarily Conversations). Most screenings appear as all-day calendar entries because the museum's data does not include structured screening times.
+- For RSS, use this link: https://raw.githubusercontent.com/samkrishna/academymuseum-calendar/main/docs/feed.xml
+- For iCal and other .ics-compatibile calendar applications, use this link: https://raw.githubusercontent.com/samkrishna/academymuseum-calendar/main/docs/calendar.ics
+
+NOTE: For the RSS readers, I have tested it on NetNewsWire 7.x (my personal reader) and Feedly. I have tried to get the RSS script to sort the entries based on screening time in ascending order and it looks like Feedly reads this order correctly in a way that NetNewsWire 7.x does not.
+
+NOTE: For the .ics/iCal apps, past screening will revert to "all-day events" because they are no longer purchasable through Ticketure.
