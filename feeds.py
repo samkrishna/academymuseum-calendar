@@ -58,7 +58,7 @@ def generate_rss(events, output_path):
     # feedgen prepends entries, so iterate in reverse to get chronological output
     for event in reversed(events):
         fe = fg.add_entry()
-        fe.id(event["url"] or event["id"])
+        fe.id(event["id"])
         fe.title(event["title"])
         if event["url"]:
             fe.link(href=event["url"])
