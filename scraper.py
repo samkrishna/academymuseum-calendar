@@ -11,6 +11,7 @@ from dateutil.relativedelta import relativedelta
 
 CALENDAR_URL = "https://www.academymuseum.org/calendar"
 EVENT_BASE_URL = "https://www.academymuseum.org/en/calendar/"
+TICKETURE_API = "https://tickets.academymuseum.org/api/events"
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 TMDB_API_KEY = "ecc49deb9e28d9a978b54a4321e5c4f1"  # via cinelength.com
 PACIFIC = pytz.timezone("America/Los_Angeles")
@@ -169,6 +170,27 @@ def lookup_runtime_tmdb(title):
     return None
 
 
+def fetch_session_times(ticketure_id):
+    """Fetch start/end times from the Ticketure sessions API."""
+    try:
+        resp = requests.get(
+            f"{TICKETURE_API}/{ticketure_id}/sessions",
+            timeout=10,
+        )
+        if resp.status_code != 200:
+            return None, None
+        data = resp.json()
+        sessions = data.get("event_session", {}).get("_data", [])
+        if not sessions:
+            return None, None
+        session = sessions[0]
+        start = datetime.fromisoformat(session["start_datetime"].replace("Z", "+00:00"))
+        end = datetime.fromisoformat(session["end_datetime"].replace("Z", "+00:00"))
+        return start.astimezone(PACIFIC), end.astimezone(PACIFIC)
+    except (requests.RequestException, KeyError, ValueError):
+        return None, None
+
+
 def filter_and_parse_events(events_dict):
     """Filter to Screenings/Conversations and parse into structured dicts."""
     parsed = []
@@ -227,9 +249,17 @@ def filter_and_parse_events(events_dict):
             if runtime_min:
                 print(f"  TMDb lookup: {title} → {runtime_min} min")
 
-        # Build datetime with parsed time, or mark as all-day
+        # Get exact times from Ticketure sessions API
+        ticketure_id = event.get("ticketureId") or event.get("ticketureIdProduction") or event_id
+        tk_start, tk_end = fetch_session_times(ticketure_id)
+
+        # Build datetime: prefer Ticketure, fall back to parsed metadata, then all-day
         all_day = False
-        if time_str:
+        if tk_start and tk_end:
+            dt_start = tk_start
+            dt_end = tk_end
+            time_str = dt_start.strftime("%-I:%M %p").replace(":00 ", " ").lower()
+        elif time_str:
             dt_start = parse_time_string(time_str, event_date)
             if dt_start:
                 if runtime_min:
