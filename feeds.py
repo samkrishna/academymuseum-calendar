@@ -55,7 +55,8 @@ def generate_rss(events, output_path):
     fg.language("en")
     fg.lastBuildDate(datetime.now(pytz.UTC))
 
-    for event in events:
+    # feedgen prepends entries, so iterate in reverse to get chronological output
+    for event in reversed(events):
         fe = fg.add_entry()
         fe.id(event["url"] or event["id"])
         fe.title(event["title"])
