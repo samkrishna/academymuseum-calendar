@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from dateutil.relativedelta import relativedelta
 
 CALENDAR_URL = "https://www.academymuseum.org/calendar"
-EVENT_BASE_URL = "https://www.academymuseum.org/en/calendar/"
+EVENT_BASE_URL = "https://www.academymuseum.org/en/programs/detail/"
 TICKETURE_API = "https://tickets.academymuseum.org/api/events"
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 TMDB_API_KEY = "ecc49deb9e28d9a978b54a4321e5c4f1"  # via cinelength.com
