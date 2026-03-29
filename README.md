@@ -1,6 +1,6 @@
 # Academy Museum Calendar Feeds
 
-RSS and ICS feeds for upcoming film screenings and conversations at the [Academy Museum of Motion Pictures](https://www.academymuseum.org/calendar) in Los Angeles.
+UNOFFICIAL RSS and ICS feeds for upcoming film screenings and conversations at the [Academy Museum of Motion Pictures](https://www.academymuseum.org/calendar) in Los Angeles.
 
 ## Subscribe
 
@@ -47,3 +47,7 @@ A GitHub Actions workflow (`.github/workflows/update-feeds.yml`) runs daily and 
 NOTE: For the RSS readers, I have tested this on NetNewsWire 7.x (my personal RSS reader) and Feedly. I have tried to get the RSS script to sort the entries based on screening time in ascending order and it looks like Feedly reads this sequence correctly in a way that NetNewsWire 7.x does not. (I use "Sort from Oldest to Newest" to get the correct sequence.)
 
 NOTE: For the .ics/iCal apps, past screening will revert to "all-day events" because they are no longer purchasable through Ticketure.
+
+NOTE: These are unofficial feeds I whipped up using Anthropic's Claude Code. My only affiliation with the Academy Museum is that I'm a member. Insert all the standard legal and technical disclaimers here including that IF the Museum chooses to change their website in a way that breaks these feeds, they'll stop working.
+
+I assume ZERO legal responsibility or liability for the production of these feeds. It's an MIT license, after all.
