@@ -18,7 +18,7 @@ PACIFIC = pytz.timezone("America/Los_Angeles")
 INCLUDED_TYPES = {"Screenings", "Conversations"}
 
 
-def get_date_ranges(today=None, lookahead_days=90):
+def get_date_ranges(today=None, lookahead_days=60):
     """Calculate month-chunked date ranges covering the next N days."""
     if today is None:
         today = date.today()
