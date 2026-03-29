@@ -48,6 +48,6 @@ NOTE: For the RSS readers, I have tested this on NetNewsWire 7.x (my personal RS
 
 NOTE: For the .ics/iCal apps, past screening will revert to "all-day events" because they are no longer purchasable through Ticketure.
 
-NOTE: These are unofficial feeds I whipped up using Anthropic's Claude Code. My only affiliation with the Academy Museum is that I'm a member. Insert all the standard legal and technical disclaimers here including that IF the Museum chooses to change their website in a way that breaks these feeds, they'll stop working.
+NOTE: These are unofficial feeds I whipped up using Anthropic's Claude Code. My only affiliation with the Academy Museum is that I'm a *Museum** member (as distinct from an Academy Member). Insert all the standard legal and technical disclaimers here including that IF the Museum chooses to change their website in a way that breaks these feeds, they'll stop working.
 
 I assume ZERO legal responsibility or liability for the production of these feeds. It's an MIT license, after all.
