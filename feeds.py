@@ -1,10 +1,10 @@
 """Generate RSS and ICS feeds from parsed Academy Museum events."""
 
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 
 import pytz
 from feedgen.feed import FeedGenerator
-from icalendar import Calendar, Event, vText
+from icalendar import Calendar, Event, Timezone, TimezoneDaylight, TimezoneStandard, vText
 
 PACIFIC = pytz.timezone("America/Los_Angeles")
 SITE_URL = "https://www.academymuseum.org/calendar"
@@ -95,6 +95,28 @@ def generate_ics(events, output_path):
     cal.add("method", "PUBLISH")
     cal.add("x-wr-calname", FEED_TITLE)
     cal.add("x-wr-timezone", "America/Los_Angeles")
+
+    # Add VTIMEZONE for Apple Calendar compatibility
+    tz = Timezone()
+    tz.add("tzid", "America/Los_Angeles")
+
+    tz_dst = TimezoneDaylight()
+    tz_dst.add("tzoffsetfrom", timedelta(hours=-8))
+    tz_dst.add("tzoffsetto", timedelta(hours=-7))
+    tz_dst.add("tzname", "PDT")
+    tz_dst.add("dtstart", datetime(2007, 3, 11, 2, 0, 0))
+    tz_dst.add("rrule", {"FREQ": "YEARLY", "BYMONTH": 3, "BYDAY": "2SU"})
+    tz.add_component(tz_dst)
+
+    tz_std = TimezoneStandard()
+    tz_std.add("tzoffsetfrom", timedelta(hours=-7))
+    tz_std.add("tzoffsetto", timedelta(hours=-8))
+    tz_std.add("tzname", "PST")
+    tz_std.add("dtstart", datetime(2007, 11, 4, 2, 0, 0))
+    tz_std.add("rrule", {"FREQ": "YEARLY", "BYMONTH": 11, "BYDAY": "1SU"})
+    tz.add_component(tz_std)
+
+    cal.add_component(tz)
 
     for event_data in events:
         vevent = Event()
