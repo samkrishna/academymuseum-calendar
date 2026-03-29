@@ -18,24 +18,22 @@ PACIFIC = pytz.timezone("America/Los_Angeles")
 INCLUDED_TYPES = {"Screenings", "Conversations"}
 
 
-def get_date_ranges(today=None):
-    """Calculate date ranges: rest of current month + next 2 full months."""
+def get_date_ranges(today=None, lookahead_days=90):
+    """Calculate month-chunked date ranges covering the next N days."""
     if today is None:
         today = date.today()
 
+    start = today + timedelta(days=1)
+    end = today + timedelta(days=lookahead_days)
+
     ranges = []
-
-    # Rest of current month (tomorrow through end of month)
-    tomorrow = today + timedelta(days=1)
-    end_of_month = (today + relativedelta(months=1)).replace(day=1) - timedelta(days=1)
-    if tomorrow <= end_of_month:
-        ranges.append((tomorrow, end_of_month))
-
-    # Next 2 full months
-    for i in range(1, 3):
-        first = (today + relativedelta(months=i)).replace(day=1)
-        last = (today + relativedelta(months=i + 1)).replace(day=1) - timedelta(days=1)
-        ranges.append((first, last))
+    cursor = start
+    while cursor <= end:
+        # End of current month or end of window, whichever comes first
+        end_of_month = (cursor + relativedelta(months=1)).replace(day=1) - timedelta(days=1)
+        chunk_end = min(end_of_month, end)
+        ranges.append((cursor, chunk_end))
+        cursor = chunk_end + timedelta(days=1)
 
     return ranges
 
