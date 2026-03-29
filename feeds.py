@@ -59,7 +59,9 @@ def generate_rss(events, output_path):
     for event in reversed(events):
         fe = fg.add_entry()
         fe.id(event["id"])
-        fe.title(event["title"])
+        # Include date in title to distinguish repeat screenings
+        date_str = event["event_date"].strftime("%b %-d")
+        fe.title(f"{event['title']} — {date_str}")
         if event["url"]:
             fe.link(href=event["url"])
 
