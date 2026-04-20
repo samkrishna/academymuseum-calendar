@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 08:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:51:13 +0000</lastBuildDate>
     <item>
       <title>The Idiot (Hakuchi) in 35mm — Apr 17</title>
       <link>https://www.academymuseum.org/en/programs/detail/the-idiot-hakuchi-in-35-mm-019c063e-b79c-6955-22cc-3cba2eaa5cf0</link>
@@ -130,34 +130,11 @@ Kurosawa contemplates the horrors of the atomic bomb and the fear that permeated
       <pubDate>Sat, 18 Apr 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>Midnight Cowboy in 4K — Apr 19</title>
-      <link>https://www.academymuseum.org/en/programs/detail/midnight-cowboy-019be226-d097-65cf-a70e-af6a6dd5561f</link>
-      <description>Sunday, April 19, 2026 at 2 pm
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 53m
-
-1969 | 113 min. | USA | Color | English | Rated R | 4K DCP 
-DIRECTED BY: John Schlesinger 
-WRITTEN BY: Waldo Salt 
-WITH: Dustin Hoffman, Jon Voight, Sylvia Miles, Jon McGiver
-
-Type: Screenings
-
-Director John Schlesinger’s film version of James Leo Herlihy’s novel about two unlikely friends—a would-be gigolo and a petty hustler—in the seedier side of 1960s Manhattan was a breakthrough in American cinema’s treatment of previously taboo subject matter. 
-Best Actor nominations were earned by Dustin Hoffman as the ailing “Ratso” Rizzo and Jon Voight in a star-making turn as Joe Buck, with supporting actress nominee Sylvia Miles among the impressive cast assembled by Schlesinger and pioneering, uncredited casting director Marion Dougherty. The film earned Oscars for Best Picture (Jerome Hellman, producer), Schlesinger’s direction, and Waldo Salt’s screenplay.</description>
-      <guid isPermaLink="false">019be226-d097-65cf-a70e-af6a6dd5561f</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/7aH7sxQ1EsUPOe1d7f98KS/947613e1b86de03618882412f7fb4c69/Apr19_MIDNIGHT_COWBOY_OscarSundays1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Apr 2026 14:00:00 -0700</pubDate>
-    </item>
-    <item>
       <title>One Wonderful Sunday (Subarashiki nichiyobi) in 35mm — Apr 19</title>
       <link>https://www.academymuseum.org/en/programs/detail/one-wonderful-sunday-subarashiki-nichiyobi-in-35-mm-019c068d-fb79-8423-d71b-7307313ee163</link>
       <description>In person: Academy Collection and Preservation Executive Vice President Matt Severson
 
-Sunday, April 19, 2026 at 2:30 pm
+Sunday, April 19, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -175,12 +152,35 @@ Engaged couple Yuzo and Masako take a weekend trip to Tokyo, a city recently dev
       <guid isPermaLink="false">019c068d-fb79-8423-d71b-7307313ee163</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4XubEihzHA3p2O5b2alOls/ef18257fb927cf14a8a714d1b1ce0b42/Apr19_ONE_WONDERFUL_SUNDAY_Kurosawa1Janus__1_.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Apr 2026 14:30:00 -0700</pubDate>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Midnight Cowboy in 4K — Apr 19</title>
+      <link>https://www.academymuseum.org/en/programs/detail/midnight-cowboy-019be226-d097-65cf-a70e-af6a6dd5561f</link>
+      <description>Sunday, April 19, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 53m
+
+1969 | 113 min. | USA | Color | English | Rated R | 4K DCP 
+DIRECTED BY: John Schlesinger 
+WRITTEN BY: Waldo Salt 
+WITH: Dustin Hoffman, Jon Voight, Sylvia Miles, Jon McGiver
+
+Type: Screenings
+
+Director John Schlesinger’s film version of James Leo Herlihy’s novel about two unlikely friends—a would-be gigolo and a petty hustler—in the seedier side of 1960s Manhattan was a breakthrough in American cinema’s treatment of previously taboo subject matter. 
+Best Actor nominations were earned by Dustin Hoffman as the ailing “Ratso” Rizzo and Jon Voight in a star-making turn as Joe Buck, with supporting actress nominee Sylvia Miles among the impressive cast assembled by Schlesinger and pioneering, uncredited casting director Marion Dougherty. The film earned Oscars for Best Picture (Jerome Hellman, producer), Schlesinger’s direction, and Waldo Salt’s screenplay.</description>
+      <guid isPermaLink="false">019be226-d097-65cf-a70e-af6a6dd5561f</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/7aH7sxQ1EsUPOe1d7f98KS/947613e1b86de03618882412f7fb4c69/Apr19_MIDNIGHT_COWBOY_OscarSundays1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>The Lower Depths (Donzoko) in 35mm — Apr 19</title>
       <link>https://www.academymuseum.org/en/programs/detail/the-lower-depths-in-35-mm-019c064b-5bcb-9df8-5424-65decc456d57</link>
-      <description>Sunday, April 19, 2026 at 6:30 pm
+      <description>Sunday, April 19, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -197,7 +197,7 @@ Kurosawa takes a picaresque approach in his adaptation of Maxim Gorky’s play o
       <guid isPermaLink="false">019c064b-5bcb-9df8-5424-65decc456d57</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/In9RE1xVh5Y8PKppgaJpo/a8dd334bf9fa1db6e7889b37c817ef37/Apr19_LOWER_DEPTHS_Kurosawa1MHL__1_.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Apr 2026 18:30:00 -0700</pubDate>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>The Servant in 4K — Apr 20</title>
