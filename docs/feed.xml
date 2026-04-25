@@ -7,78 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 08:46:30 +0000</lastBuildDate>
-    <item>
-      <title>The Hidden Fortress (Kakushi toride no san-akunin) in 35mm — Apr 23</title>
-      <link>https://www.academymuseum.org/en/programs/detail/the-hidden-fortress-in-35-mm-019c064c-8eb1-23fa-9df5-1a936093f4b2</link>
-      <description>Thursday, April 23, 2026
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 2h 6m
-
-1958 | 126 min. | Japan | Black-and-White | Japanese with English subtitles | Not Rated | 35mm 
-DIRECTED BY: Akira Kurosawa 
-WRITTEN BY: Ryuzo Kikushima, Hideo Oguni, Shinobu Hashimoto, Akira Kurosawa
-WITH: Toshiro Mifune, Misa Uehara, Minoru Chiaki, Kamatari Fujiwara
-
-Type: Screenings
-
-A pair of hapless peasants—Tahei (Minoru Chiaki) and Matashichi (Kamatari Fujiwara)—uproot their lives to enlist with the rising Yamana clan. But their witless greed keeps landing them in unfortunate circumstances. Their ingenious plan to escape into a neighboring state draws the attention of General Rokurota Makabe (Toshiro Mifune). Hiding in disguise with Princess Yuki (Misa Uehara) of the fallen Akizuki clan, Makabe enlists the help of Tahei and Matashichi for passage into Hayakawa. This 16th-century period adventure of a princess evading capture from enemy forces served as inspiration for George Lucas’s space epic, Star Wars (1977).</description>
-      <guid isPermaLink="false">019c064c-8eb1-23fa-9df5-1a936093f4b2</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4QnuJFMbSGW3fkOKcxSVix/3147b61b4b63f8aebabdc616e0f7467e/Apr23_HIDDEN_FORTRESS_Kurosawa1MHL.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Gallery Spotlight: Screenwriting — Apr 24</title>
-      <link>https://www.academymuseum.org/en/programs/detail/gallery-spotlight-screenwriting-019d0c5c-c749-769e-32d2-72f659590c47</link>
-      <description>Academy members and screenwriters reveal the nuances of bringing stories to the screen.
-
-Friday, April 24, 2026 at 12 pm
-
-Location: Ted Mann Theater Lobby
-
-Type: Conversations
-
-A screenplay is a written document that establishes the foundation of a film, providing its dialogue, setting, and action, and dictating its structure and story. But it is more than a blueprint; it is an art form. 
-Academy governors and screenwriters Howard A. Rodman (Savage Grace, 2007), and Dana Stevens (The Woman King, 2022), reveal the unique nuances of writing for films against the backdrop of our new gallery, Screenwriting: Takes on LA Noir. 
-Assistant Curator Nicholas Barlow moderates. 
-About Gallery SpotlightsGallery Spotlights feature special guests who bring fresh insights to our exhibitions. Join us for revealing monthly conversations connecting the objects in our galleries to the art and history of moviemaking.
-If you have any questions or need assistance planning your visit, please email museumeducation@oscars.org.</description>
-      <guid isPermaLink="false">019d0c5c-c749-769e-32d2-72f659590c47</guid>
-      <category>Conversations</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4aRslA1ISEjQeK2o7wwaad/951c575fcb812fff155b044515c87aa9/Gallery_Spotlight_Screenwriting_Event.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 24 Apr 2026 12:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>The Servant in 4K — Apr 24</title>
-      <link>https://www.academymuseum.org/en/programs/detail/the-servant-in-4-k-019be23a-f640-8c01-dff2-d41b5ca36a8b</link>
-      <description>Friday, April 24, 2026 at 2:30 pm
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 56m
-
-1963 | 116 min. | UK | Black-and-White | English | Not Rated | 4K DCP 
-DIRECTED BY: Joseph Losey  
-WRITTEN BY: Harold Pinter  
-WITH: Dirk Bogarde, James Fox, Sarah Miles, Wendy Craig
-
-Type: Screenings
-
-Director Joseph Losey’s first of three collaborations with writer Harold Pinter was this adaptation of Robin Maugham’s 1948 novella. Focusing on social class and interpersonal relationships, the story follows Barrett (Dirk Bogarde) who is hired as manservant when the wealthy Tony (James Fox) moves into a new house. The two form a bond, but Tony is unaware of Barrett’s ulterior motive to gain the upper hand in their relationship. To further his goals, Barrett convinces Tony to hire a maid and brings his lover (Sara Miles) into the home under the guise that they are siblings.</description>
-      <guid isPermaLink="false">019be23a-f640-8c01-dff2-d41b5ca36a8b</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/3tLTYOvVajC8mLjctDkJKM/6bd8f48e0e780e2ab782c7bb90b9d72e/Apr20_SERVANT_Bong3ML.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 24 Apr 2026 14:30:00 -0700</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 08:24:25 +0000</lastBuildDate>
     <item>
       <title>Yojimbo (Yojinbo) in 35mm — Apr 24</title>
       <link>https://www.academymuseum.org/en/programs/detail/yojimbo-in-35-mm-019c064d-0dde-ad84-61a6-a66986202520</link>
       <description>In person: Rika Hiro, PhD, associate curator of Japanese art, LACMA
 
-Friday, April 24, 2026 at 7:30 pm
+Friday, April 24, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -95,7 +30,50 @@ A mysterious ronin going by the name Sanjuro Kuwabatake (Toshiro Mifune), wander
       <guid isPermaLink="false">019c064d-0dde-ad84-61a6-a66986202520</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/5wHMvJkjf6SPrgkUfzHmIM/e268aafc328dc76673c743d015ae05d4/Apr24_YOJIMBO_Kurosawa1MHL.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 24 Apr 2026 19:30:00 -0700</pubDate>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Servant in 4K — Apr 24</title>
+      <link>https://www.academymuseum.org/en/programs/detail/the-servant-in-4-k-019be23a-f640-8c01-dff2-d41b5ca36a8b</link>
+      <description>Friday, April 24, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 56m
+
+1963 | 116 min. | UK | Black-and-White | English | Not Rated | 4K DCP 
+DIRECTED BY: Joseph Losey  
+WRITTEN BY: Harold Pinter  
+WITH: Dirk Bogarde, James Fox, Sarah Miles, Wendy Craig
+
+Type: Screenings
+
+Director Joseph Losey’s first of three collaborations with writer Harold Pinter was this adaptation of Robin Maugham’s 1948 novella. Focusing on social class and interpersonal relationships, the story follows Barrett (Dirk Bogarde) who is hired as manservant when the wealthy Tony (James Fox) moves into a new house. The two form a bond, but Tony is unaware of Barrett’s ulterior motive to gain the upper hand in their relationship. To further his goals, Barrett convinces Tony to hire a maid and brings his lover (Sara Miles) into the home under the guise that they are siblings.</description>
+      <guid isPermaLink="false">019be23a-f640-8c01-dff2-d41b5ca36a8b</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/3tLTYOvVajC8mLjctDkJKM/6bd8f48e0e780e2ab782c7bb90b9d72e/Apr20_SERVANT_Bong3ML.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Gallery Spotlight: Screenwriting — Apr 24</title>
+      <link>https://www.academymuseum.org/en/programs/detail/gallery-spotlight-screenwriting-019d0c5c-c749-769e-32d2-72f659590c47</link>
+      <description>Academy members and screenwriters reveal the nuances of bringing stories to the screen.
+
+Friday, April 24, 2026 at Noon–1pm
+
+Location: Ted Mann Theater Lobby
+
+Type: Conversations
+
+A screenplay is a written document that establishes the foundation of a film, providing its dialogue, setting, and action, and dictating its structure and story. But it is more than a blueprint; it is an art form. 
+Academy governors and screenwriters Howard A. Rodman (Savage Grace, 2007), and Dana Stevens (The Woman King, 2022), reveal the unique nuances of writing for films against the backdrop of our new gallery, Screenwriting: Takes on LA Noir. 
+Assistant Curator Nicholas Barlow moderates. 
+About Gallery SpotlightsGallery Spotlights feature special guests who bring fresh insights to our exhibitions. Join us for revealing monthly conversations connecting the objects in our galleries to the art and history of moviemaking.
+If you have any questions or need assistance planning your visit, please email museumeducation@oscars.org.</description>
+      <guid isPermaLink="false">019d0c5c-c749-769e-32d2-72f659590c47</guid>
+      <category>Conversations</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4aRslA1ISEjQeK2o7wwaad/951c575fcb812fff155b044515c87aa9/Gallery_Spotlight_Screenwriting_Event.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 -0700</pubDate>
     </item>
     <item>
       <title>The Wind Rises — Apr 25</title>
@@ -833,7 +811,10 @@ Writer-director Henri-Georges Clouzot (Diabolique, 1955) adapted Georges Arnaud�
     <item>
       <title>An Evening of Short Films from Asian American Filmmakers — May 13</title>
       <link>https://www.academymuseum.org/en/programs/detail/an-evening-of-short-films-from-asian-american-filmmakers-019be210-a94b-d065-dfac-b8b273f32904</link>
-      <description>Wednesday, May 13, 2026 at 7:30 pm
+      <description>Selected by the Short Films Branch 
+In person: filmmaker Nazrin Choudhury and Academy Governor Chris Tashima
+
+Wednesday, May 13, 2026 at 7:30 pm
 
 Location: Academy Museum of Motion Pictures
 
@@ -1187,7 +1168,8 @@ Type: Screenings
     <item>
       <title>Being There in 35mm — May 20</title>
       <link>https://www.academymuseum.org/en/programs/detail/being-there-019be210-d889-23c4-fc46-fb61ed623eb5</link>
-      <description>Selected by the Sound Branch
+      <description>Selected by the Sound Branch 
+In person: cinematographer Caleb Deschanel and Academy Governor Peter Devlin
 
 Wednesday, May 20, 2026 at 7:30 pm
 
@@ -1503,7 +1485,8 @@ WITH: Stanley Baker, John Crawford, Donald Pleasence, Maxine Audley
 Type: Screenings
 
 Hell Is a City is a superb policier featuring Stanley Baker as Inspector Martineau, who hunts a murderer (John Crawford) while grappling with his crumbling marriage in the northern town of Manchester. Soaked in a jazzy score and paced with punchy dialogue, the film is one of several in this program in which an American is central to the story’s primary conflict (see also Night and the City, 1950, and Obsession, 1947).
-This crime thriller is one of more than a dozen features made by the prolific Val Guest for Hammer Film Productions, the London-based company responsible for the bulk of England’s genre pictures from the 1930s into the 1970s. The film culminates in one of British crime cinema’s most thrilling climaxes, shot on location atop a building in Manchester.</description>
+This crime thriller is one of more than a dozen features made by the prolific Val Guest for Hammer Film Productions, the London-based company responsible for the bulk of England’s genre pictures from the 1930s into the 1970s. The film culminates in one of British crime cinema’s most thrilling climaxes, shot on location atop a building in Manchester. 
+This 35mm print courtesy of the BFI National Archive.</description>
       <guid isPermaLink="false">019c0661-730d-3658-8771-a0060f094ef0</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/3v8UbSHaV197niJO2Bo87L/8944a4709abd45d7f6710ee3c9abdc93/May27_HELL_IS_A_CITY_GreatExpectations1.jpg" length="0" type="image/jpeg"/>
