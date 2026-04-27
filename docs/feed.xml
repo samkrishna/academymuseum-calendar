@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 08:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 08:56:50 +0000</lastBuildDate>
     <item>
       <title>Yojimbo (Yojinbo) in 35mm — Apr 24</title>
       <link>https://www.academymuseum.org/en/programs/detail/yojimbo-in-35-mm-019c064d-0dde-ad84-61a6-a66986202520</link>
@@ -165,34 +165,11 @@ Stay for a brief Q&amp;A with Beebe after the tour.</description>
       <pubDate>Sat, 25 Apr 2026 14:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>Ordinary People in 35mm — Apr 26</title>
-      <link>https://www.academymuseum.org/en/programs/detail/ordinary-people-019be227-18dd-4cba-6348-0875e69008cd</link>
-      <description>Sunday, April 26, 2026 at 2 pm
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 2h 4m
-
-1980 | 124 min. | USA | Color | English | Rated R | 35mm 
-DIRECTED BY: Robert Redford 
-WRITTEN BY: Alvin Sargent 
-WITH: Donald Sutherland, Mary Tyler Moore, Judd Hirsch, Timothy Hutton 
-New print courtesy of the Academy Film Archive.
-
-Type: Screenings
-
-Robert Redford made his feature directorial debut with this moving adaptation of Judith Guest’s novel about the difficult relationship between an emotionally troubled teenager and his parents after the death of his brother. The cast, selected by Redford and casting director Penny Perry, balanced veteran actors such as Donald Sutherland, Mary Tyler Moore (earning a Best Actress nomination for a rare dramatic role), and Supporting Actor nominee Judd Hirsch with relative newcomers such as Elizabeth McGovern, Dinah Manoff, and Timothy Hutton, who won Best Supporting Actor for his sensitive performance as the guilt-ridden Conrad. The film earned additional Oscars for Best Picture (Ronald L. Schwary, producer), Redford’s direction, and Alvin Sargent’s screenplay.</description>
-      <guid isPermaLink="false">019be227-18dd-4cba-6348-0875e69008cd</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/2f0PKFbYZHg8f76hFXS6LE/c024bf077e4ae9f41459da4d3af087f6/Apr26_ORDINARY_PEOPLE_OscarSundays1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Apr 2026 14:00:00 -0700</pubDate>
-    </item>
-    <item>
       <title>Janie Geiser’s Time, a substance — Apr 26</title>
       <link>https://www.academymuseum.org/en/programs/detail/janie-geisers-time-a-substance-019be21a-5319-b8b1-8b4b-c13615afb76e</link>
       <description>In person: filmmaker Janie Geiser in conversation with USC professor Holly Willis
 
-Sunday, April 26, 2026 at 6:30 pm
+Sunday, April 26, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -222,7 +199,30 @@ Programmed by Hyesung ii and K.J. Relth-Miller</description>
       <guid isPermaLink="false">019be21a-5319-b8b1-8b4b-c13615afb76e</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/411AVVlriyinwacF9v9zL8/085229102d81c1ccd8d67fdb63a67526/reverse_shadow_dog_and_water.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Apr 2026 18:30:00 -0700</pubDate>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Ordinary People in 35mm — Apr 26</title>
+      <link>https://www.academymuseum.org/en/programs/detail/ordinary-people-019be227-18dd-4cba-6348-0875e69008cd</link>
+      <description>Sunday, April 26, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 2h 4m
+
+1980 | 124 min. | USA | Color | English | Rated R | 35mm 
+DIRECTED BY: Robert Redford 
+WRITTEN BY: Alvin Sargent 
+WITH: Donald Sutherland, Mary Tyler Moore, Judd Hirsch, Timothy Hutton 
+New print courtesy of the Academy Film Archive.
+
+Type: Screenings
+
+Robert Redford made his feature directorial debut with this moving adaptation of Judith Guest’s novel about the difficult relationship between an emotionally troubled teenager and his parents after the death of his brother. The cast, selected by Redford and casting director Penny Perry, balanced veteran actors such as Donald Sutherland, Mary Tyler Moore (earning a Best Actress nomination for a rare dramatic role), and Supporting Actor nominee Judd Hirsch with relative newcomers such as Elizabeth McGovern, Dinah Manoff, and Timothy Hutton, who won Best Supporting Actor for his sensitive performance as the guilt-ridden Conrad. The film earned additional Oscars for Best Picture (Ronald L. Schwary, producer), Redford’s direction, and Alvin Sargent’s screenplay.</description>
+      <guid isPermaLink="false">019be227-18dd-4cba-6348-0875e69008cd</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/2f0PKFbYZHg8f76hFXS6LE/c024bf077e4ae9f41459da4d3af087f6/Apr26_ORDINARY_PEOPLE_OscarSundays1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Marathon Man in 4K — Apr 27</title>
