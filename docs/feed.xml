@@ -7,36 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 08:51:30 +0000</lastBuildDate>
-    <item>
-      <title>Marathon Man in 4K — Apr 29</title>
-      <link>https://www.academymuseum.org/en/programs/detail/marathon-man-in-4-k-019be23b-ab24-271e-b8f6-5b112497356b</link>
-      <description>Wednesday, April 29, 2026 at 2:30 pm
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 2h 5m
-
-1976 | 125 min. | USA | Color | English | Rated R | 4K DCP  
-DIRECTED BY: John Schlesinger  
-WRITTEN BY: William Goldman  
-WITH: Dustin Hoffman, Laurence Olivier, Roy Scheider, William Devane
-
-Type: Screenings
-
-Novelist and screenwriter William Goldman adapted the screenplay for this suspenseful thriller from his own nail-biting novel. Dustin Hoffman stars as “Babe” Levy, a New York graduate student unexpectedly thrust into a plot of government intrigue involving Nazi war criminals because of his brother’s (Roy Scheider) secret identity as a government agent. Laurence Olivier costars as the iconic villain Dr. Szell in an Oscar-nominated role that was referenced in popular culture for many years and included on the American Film Institute’s 100 Years… series lists for both villains and quotes.</description>
-      <guid isPermaLink="false">019be23b-ab24-271e-b8f6-5b112497356b</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/23LVg9wRLHfPJBqciUijWx/0230aab255e9f752d52853ce05d23423/Apr27_MARATHON_MAN_Bong2.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Apr 2026 14:30:00 -0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 08:51:55 +0000</lastBuildDate>
     <item>
       <title>La La Land in 35mm — Apr 29</title>
       <link>https://www.academymuseum.org/en/programs/detail/la-la-land-019be20f-d475-f66e-00fb-868248073bbe</link>
       <description>In person: choreographer Mandy Moore, music supervisor ​Steven Gizicki, post-production producer Jeffrey Harlacker, and stunt coordinator Mark Kubr
 Selected by the Production and Technology Branch
 
-Wednesday, April 29, 2026 at 7:30 pm
+Wednesday, April 29, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -54,7 +32,29 @@ The film is one of three to earn a then-record 14 nominations—including Best P
       <guid isPermaLink="false">019be20f-d475-f66e-00fb-868248073bbe</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/37f0Htsc67x74VO2o51a1b/193fb55a545a4b95b79691016d954d97/Apr29_LA_LA_LAND_BranchSelects1MHL.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Apr 2026 19:30:00 -0700</pubDate>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Marathon Man in 4K — Apr 29</title>
+      <link>https://www.academymuseum.org/en/programs/detail/marathon-man-in-4-k-019be23b-ab24-271e-b8f6-5b112497356b</link>
+      <description>Wednesday, April 29, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 2h 5m
+
+1976 | 125 min. | USA | Color | English | Rated R | 4K DCP  
+DIRECTED BY: John Schlesinger  
+WRITTEN BY: William Goldman  
+WITH: Dustin Hoffman, Laurence Olivier, Roy Scheider, William Devane
+
+Type: Screenings
+
+Novelist and screenwriter William Goldman adapted the screenplay for this suspenseful thriller from his own nail-biting novel. Dustin Hoffman stars as “Babe” Levy, a New York graduate student unexpectedly thrust into a plot of government intrigue involving Nazi war criminals because of his brother’s (Roy Scheider) secret identity as a government agent. Laurence Olivier costars as the iconic villain Dr. Szell in an Oscar-nominated role that was referenced in popular culture for many years and included on the American Film Institute’s 100 Years… series lists for both villains and quotes.</description>
+      <guid isPermaLink="false">019be23b-ab24-271e-b8f6-5b112497356b</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/23LVg9wRLHfPJBqciUijWx/0230aab255e9f752d52853ce05d23423/Apr27_MARATHON_MAN_Bong2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Marathon Man in 4K — May 1</title>
@@ -365,7 +365,9 @@ Ponyo focuses on the friendship between 5-year-old Sosuke and a magical goldfish
     <item>
       <title>Grand Guignol Silent Shorts — May 9</title>
       <link>https://www.academymuseum.org/en/programs/detail/grand-guignol-silent-shorts-019d98b2-6ee0-f832-9f24-2280035ed5e7</link>
-      <description>Saturday, May 9, 2026 at 2 pm
+      <description>In person: Bret Berg, head of theatrical, AGFA
+
+Saturday, May 9, 2026 at 2 pm
 
 Location: Academy Museum of Motion Pictures
 
@@ -412,7 +414,7 @@ WITH: Tre’Zhan Gamble  
 *** 
 The I and S of Lives  
 2021 | 7 min. | USA | Color | Sound | Not Rated | Digital  
-WITH: Jahleel Gardner, Deirdre Davie, Rachel Lane, Will Jones
+WITH: Jahleel Gardner
 ***
 Condor  
 2019 | 8 min. | USA | Black-and-White | Sound | Not Rated | Digital  
@@ -706,7 +708,7 @@ An adaptation of Diana Wynne Jones’s fantasy novel of the same name, the Oscar
       <pubDate>Sat, 16 May 2026 11:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>Inside Jaws: Costuming Characters with Isis Mussenden — May 16</title>
+      <title>Inside Jaws: Costuming Characters — May 16</title>
       <link>https://www.academymuseum.org/en/programs/detail/inside-jaws-costuming-characters-019c7342-69a3-534f-21ed-faf3305454b8</link>
       <description>Saturday, May 16, 2026 at 2 pm
 
@@ -716,8 +718,8 @@ Cost: Free with general admission
 
 Type: Conversations
 
-Costume designer and Academy governor Isis Mussenden gives a 30-minute tour that pieces together the art of costume design in films and the process of creating a character’s identity. The tour will showcase the way the three leading men in Jaws (1975) highlighted their identity through their distinct costumes. 
-Stay for a brief Q&amp;A with Mussenden after the tour.</description>
+A Hollywood costume designer gives a 30-minute tour that pieces together the art of costume design in films and the process of creating a character’s identity. The tour will showcase the way the three leading men in Jaws (1975) highlighted their identity through their distinct costumes. 
+Stay for a brief Q and A after the tour.</description>
       <guid isPermaLink="false">019c7342-69a3-534f-21ed-faf3305454b8</guid>
       <category>Conversations</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/5n5N55ythm5Kad3mhHiSbn/8e3e89c8112c21a787caf9dc725480a9/Jaws_Costume.jpg" length="0" type="image/jpeg"/>
