@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 08:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 08:38:49 +0000</lastBuildDate>
     <item>
       <title>Marathon Man in 4K — May 1</title>
       <link>https://www.academymuseum.org/en/programs/detail/marathon-man-in-4-k-019be23c-0bf6-3483-ce25-9fcbade2a0b2</link>
@@ -31,30 +31,9 @@ Novelist and screenwriter William Goldman adapted the screenplay for this suspen
       <pubDate>Fri, 01 May 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>Nausicaä of the Valley of the Wind — May 2</title>
-      <link>https://www.academymuseum.org/en/programs/detail/nausicaa-of-the-valley-of-the-wind-019be21f-e51e-df9f-f5ac-826673de0d44</link>
-      <description>Saturday, May 2, 2026 at 11 am
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 56m
-
-1984 | 116 min. | Japan | Color | English (Dubbed) | Rated PG | DCP 
-DIRECTED/WRITTEN BY: Hayao Miyazaki 
-WITH: Alison Lohman, Patrick Stewart, Shia LaBeouf, Uma Thurman
-
-Type: Screenings
-
-Hayao Miyazaki’s second feature is based on his 1982 manga of the same name, which he continued writing into the early 1990s. It was the last film he released before founding Studio Ghibli with fellow director Isao Takahata and producer Toshio Suzuki. Miyazaki’s only cinematic foray into pure science fiction, Nausicaä of the Valley of the Wind is set a thousand years after the Seven Days of Fire have devastated civilization, leaving behind a toxic, overgrown jungle. Princess Nausicaä and the people of the valley try to bring balance back into the world by restoring the bond between humanity and Earth. Inspiration for Nausicaä came from the catastrophic mercury pollution of Minamata Bay, which devastated the Minamata community in the mid-20th century.</description>
-      <guid isPermaLink="false">019be21f-e51e-df9f-f5ac-826673de0d44</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/3jrk3xhN3sxAKlKofdJYQD/3aca26861bc5872df631c67c19595cdd/May23_NAUSICAA_FamilyMatinees1GKIDS.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 02 May 2026 11:00:00 -0700</pubDate>
-    </item>
-    <item>
       <title>The Taking of Pelham One Two Three in 35mm — May 2</title>
       <link>https://www.academymuseum.org/en/programs/detail/taking-of-pelham-one-two-three-019c0c85-2c76-b048-af19-337f7260369b</link>
-      <description>Saturday, May 2, 2026 at 2:30 pm
+      <description>Saturday, May 2, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -72,12 +51,33 @@ Expertly directed by Joseph Sargent (Colossus: The Forbin Project, 1970), this c
       <guid isPermaLink="false">019c0c85-2c76-b048-af19-337f7260369b</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/2SML6R6HY1hddDNTNfYet/90b41f72eed013d9348d0080fcc56710/May2_TAKING_OF_PELHAM_ONE_TWO_THREE_Shaw1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 02 May 2026 14:30:00 -0700</pubDate>
+      <pubDate>Sat, 02 May 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Nausicaä of the Valley of the Wind — May 2</title>
+      <link>https://www.academymuseum.org/en/programs/detail/nausicaa-of-the-valley-of-the-wind-019be21f-e51e-df9f-f5ac-826673de0d44</link>
+      <description>Saturday, May 2, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 56m
+
+1984 | 116 min. | Japan | Color | English (Dubbed) | Rated PG | DCP 
+DIRECTED/WRITTEN BY: Hayao Miyazaki 
+WITH: Alison Lohman, Patrick Stewart, Shia LaBeouf, Uma Thurman
+
+Type: Screenings
+
+Hayao Miyazaki’s second feature is based on his 1982 manga of the same name, which he continued writing into the early 1990s. It was the last film he released before founding Studio Ghibli with fellow director Isao Takahata and producer Toshio Suzuki. Miyazaki’s only cinematic foray into pure science fiction, Nausicaä of the Valley of the Wind is set a thousand years after the Seven Days of Fire have devastated civilization, leaving behind a toxic, overgrown jungle. Princess Nausicaä and the people of the valley try to bring balance back into the world by restoring the bond between humanity and Earth. Inspiration for Nausicaä came from the catastrophic mercury pollution of Minamata Bay, which devastated the Minamata community in the mid-20th century.</description>
+      <guid isPermaLink="false">019be21f-e51e-df9f-f5ac-826673de0d44</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/3jrk3xhN3sxAKlKofdJYQD/3aca26861bc5872df631c67c19595cdd/May23_NAUSICAA_FamilyMatinees1GKIDS.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 02 May 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>High and Low (Tengoku to jigoku) in 35mm — May 2</title>
       <link>https://www.academymuseum.org/en/programs/detail/high-and-low-019c0650-a01f-bd6b-7b3a-13eb03ffd415</link>
-      <description>Saturday, May 2, 2026 at 7 pm
+      <description>Saturday, May 2, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -94,7 +94,7 @@ Kingo Gondo (Toshiro Mifune), an executive of a prominent shoe business, mortgag
       <guid isPermaLink="false">019c0650-a01f-bd6b-7b3a-13eb03ffd415</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4YM3wPoNFxv6BLOXnqKZ2j/ccb451620ebef5852814c401a48ede5a/May2_HIGH_AND_LOW_Kiurosawa1MHL.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 02 May 2026 19:00:00 -0700</pubDate>
+      <pubDate>Sat, 02 May 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Tootsie in 35mm — May 3</title>
