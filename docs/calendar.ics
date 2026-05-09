@@ -24,116 +24,116 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:Once Upon a Time in China with Jet Li
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+DTSTAMP:20260509T083716Z
+UID:019d6e27-5fdb-a93e-4e67-0cdc0ff3e52f@academymuseum.org
+CATEGORIES:Screenings
+DESCRIPTION:In person: Actor Jet Li\n\nFriday\, May 8\, 2026\n\nLocation: 
+ Academy Museum of Motion Pictures\n\nRuntime: 2h 14m\n\n1991 | 134 min | H
+ ong Kong | Color | Scope | Cantonese\, English and French with English sub
+ titles | Rated R | DCP \nDIRECTED BY: Tsui Hark \nWRITTEN BY: Tsui Hark\,
+  Yuen Kai-Chi\, Leung Yiu-Ming\, Tang Bik-Yin \nWITH: Jet Li\, Rosamund Kw
+ an\, Yuen Biao\, Jacky Cheung\n\nType: Screenings\n\nMartial arts master a
+ nd Hong Kong film icon Jet Li stars as Chinese folk hero Wong Fei-Hung in 
+ Tsui Hark’s wuxia (a genre focusing on martial artists in ancient China 
+ with fantastical elements) epic. In the late 19th century\, as Western imp
+ erialists threaten Chinese sovereignty\, Wong uses his kung fu mastery to 
+ train a militia to protect a threatened land and national identity. Full o
+ f social and political commentary\, punctuated by jaw-dropping action scen
+ es\, and featuring dazzling choreography and wirework showcasing Li’s re
+ markable acrobatics\, the film launched Li as an international action supe
+ rstar and was followed by five sequels\, as well as a TV series. \nBefore 
+ the screening\, Li will be signing copies of his new book\, Beyond Life an
+ d Death: The Way of True Freedom\, at the Academy Museum Store. The signin
+ g is a separately ticketed event.\nCo-presented by Gold House.
+LOCATION:Academy Museum of Motion Pictures
+URL:https://www.academymuseum.org/en/programs/detail/once-upon-a-time-in-c
+ hina-with-jet-li-019d6e27-5fdb-a93e-4e67-0cdc0ff3e52f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Beard (Akahige) in 35mm
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+DTSTAMP:20260509T083716Z
+UID:019c0656-595b-c83a-0c1b-d2f649f0a9fb@academymuseum.org
+CATEGORIES:Screenings
+DESCRIPTION:Friday\, May 8\, 2026\n\nLocation: Academy Museum of Motion Pi
+ ctures\n\nRuntime: 2h 45m\n\n1965 | 165 min. | Japan | Black-and-White | J
+ apanese with English subtitles | Not Rated | 35mm. \nDIRECTED BY: Akira Ku
+ rosawa\nWRITTEN BY: Akira Kurosawa\, Hideo Oguni\, Ryuzo Kikushima\, Masat
+ o Ide \nBASED ON A STORY BY: Shugoro Yamamoto \nWITH: Toshiro Mifune\, Yu
+ zo Kayama\, Yoshio Tsuchiya\, Tatsuyoshi Ehara\n\nType: Screenings\n\nKuro
+ sawa and Toshiro Mifune’s grand marathon of collaborations\, which yield
+ ed numerous masterpieces\, faces its finish line with a three-hour explora
+ tion of moral values and existential contemplation of humankind\, led by a
+ nother heartfelt performance by Mifune as a humble and compassionate clini
+ c director\, aka Red Beard. He\, welcomes a young doctor\, Yasumoto (Yuzo 
+ Kayama)\, into his small-town practice\, only to discover that his protég
+ é is arrogant\, blinded by ambition\, and reluctant to serve patients wit
+ h low social standing. Kurosawa examines humanity with a thoughtful gaze\,
+  gently excavating the innate goodness of humankind through lessons from b
+ oth life and death.
+LOCATION:Academy Museum of Motion Pictures
+URL:https://www.academymuseum.org/en/programs/detail/red-beard-019c0656-59
+ 5b-c83a-0c1b-d2f649f0a9fb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond Life and Death: The Way of True Freedom Book Signing with A
  uthor Jet Li
-DTSTART;TZID=America/Los_Angeles:20260508T163000
-DTEND;TZID=America/Los_Angeles:20260508T183000
-DTSTAMP:20260508T083712Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+DTSTAMP:20260509T083716Z
 UID:019d8d7c-a646-6ded-bbfc-49a4daf4d7fd@academymuseum.org
 CATEGORIES:Book Signings
 DESCRIPTION:Martial arts legend and international movie star Jet Li signs 
- copies of his insightful new book.\n\nFriday\, May 8\, 2026 at 4:30 pm\n\n
- Location: Academy Museum of Motion Pictures\n\nType: Book Signings\n\nMart
- ial arts champion and international movie star Jet Li signs copies of his 
- insightful new book at the Academy Museum Store.\nAbout the author\nJet Li
-  is an internationally acclaimed martial artist\, actor\, and philanthropi
- st. After rising to fame as a five-time national wushu champion and starri
- ng in Shaolin Temple\, he became a global icon through films such as Hero 
- (2002)\, Fearless (2006)\, and Romeo Must Die (2000). Following a near-dea
- th experience in the 2004 tsunami\, he founded the One Foundation to promo
- te philanthropy and community giving. A student of Tibetan Buddhism for 30
-  years\, Li brings a lifetime of discipline\, reflection\, and spiritual i
- nsight to this deeply personal book.\nAbout the book \nMartial arts legend
-  and international movie star Jet Li distills 10 powerful insights from hi
- s iconic career\, his personal life and philosophies\, and his 30-year Bud
- dhist practice. Jet Li’s story defies legend. Born into extreme hardship
- \, he fought his way to become the youngest national martial arts champion
-  in Chinese history at 12\, dominating opponents twice his size. He then b
- ecame one of the first internationally renowned movie stars from China wit
- h films including Once Upon a Time in China (1991)\, Hero\, and Fearless. 
- These films redefined martial arts for the modern world\, making him a hou
- sehold name. But behind the glory lay a deeper battle: a search for meanin
- g beyond fame\, fortune\, and physical skill. After a near-death encounter
-  in the 2004 tsunami\, Li turned inward\, deepening his study of Tibetan B
- uddhism and dedicating his life to philanthropy\, though he was at the hei
- ght of his Hollywood career. For the very first time\, Li shares the 10 in
- sights that have guided his life\, in which anyone can find wisdom\, guida
- nce\, and power\, including: \nLife is movement\nThe secret to self-defens
- e\nSeparate the bitterness from the pain\nBe a grandson to the world\, and
- \nLearn from everyone\nLi invites readers to share his interior life\, to 
- hear untold stories from his martial arts and film career\, and to meditat
- e with him on the nature of spiritual awakening. If you look deeply\, you 
- can see Li’s life philosophy in many of his movies\, and in Beyond Life 
- and Death\, he fully links his own story and spiritual journey with 10 act
- ionable insights that anyone can apply to live a healthy and happy life.\n
- After the signing\, in a separately ticketed event\, Li will host a screen
- ing of his 1991 film Once Upon a Time in China.
+ copies of his insightful new book.\n\nFriday\, May 8\, 2026\n\nLocation: A
+ cademy Museum of Motion Pictures\n\nType: Book Signings\n\nMartial arts ch
+ ampion and international movie star Jet Li signs copies of his insightful 
+ new book at the Academy Museum Store.\nAbout the author\nJet Li is an inte
+ rnationally acclaimed martial artist\, actor\, and philanthropist. After r
+ ising to fame as a five-time national wushu champion and starring in Shaol
+ in Temple\, he became a global icon through films such as Hero (2002)\, Fe
+ arless (2006)\, and Romeo Must Die (2000). Following a near-death experien
+ ce in the 2004 tsunami\, he founded the One Foundation to promote philanth
+ ropy and community giving. A student of Tibetan Buddhism for 30 years\, Li
+  brings a lifetime of discipline\, reflection\, and spiritual insight to t
+ his deeply personal book.\nAbout the book \nMartial arts legend and intern
+ ational movie star Jet Li distills 10 powerful insights from his iconic ca
+ reer\, his personal life and philosophies\, and his 30-year Buddhist pract
+ ice. Jet Li’s story defies legend. Born into extreme hardship\, he fough
+ t his way to become the youngest national martial arts champion in Chinese
+  history at 12\, dominating opponents twice his size. He then became one o
+ f the first internationally renowned movie stars from China with films inc
+ luding Once Upon a Time in China (1991)\, Hero\, and Fearless. These films
+  redefined martial arts for the modern world\, making him a household name
+ . But behind the glory lay a deeper battle: a search for meaning beyond fa
+ me\, fortune\, and physical skill. After a near-death encounter in the 200
+ 4 tsunami\, Li turned inward\, deepening his study of Tibetan Buddhism and
+  dedicating his life to philanthropy\, though he was at the height of his 
+ Hollywood career. For the very first time\, Li shares the 10 insights that
+  have guided his life\, in which anyone can find wisdom\, guidance\, and p
+ ower\, including: \nLife is movement\nThe secret to self-defense\nSeparate
+  the bitterness from the pain\nBe a grandson to the world\, and\nLearn fro
+ m everyone\nLi invites readers to share his interior life\, to hear untold
+  stories from his martial arts and film career\, and to meditate with him 
+ on the nature of spiritual awakening. If you look deeply\, you can see Li
+ ’s life philosophy in many of his movies\, and in Beyond Life and Death\
+ , he fully links his own story and spiritual journey with 10 actionable in
+ sights that anyone can apply to live a healthy and happy life.\nAfter the 
+ signing\, in a separately ticketed event\, Li will host a screening of his
+  1991 film Once Upon a Time in China.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/beyond-life-and-death
  -the-way-of-true-freedom-book-signing-with-author-jet-li-019d8d7c-a646-6de
  d-bbfc-49a4daf4d7fd
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Beard (Akahige) in 35mm
-DTSTART;TZID=America/Los_Angeles:20260508T190000
-DTEND;TZID=America/Los_Angeles:20260508T203000
-DTSTAMP:20260508T083712Z
-UID:019c0656-595b-c83a-0c1b-d2f649f0a9fb@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Friday\, May 8\, 2026 at 7 pm\n\nLocation: Academy Museum of M
- otion Pictures\n\nRuntime: 2h 45m\n\n1965 | 165 min. | Japan | Black-and-W
- hite | Japanese with English subtitles | Not Rated | 35mm. \nDIRECTED BY: 
- Akira Kurosawa\nWRITTEN BY: Akira Kurosawa\, Hideo Oguni\, Ryuzo Kikushima
- \, Masato Ide \nBASED ON A STORY BY: Shugoro Yamamoto \nWITH: Toshiro Mif
- une\, Yuzo Kayama\, Yoshio Tsuchiya\, Tatsuyoshi Ehara\n\nType: Screenings
- \n\nKurosawa and Toshiro Mifune’s grand marathon of collaborations\, whi
- ch yielded numerous masterpieces\, faces its finish line with a three-hour
-  exploration of moral values and existential contemplation of humankind\, 
- led by another heartfelt performance by Mifune as a humble and compassiona
- te clinic director\, aka Red Beard. He\, welcomes a young doctor\, Yasumot
- o (Yuzo Kayama)\, into his small-town practice\, only to discover that his
-  protégé is arrogant\, blinded by ambition\, and reluctant to serve pati
- ents with low social standing. Kurosawa examines humanity with a thoughtfu
- l gaze\, gently excavating the innate goodness of humankind through lesson
- s from both life and death.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/red-beard-019c0656-59
- 5b-c83a-0c1b-d2f649f0a9fb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Upon a Time in China with Jet Li
-DTSTART;TZID=America/Los_Angeles:20260508T193000
-DTEND;TZID=America/Los_Angeles:20260508T223000
-DTSTAMP:20260508T083712Z
-UID:019d6e27-5fdb-a93e-4e67-0cdc0ff3e52f@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:In person: Actor Jet Li\n\nFriday\, May 8\, 2026 at 7:30 pm\n\
- nLocation: Academy Museum of Motion Pictures\n\nRuntime: 2h 14m\n\n1991 | 
- 134 min | Hong Kong | Color | Scope | Cantonese\, English and French with 
- English subtitles | Rated R | DCP \nDIRECTED BY: Tsui Hark \nWRITTEN BY: 
- Tsui Hark\, Yuen Kai-Chi\, Leung Yiu-Ming\, Tang Bik-Yin \nWITH: Jet Li\, 
- Rosamund Kwan\, Yuen Biao\, Jacky Cheung\n\nType: Screenings\n\nMartial ar
- ts master and Hong Kong film icon Jet Li stars as Chinese folk hero Wong F
- ei-Hung in Tsui Hark’s wuxia (a genre focusing on martial artists in anc
- ient China with fantastical elements) epic. In the late 19th century\, as 
- Western imperialists threaten Chinese sovereignty\, Wong uses his kung fu 
- mastery to train a militia to protect a threatened land and national ident
- ity. Full of social and political commentary\, punctuated by jaw-dropping 
- action scenes\, and featuring dazzling choreography and wirework showcasin
- g Li’s remarkable acrobatics\, the film launched Li as an international 
- action superstar and was followed by five sequels\, as well as a TV series
- . \nBefore the screening\, Li will be signing copies of his new book\, Bey
- ond Life and Death: The Way of True Freedom\, at the Academy Museum Store.
-  The signing is a separately ticketed event.\nCo-presented by Gold House.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/once-upon-a-time-in-c
- hina-with-jet-li-019d6e27-5fdb-a93e-4e67-0cdc0ff3e52f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ponyo
 DTSTART;TZID=America/Los_Angeles:20260509T110000
 DTEND;TZID=America/Los_Angeles:20260509T121500
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be21f-9378-34da-84cd-78300fe63dc9@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 9\, 2026 at 11 am\n\nLocation: Academy Museum o
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Guignol Silent Shorts
 DTSTART;TZID=America/Los_Angeles:20260509T140000
 DTEND;TZID=America/Los_Angeles:20260509T160000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019d98b2-6ee0-f832-9f24-2280035ed5e7@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Bret Berg\, head of theatrical\, AGFA\n\nSaturday\,
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:Bearing Witness: 10 Films by Kevin Jerome Everson
 DTSTART;TZID=America/Los_Angeles:20260509T190000
 DTEND;TZID=America/Los_Angeles:20260509T203000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019db266-9028-6725-d4cc-7e6cacb94373@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: filmmaker Kevin Jerome Everson\n\nSaturday\, May 9\
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:Terms of Endearment in 35mm
 DTSTART;TZID=America/Los_Angeles:20260510T140000
 DTEND;TZID=America/Los_Angeles:20260510T160000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be227-f630-7bc5-f8b7-e5be86b1f82f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 10\, 2026 at 2 pm\n\nLocation: Academy Museum of 
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:The Wages of Fear in 4K
 DTSTART;TZID=America/Los_Angeles:20260511T143000
 DTEND;TZID=America/Los_Angeles:20260511T163000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be23d-3b37-f09b-fc4c-081fba6522a3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, May 11\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -304,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:Rhapsody in August (Hachigatsu no kyoshikyoku) in 35mm
 DTSTART;TZID=America/Los_Angeles:20260511T193000
 DTEND;TZID=America/Los_Angeles:20260511T203000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019d44de-c65c-92fc-1959-2d5c17be738a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, May 11\, 2026 at 7:30 pm\n\nLocation: Academy Museum 
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:The Wages of Fear in 4K
 DTSTART;TZID=America/Los_Angeles:20260513T143000
 DTEND;TZID=America/Los_Angeles:20260513T163000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be23e-2972-eb73-6f3d-405c6ec15392@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, May 13\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening of Short Films from Asian American Filmmakers
 DTSTART;TZID=America/Los_Angeles:20260513T193000
 DTEND;TZID=America/Los_Angeles:20260513T223000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be210-a94b-d065-dfac-b8b273f32904@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Short Films Branch \nIn person: Academy Govern
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Night and the City in 35mm nitrate
 DTSTART;TZID=America/Los_Angeles:20260514T193000
 DTEND;TZID=America/Los_Angeles:20260514T203000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c0651-3856-5dfc-6db8-c395e72fb72a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, May 14\, 2026 at 7:30 pm\n\nLocation: Academy Museu
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Community Conversation: Representation in Animation
 DTSTART;TZID=America/Los_Angeles:20260515T120000
 DTEND;TZID=America/Los_Angeles:20260515T130000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019d2732-52a9-a9c4-1341-06b9de4cac7b@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Angela Sanchez of LatinX in Animation and Austin Faber of Blac
@@ -447,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:The Wages of Fear in 4K
 DTSTART;TZID=America/Los_Angeles:20260515T143000
 DTEND;TZID=America/Los_Angeles:20260515T163000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be23e-8e89-d267-ff1c-c919de073eae@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, May 15\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -474,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:I Know Where I’m Going!
 DTSTART;TZID=America/Los_Angeles:20260515T193000
 DTEND;TZID=America/Los_Angeles:20260515T213000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c0657-44a2-f54a-81a0-551563c99dd2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, May 15\, 2026 at 7:30 pm\n\nLocation: Academy Museum 
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:Howl’s Moving Castle
 DTSTART;TZID=America/Los_Angeles:20260516T110000
 DTEND;TZID=America/Los_Angeles:20260516T121500
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be220-5fd1-2ac7-7ae3-ec50e4adf5b3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 16\, 2026 at 11 am\n\nLocation: Academy Museum 
@@ -518,19 +518,19 @@ URL:https://www.academymuseum.org/en/programs/detail/howls-moving-castle-0
  19be220-5fd1-2ac7-7ae3-ec50e4adf5b3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inside Jaws: Costuming Characters
+SUMMARY:Inside Jaws: Costuming Characters with Tracy Tynan
 DTSTART;TZID=America/Los_Angeles:20260516T140000
 DTEND;TZID=America/Los_Angeles:20260516T150000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c7342-69a3-534f-21ed-faf3305454b8@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Saturday\, May 16\, 2026 at 2 pm\n\nLocation: Level 4\n\nCost:
-  Free with general admission\n\nType: Conversations\n\nA Hollywood costume
-  designer gives a 30-minute tour that pieces together the art of costume d
- esign in films and the process of creating a character’s identity. The t
- our will showcase the way the three leading men in Jaws (1975) highlighted
-  their identity through their distinct costumes. \nStay for a brief Q&A af
- ter the tour.
+  Free with general admission\n\nType: Conversations\n\nCostume designer an
+ d Academy member Tracy Tynan gives a 30-minute tour unveiling the art of c
+ ostume design in films and the process of creating a character’s identit
+ y. The tour showcases the way the three leading men in Jaws (1975) highlig
+ hted their personas through their distinct costumes.\n\nStay for a brief Q
+ &A with Tynan after the tour.
 LOCATION:Level 4
 URL:https://www.academymuseum.org/en/programs/detail/inside-jaws-costuming
  -characters-019c7342-69a3-534f-21ed-faf3305454b8
@@ -539,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:Robin and Marian in 4K
 DTSTART;TZID=America/Los_Angeles:20260516T143000
 DTEND;TZID=America/Los_Angeles:20260516T160000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c0657-fdeb-4772-f25d-e687eb4bf90e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 16\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -563,7 +563,7 @@ BEGIN:VEVENT
 SUMMARY:Odd Man Out
 DTSTART;TZID=America/Los_Angeles:20260516T193000
 DTEND;TZID=America/Los_Angeles:20260516T203000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c0658-767a-4e1d-1109-50eca3c0581d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 16\, 2026 at 7:30 pm\n\nLocation: Academy Museu
@@ -587,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:Secrets & Lies
 DTSTART;TZID=America/Los_Angeles:20260517T140000
 DTEND;TZID=America/Los_Angeles:20260517T160000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be228-4c81-ee7e-c1b4-a971b99149cf@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 17\, 2026 at 2 pm\n\nLocation: Academy Museum of 
@@ -612,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:Black Sunday in 35mm
 DTSTART;TZID=America/Los_Angeles:20260517T143000
 DTEND;TZID=America/Los_Angeles:20260517T160000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c0659-003c-33c2-6b9a-8b303cabef76@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 17\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -636,7 +636,7 @@ BEGIN:VEVENT
 SUMMARY:Pool of London
 DTSTART;TZID=America/Los_Angeles:20260517T183000
 DTEND;TZID=America/Los_Angeles:20260517T203000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c0659-a2fd-1d33-5589-96ff6eeda5fd@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 17\, 2026 at 6:30 pm\n\nLocation: Academy Museum 
@@ -660,7 +660,7 @@ BEGIN:VEVENT
 SUMMARY:Barton Fink in 35mm
 DTSTART;TZID=America/Los_Angeles:20260518T143000
 DTEND;TZID=America/Los_Angeles:20260518T163000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be23e-fa7c-bce5-3e19-60258b8caa53@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, May 18\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:The Passionate Friends
 DTSTART;TZID=America/Los_Angeles:20260518T193000
 DTEND;TZID=America/Los_Angeles:20260518T203000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c065b-931a-f68a-6dc8-35c6665ebbf8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, May 18\, 2026 at 7:30 pm\n\nLocation: Academy Museum 
@@ -714,7 +714,7 @@ BEGIN:VEVENT
 SUMMARY:Barton Fink in 35mm
 DTSTART;TZID=America/Los_Angeles:20260520T143000
 DTEND;TZID=America/Los_Angeles:20260520T163000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be23f-22c8-e9aa-fec2-4153a597de89@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, May 20\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -743,7 +743,7 @@ BEGIN:VEVENT
 SUMMARY:Being There in 35mm
 DTSTART;TZID=America/Los_Angeles:20260520T193000
 DTEND;TZID=America/Los_Angeles:20260520T223000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be210-d889-23c4-fc46-fb61ed623eb5@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Sound Branch \nIn person: cinematographer Cale
@@ -771,7 +771,7 @@ BEGIN:VEVENT
 SUMMARY:The Hidden Room (aka Obsession)
 DTSTART;TZID=America/Los_Angeles:20260521T193000
 DTEND;TZID=America/Los_Angeles:20260521T203000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c065b-dc76-64a4-0aea-86ab36464280@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, May 21\, 2026 at 7:30 pm\n\nLocation: Academy Museu
@@ -796,7 +796,7 @@ BEGIN:VEVENT
 SUMMARY:Barton Fink in 35mm
 DTSTART;TZID=America/Los_Angeles:20260522T143000
 DTEND;TZID=America/Los_Angeles:20260522T163000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be23f-4f4e-d945-a75a-c25d2a4f792e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, May 22\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -825,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:Dersu Uzala in 35mm
 DTSTART;TZID=America/Los_Angeles:20260522T193000
 DTEND;TZID=America/Los_Angeles:20260522T203000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c065c-245c-46fd-e698-58e38fa15a96@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Anne McKnight\, associate professor of Japanese and
@@ -852,7 +852,7 @@ BEGIN:VEVENT
 SUMMARY:Kiki’s Delivery Service
 DTSTART;TZID=America/Los_Angeles:20260523T110000
 DTEND;TZID=America/Los_Angeles:20260523T121500
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be21f-5322-96c7-9e6c-1577c53dc3f3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 23\, 2026 at 11 am\n\nLocation: Academy Museum 
@@ -877,7 +877,7 @@ BEGIN:VEVENT
 SUMMARY:The Yellow Balloon
 DTSTART;TZID=America/Los_Angeles:20260523T143000
 DTEND;TZID=America/Los_Angeles:20260523T160000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c53be-67ce-e9e2-af0c-cb09a7d68c53@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 23\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -901,7 +901,7 @@ BEGIN:VEVENT
 SUMMARY:Ran (Chaos) in 35mm
 DTSTART;TZID=America/Los_Angeles:20260523T193000
 DTEND;TZID=America/Los_Angeles:20260523T203000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c065c-c773-0043-1e8d-ffaa8ec242b0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Academy Collection and Preservation Executive Vice 
@@ -931,7 +931,7 @@ BEGIN:VEVENT
 SUMMARY:Erin Brockovich in 4K
 DTSTART;TZID=America/Los_Angeles:20260524T140000
 DTEND;TZID=America/Los_Angeles:20260524T160000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be228-9540-a09b-9917-1ac6d9d43cd6@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 24\, 2026 at 2 pm\n\nLocation: Academy Museum of 
@@ -957,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:Brighton Rock in 35mm
 DTSTART;TZID=America/Los_Angeles:20260524T143000
 DTEND;TZID=America/Los_Angeles:20260524T160000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c065d-45d5-fcd1-36cd-b9c126339a8f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 24\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -984,7 +984,7 @@ BEGIN:VEVENT
 SUMMARY:Kagemusha (The Shadow Warrior) in 35mm
 DTSTART;TZID=America/Los_Angeles:20260524T183000
 DTEND;TZID=America/Los_Angeles:20260524T203000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c065d-e0d2-dc4e-d8c9-9f37095148b3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Kerim Yasar\, associate professor of East Asian lan
@@ -1010,7 +1010,7 @@ BEGIN:VEVENT
 SUMMARY:Cure in 4K
 DTSTART;TZID=America/Los_Angeles:20260525T143000
 DTEND;TZID=America/Los_Angeles:20260525T163000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be23f-e508-83c4-5f7c-abd6ae912964@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, May 25\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -1035,7 +1035,7 @@ BEGIN:VEVENT
 SUMMARY:Cure in 4K
 DTSTART;TZID=America/Los_Angeles:20260527T143000
 DTEND;TZID=America/Los_Angeles:20260527T163000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be240-02e6-aa1f-4267-b03499cfb847@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, May 27\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -1060,7 +1060,7 @@ BEGIN:VEVENT
 SUMMARY:Terminator 2: Judgment Day in 4K
 DTSTART;TZID=America/Los_Angeles:20260527T193000
 DTEND;TZID=America/Los_Angeles:20260527T223000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be211-1825-8421-38bd-c9862eb8a547@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: visual effects supervisor Dennis Muren\, Academy Go
@@ -1090,7 +1090,7 @@ BEGIN:VEVENT
 SUMMARY:Hell Is a City in 35mm
 DTSTART;TZID=America/Los_Angeles:20260527T200000
 DTEND;TZID=America/Los_Angeles:20260527T213000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c0661-730d-3658-8771-a0060f094ef0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, May 27\, 2026 at 8 pm\n\nLocation: Academy Museum 
@@ -1117,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:Gallery Spotlight: Shaping Hollywoodland
 DTSTART;TZID=America/Los_Angeles:20260529T120000
 DTEND;TZID=America/Los_Angeles:20260529T133000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019a0315-24e2-4f88-59de-e64d5b51f067@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Friday\, May 29\, 2026 at Noon–1pm\n\nLocation: Spielberg Fa
@@ -1143,7 +1143,7 @@ BEGIN:VEVENT
 SUMMARY:Cure in 4K
 DTSTART;TZID=America/Los_Angeles:20260529T143000
 DTEND;TZID=America/Los_Angeles:20260529T163000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c0c71-49e1-2963-eec4-a3e2c887fce8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, May 29\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -1168,7 +1168,7 @@ BEGIN:VEVENT
 SUMMARY:Dreams (Yume) in 35mm
 DTSTART;TZID=America/Los_Angeles:20260529T193000
 DTEND;TZID=America/Los_Angeles:20260529T213000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c0661-f193-f899-3028-5842d51ed060@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, May 29\, 2026 at 7:30 pm\n\nLocation: Academy Museum 
@@ -1195,7 +1195,7 @@ BEGIN:VEVENT
 SUMMARY:The Boy and the Heron
 DTSTART;TZID=America/Los_Angeles:20260530T110000
 DTEND;TZID=America/Los_Angeles:20260530T121500
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be220-9c0e-c24b-a8ce-9d4d515e0c35@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, May 30\, 2026 at 11 am\n\nL
@@ -1221,7 +1221,7 @@ BEGIN:VEVENT
 SUMMARY:The Deep in 35mm
 DTSTART;TZID=America/Los_Angeles:20260530T143000
 DTEND;TZID=America/Los_Angeles:20260530T160000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c0662-8062-5739-9390-cffa085d0882@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 30\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -1245,7 +1245,7 @@ BEGIN:VEVENT
 SUMMARY:Madadayo (No\, Not Yet!) in 35mm
 DTSTART;TZID=America/Los_Angeles:20260530T193000
 DTEND;TZID=America/Los_Angeles:20260530T213000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019c0663-453c-82a2-5032-4355b581436b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 30\, 2026 at 7:30 pm\n\nLocation: Academy Museu
@@ -1269,7 +1269,7 @@ BEGIN:VEVENT
 SUMMARY:One Battle After Another in 70mm
 DTSTART;TZID=America/Los_Angeles:20260531T140000
 DTEND;TZID=America/Los_Angeles:20260531T160000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be229-2834-8b0c-afd0-9de09c933efd@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 31\, 2026 at 2 pm\n\nLocation: Academy Museum of 
@@ -1295,7 +1295,7 @@ BEGIN:VEVENT
 SUMMARY:Gentlemen Prefer Blondes
 DTSTART;TZID=America/Los_Angeles:20260531T183000
 DTEND;TZID=America/Los_Angeles:20260531T203000
-DTSTAMP:20260508T083712Z
+DTSTAMP:20260509T083716Z
 UID:019be22e-7c97-f099-7969-92ca5e9dcb83@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 31\, 2026 at 6:30 pm\n\nLocation: Academy Museum 
