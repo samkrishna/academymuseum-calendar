@@ -7,36 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 09:07:38 +0000</lastBuildDate>
-    <item>
-      <title>The Wages of Fear in 4K — May 13</title>
-      <link>https://www.academymuseum.org/en/programs/detail/wages-of-fear-019be23e-2972-eb73-6f3d-405c6ec15392</link>
-      <description>Wednesday, May 13, 2026 at 2:30 pm
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 2h 35m
-
-1953 | 155 min. | France, Italy | Black-and-White | French with English subtitles | Not Rated | 4K DCP 
-DIRECTED BY: Henri-Georges Clouzot 
-WRITTEN BY: Henri-Georges Clouzot, Jérôme Géronimi 
-WITH: Yves Montand, Charles Vanel, Peter van Eyck, Folco Lulli
-
-Type: Screenings
-
-Writer-director Henri-Georges Clouzot (Diabolique, 1955) adapted Georges Arnaud’s 1950 novel for this intense thriller, which won the Golden Bear at the Berlin International Film Festival and the Palme d’Or at Cannes. Yves Montand plays Mario, a playboy stuck in a remote South American town. Down on his luck, he joins three other desperate men in a death-defying task: driving two trucks loaded with nitroglycerine over treacherous mountain roads to put out an oil well fire. Bong Joon Ho told an interviewer in 2020 that this was one of two films he saw when he was nine that inspired him to become a film director; the other was Psycho (1960). William Friedkin remade the story in English in 1977 as Sorcerer.</description>
-      <guid isPermaLink="false">019be23e-2972-eb73-6f3d-405c6ec15392</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4gD1Dx0vlfWxmgYxEmRDcc/95bae2dda0b5ac569a50fad7b81725e2/May11_WAGES_OF_FEAR_Bong2Janus.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 14:30:00 -0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 09:01:55 +0000</lastBuildDate>
     <item>
       <title>An Evening of Short Films from Asian American Filmmakers — May 13</title>
       <link>https://www.academymuseum.org/en/programs/detail/an-evening-of-short-films-from-asian-american-filmmakers-019be210-a94b-d065-dfac-b8b273f32904</link>
       <description>Selected by the Short Films Branch 
 In person: Academy Governor Chris Tashima and filmmakers Andrew Ahn, Nazrin Choudhury, Jon M. Chu, Arthur Dong, and Masami Kawai
 
-Wednesday, May 13, 2026 at 7:30 pm
+Wednesday, May 13, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -79,7 +57,29 @@ The Academy is celebrating Asian American, Native Hawaiian, and Pacific Islander
       <guid isPermaLink="false">019be210-a94b-d065-dfac-b8b273f32904</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/2OPJ09NARkijkCX7RT4AyG/6223ed3202fc5f9d1956dd2632131617/May13_BEAD_GAME_BranchSelects1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 19:30:00 -0700</pubDate>
+      <pubDate>Wed, 13 May 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Wages of Fear in 4K — May 13</title>
+      <link>https://www.academymuseum.org/en/programs/detail/wages-of-fear-019be23e-2972-eb73-6f3d-405c6ec15392</link>
+      <description>Wednesday, May 13, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 2h 35m
+
+1953 | 155 min. | France, Italy | Black-and-White | French with English subtitles | Not Rated | 4K DCP 
+DIRECTED BY: Henri-Georges Clouzot 
+WRITTEN BY: Henri-Georges Clouzot, Jérôme Géronimi 
+WITH: Yves Montand, Charles Vanel, Peter van Eyck, Folco Lulli
+
+Type: Screenings
+
+Writer-director Henri-Georges Clouzot (Diabolique, 1955) adapted Georges Arnaud’s 1950 novel for this intense thriller, which won the Golden Bear at the Berlin International Film Festival and the Palme d’Or at Cannes. Yves Montand plays Mario, a playboy stuck in a remote South American town. Down on his luck, he joins three other desperate men in a death-defying task: driving two trucks loaded with nitroglycerine over treacherous mountain roads to put out an oil well fire. Bong Joon Ho told an interviewer in 2020 that this was one of two films he saw when he was nine that inspired him to become a film director; the other was Psycho (1960). William Friedkin remade the story in English in 1977 as Sorcerer.</description>
+      <guid isPermaLink="false">019be23e-2972-eb73-6f3d-405c6ec15392</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4gD1Dx0vlfWxmgYxEmRDcc/95bae2dda0b5ac569a50fad7b81725e2/May11_WAGES_OF_FEAR_Bong2Janus.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 May 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Night and the City in 35mm nitrate — May 14</title>
@@ -929,7 +929,7 @@ In a separately ticketed event after the signing, Joshua John Miller joins the A
 About the authorsJoshua John Miller is a novelist, actor, and director. With partner Mark Fortin, he cocreated the hit USA/Netflix series Queen of the South and cowrote and produced Sony’s critically acclaimed The Final Girls. He is producing the forthcoming Trapeze, based on the diary by Anaïs Nin, with Fortin, Angelina Jolie, and Pablo Larraín. While an undergrad at Yale University, he published his first novel, The Mao Game. His writing has appeared in Harper’s Bazaar and Esquire. Miller is completing his second novel, I’ll Be Your Mirror.
 Mark A. Fortin was born in Montreal, Québec, and graduated from Emerson College (BFA) and the American Repertory Theater at Harvard University (MFA). He and his partner, Joshua John Miller, wrote and produced The Final Girls and created Netflix's Queen of the South. They are producing the forthcoming Trapeze, based on the diary by Anaïs Nin, with Miller, Angelina Jolie, and Pablo Larraín. He is also at work on another book, Little Death, about the late writer/director James Bridges. 
 Bernard of Hollywood was the most sought-after photographer of Hollywood’s Golden Age. He was the first still photographer to be honored by the Academy of Motion Picture Arts and Sciences in 1984 with an exhibition of 150 of his photographs of such luminaries as Clark Gable, Marilyn Monroe, Elizabeth Taylor, Gregory Peck, John Wayne, Marlene Dietrich, and many others.
-About the bookThe Marilyn Monroe Century is a lavishly produced tribute to Marilyn Monroe on her 100th birthday, documenting her transformation from Norma Jeane to Marilyn Monroe through never-before-seen photographs and diary entries by Bernard of Hollywood.Published to commemorate Marilyn Monroe’s 100th birthday (June 1, 2026), this visual biography draws on never-before-seen photographs and personal diaries to reveal a more intimate portrait of the icon.
+About the bookThe Marilyn Monroe Century is a lavishly produced tribute to Marilyn Monroe on her 100th birthday, documenting her transformation from Norma Jeane to Marilyn Monroe through never-before-seen photographs and diary entries by Bernard of Hollywood. Published to commemorate Marilyn Monroe’s 100th birthday (June 1, 2026), this visual biography draws on never-before-seen photographs and personal diaries to reveal a more intimate portrait of the icon.
 Featuring rare photographs by Bruno Bernard, also known as Bernard of Hollywood, that have never been publicly released, the book traces the emotional and artistic evolution of Norma Jeane Mortenson into Marilyn Monroe. 
 More than a collection of photographs, The Marilyn Monroe Century unfolds as a cinematic narrative. Bernard was the only photographer who witnessed and helped shape the full arc of Norma Jeane’s metamorphosis into Marilyn Monroe.</description>
       <guid isPermaLink="false">019e18f1-53a3-2e7a-3597-0b327550a891</guid>
@@ -2549,6 +2549,7 @@ Louis Malle’s directorial debut at age 24 is one of the most significant contr
       <title>Careful in 4K with Guy Maddin — Jul 11</title>
       <link>https://www.academymuseum.org/en/programs/detail/careful-with-guy-maddin-019dd537-2e34-6c78-8d7f-584841b78a06</link>
       <description>US restoration premiere
+In person: director Guy Maddin and filmmaker and author Sandi Tan
 
 Saturday, July 11, 2026 at 7:30 pm
 
@@ -3648,9 +3649,7 @@ Diane Lane received an Oscar nomination for her remarkable portrayal of Connie S
     <item>
       <title>Scooby-Doo in 35mm — Aug 15</title>
       <link>https://www.academymuseum.org/en/programs/detail/scooby-doo-019db103-7ebb-e23a-c52a-b153e188f713</link>
-      <description>Accessible screening
-
-Saturday, August 15, 2026 at 11 am
+      <description>Saturday, August 15, 2026 at 11 am
 
 Location: Academy Museum of Motion Pictures
 
