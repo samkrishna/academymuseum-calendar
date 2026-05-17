@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 08:39:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 08:47:35 +0000</lastBuildDate>
     <item>
       <title>I Know Where I’m Going! — May 15</title>
       <link>https://www.academymuseum.org/en/programs/detail/i-know-where-im-going-019c0657-44a2-f54a-81a0-551563c99dd2</link>
@@ -71,49 +71,9 @@ Marge Dean, Head of Animation Studio at Skybound Entertainment, moderates.</desc
       <pubDate>Fri, 15 May 2026 12:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>Howl’s Moving Castle — May 16</title>
-      <link>https://www.academymuseum.org/en/programs/detail/howls-moving-castle-019be220-5fd1-2ac7-7ae3-ec50e4adf5b3</link>
-      <description>Saturday, May 16, 2026 at 11 am
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 59m
-
-2004 | 119 min. | Japan | Color | English (Dubbed) | Rated PG | DCP
-DIRECTED/WRITTEN BY: Hayao Miyazaki
-WITH: Jean Simmons, Christian Bale, Lauren Bacall, Blythe Danner
-
-Type: Screenings
-
-An adaptation of Diana Wynne Jones’s fantasy novel of the same name, the Oscar-nominated Howl’s Moving Castle is a pitch-perfect fairy tale about aging and war, set in a dazzling steampunk world. When young hatmaker Sophie is transformed into a 90-year-old woman by the vengeful Witch of the Waste, she seeks to break the curse with the help of the enigmatic wizard Howl, the fire demon Calcifer, and the magical moving castle they inhabit.</description>
-      <guid isPermaLink="false">019be220-5fd1-2ac7-7ae3-ec50e4adf5b3</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/1PA0yA1eXQLueJlcs8Pb5m/c021858d6f176b9a185c51002d515aa6/May16_HOWLS_MOVING_CASTLE_FamilyMatinees1GKIDS.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 16 May 2026 11:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Inside Jaws: Costuming Characters with Tracy Tynan — May 16</title>
-      <link>https://www.academymuseum.org/en/programs/detail/inside-jaws-costuming-characters-019c7342-69a3-534f-21ed-faf3305454b8</link>
-      <description>Saturday, May 16, 2026 at 2 pm
-
-Location: Level 4
-
-Cost: Free with general admission
-
-Type: Conversations
-
-Costume designer and Academy member Tracy Tynan gives a 30-minute tour unveiling the art of costume design in films and the process of creating a character’s identity. The tour showcases the way the three leading men in Jaws (1975) highlighted their personas through their distinct costumes.
-
-Stay for a brief Q&amp;A with Tynan after the tour.</description>
-      <guid isPermaLink="false">019c7342-69a3-534f-21ed-faf3305454b8</guid>
-      <category>Conversations</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/5n5N55ythm5Kad3mhHiSbn/8e3e89c8112c21a787caf9dc725480a9/Jaws_Costume.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 16 May 2026 14:00:00 -0700</pubDate>
-    </item>
-    <item>
       <title>Robin and Marian in 4K — May 16</title>
       <link>https://www.academymuseum.org/en/programs/detail/robin-and-marian-in-4-k-019c0657-fdeb-4772-f25d-e687eb4bf90e</link>
-      <description>Saturday, May 16, 2026 at 2:30 pm
+      <description>Saturday, May 16, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -131,12 +91,33 @@ Richard Lester (The Three Musketeers, 1973) directed the tragicomic original scr
       <guid isPermaLink="false">019c0657-fdeb-4772-f25d-e687eb4bf90e</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/7vB9dxGLD6q5cvQ5AnbSRk/f47f6ad4c5355207d5ad377a396f01f0/May16_ROBIN_AND_MARIAN_Shaw1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 16 May 2026 14:30:00 -0700</pubDate>
+      <pubDate>Sat, 16 May 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Howl’s Moving Castle — May 16</title>
+      <link>https://www.academymuseum.org/en/programs/detail/howls-moving-castle-019be220-5fd1-2ac7-7ae3-ec50e4adf5b3</link>
+      <description>Saturday, May 16, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 59m
+
+2004 | 119 min. | Japan | Color | English (Dubbed) | Rated PG | DCP
+DIRECTED/WRITTEN BY: Hayao Miyazaki
+WITH: Jean Simmons, Christian Bale, Lauren Bacall, Blythe Danner
+
+Type: Screenings
+
+An adaptation of Diana Wynne Jones’s fantasy novel of the same name, the Oscar-nominated Howl’s Moving Castle is a pitch-perfect fairy tale about aging and war, set in a dazzling steampunk world. When young hatmaker Sophie is transformed into a 90-year-old woman by the vengeful Witch of the Waste, she seeks to break the curse with the help of the enigmatic wizard Howl, the fire demon Calcifer, and the magical moving castle they inhabit.</description>
+      <guid isPermaLink="false">019be220-5fd1-2ac7-7ae3-ec50e4adf5b3</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/1PA0yA1eXQLueJlcs8Pb5m/c021858d6f176b9a185c51002d515aa6/May16_HOWLS_MOVING_CASTLE_FamilyMatinees1GKIDS.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Odd Man Out — May 16</title>
       <link>https://www.academymuseum.org/en/programs/detail/odd-man-out-019c0658-767a-4e1d-1109-50eca3c0581d</link>
-      <description>Saturday, May 16, 2026 at 7:30 pm
+      <description>Saturday, May 16, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -154,7 +135,26 @@ Shooting on the streets of West Belfast in Northern Ireland and in Hackney, Lond
       <guid isPermaLink="false">019c0658-767a-4e1d-1109-50eca3c0581d</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/6SYU12rVuFXWuI0S9vEaN7/98dfc3b1662d577ea36fcd39443109b8/May16_ODD_MAN_OUT_GreatExpectations1MHL.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 16 May 2026 19:30:00 -0700</pubDate>
+      <pubDate>Sat, 16 May 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Inside Jaws: Costuming Characters with Tracy Tynan — May 16</title>
+      <link>https://www.academymuseum.org/en/programs/detail/inside-jaws-costuming-characters-019c7342-69a3-534f-21ed-faf3305454b8</link>
+      <description>Saturday, May 16, 2026 at 2pm
+
+Location: Level 4
+
+Cost: Free with general admission
+
+Type: Conversations
+
+Costume designer and Academy member Tracy Tynan gives a 30-minute tour unveiling the art of costume design in films and the process of creating a character’s identity. The tour showcases the way the three leading men in Jaws (1975) highlighted their personas through their distinct costumes.
+
+Stay for a brief Q&amp;A with Tynan after the tour.</description>
+      <guid isPermaLink="false">019c7342-69a3-534f-21ed-faf3305454b8</guid>
+      <category>Conversations</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/5n5N55ythm5Kad3mhHiSbn/8e3e89c8112c21a787caf9dc725480a9/Jaws_Costume.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 14:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Secrets &amp; Lies — May 17</title>
