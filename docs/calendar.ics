@@ -24,302 +24,64 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:I Know Where I’m Going!
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-DTSTAMP:20260518T091849Z
-UID:019c0657-44a2-f54a-81a0-551563c99dd2@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Friday\, May 15\, 2026\n\nLocation: Academy Museum of Motion P
- ictures\n\nRuntime: 1h 32m\n\n1945 | 92 min. | UK | Black-and-White | Engl
- ish\, Scottish Gaelic | Not Rated | DCP \nDIRECTED/WRITTEN BY: Michael Pow
- ell\, Emeric Pressburger\nWITH: Wendy Hiller\, Roger Livesey\, Pamela Brow
- n\, Finlay Currie\n\nType: Screenings\n\nFor all of her 30 years\, nothing
-  has stopped headstrong Joan Webster (Wendy Hiller) and her persistent mar
- ch toward her goals. Her latest: holy matrimony with a business magnate tw
- ice her age\, whom she hopes to wed in the Scottish Hebrides. When relentl
- ess storms prevent her from completing her journey\, she succumbs to the c
- harms of the place\, and of one local in particular\, who might be the fir
- st person ever to slow her down. \nWritten in four days and praised by Ray
- mond Chandler for its evocation of the senses\, this romantic tale reaches
-  folkloric heights thanks to detailed location shooting and the unmatched 
- world-building of production designer Alfred Junge.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/i-know-where-im-going
- -019c0657-44a2-f54a-81a0-551563c99dd2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wages of Fear in 4K
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-DTSTAMP:20260518T091849Z
-UID:019be23e-8e89-d267-ff1c-c919de073eae@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Friday\, May 15\, 2026\n\nLocation: Academy Museum of Motion P
- ictures\n\nRuntime: 2h 35m\n\n1953 | 155 min. | France\, Italy | Black-and
- -White | French with English subtitles | Not Rated | 4K DCP \nDIRECTED BY:
-  Henri-Georges Clouzot \nWRITTEN BY: Henri-Georges Clouzot\, Jérôme Gér
- onimi \nWITH: Yves Montand\, Charles Vanel\, Peter van Eyck\, Folco Lulli\
- n\nType: Screenings\n\nWriter-director Henri-Georges Clouzot (Diabolique\,
-  1955) adapted Georges Arnaud’s 1950 novel for this intense thriller\, w
- hich won the Golden Bear at the Berlin International Film Festival and the
-  Palme d’Or at Cannes. Yves Montand plays Mario\, a playboy stuck in a r
- emote South American town. Down on his luck\, he joins three other despera
- te men in a death-defying task: driving two trucks loaded with nitroglycer
- ine over treacherous mountain roads to put out an oil well fire. Bong Joon
-  Ho told an interviewer in 2020 that this was one of two films he saw when
-  he was nine that inspired him to become a film director\; the other was P
- sycho (1960). William Friedkin remade the story in English in 1977 as Sorc
- erer.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/an-angel-at-my-table-
- 019be23e-8e89-d267-ff1c-c919de073eae
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Conversation: Representation in Animation
-DTSTART;TZID=America/Los_Angeles:20260515T120000
-DTEND;TZID=America/Los_Angeles:20260515T133000
-DTSTAMP:20260518T091849Z
-UID:019d2732-52a9-a9c4-1341-06b9de4cac7b@academymuseum.org
-CATEGORIES:Conversations
-DESCRIPTION:Angela Sanchez of LatinX in Animation and Austin Faber of Blac
- k N’ Animated discuss the past\, present\, and future of their communiti
- es’ voices in animated film.\n\nFriday\, May 15\, 2026 at Noon\n\nLocati
- on: Sidney Poitier Grand Lobby\n\nType: Conversations\n\nBlack N’ Animat
- ed Director Austin Faber and LatinX in Animation Development and Strategy 
- Consultant Angela M. Sanchez discuss the history of their communities in a
- nimated films\, the significance of authentic representation in animation\
- , how to support underrepresented animators\, and more.\nMarge Dean\, Head
-  of Animation Studio at Skybound Entertainment\, moderates.
-LOCATION:Sidney Poitier Grand Lobby
-URL:https://www.academymuseum.org/en/programs/detail/community-conversatio
- n-representation-in-animation-019d2732-52a9-a9c4-1341-06b9de4cac7b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robin and Marian in 4K
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-DTSTAMP:20260518T091849Z
-UID:019c0657-fdeb-4772-f25d-e687eb4bf90e@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Saturday\, May 16\, 2026\n\nLocation: Academy Museum of Motion
-  Pictures\n\nRuntime: 1h 46m\n\n1976 | 106 min. | USA | Color | English | 
- Rated PG | 4K DCP \nDIRECTED BY: Richard Lester \nWRITTEN: James Goldman \
- nWITH: Sean Connery\, Audrey Hepburn\, Robert Shaw\, Richard Harris\n\nTyp
- e: Screenings\n\nAudrey Hepburn made a welcome return to the big screen af
- ter a nine-year absence in a touching performance as Maid Marian in this r
- omantic swashbuckler with Sean Connery (at his most vulnerable) as Robin H
- ood. \nRichard Lester (The Three Musketeers\, 1973) directed the tragicomi
- c original screenplay by Oscar winner James Goldman (The Lion in Winter\, 
- 1968)\, and the supporting cast features an astonishing assemblage of Brit
- ish acting talent including Richard Harris\, Denholm Elliott\, Nicol Willi
- amson\, Ian Holm\, and Robert Shaw in a quietly powerful performance as Ro
- bin’s perennial nemesis\, the Sheriff of Nottingham.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/robin-and-marian-in-4
- -k-019c0657-fdeb-4772-f25d-e687eb4bf90e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Howl’s Moving Castle
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-DTSTAMP:20260518T091849Z
-UID:019be220-5fd1-2ac7-7ae3-ec50e4adf5b3@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Saturday\, May 16\, 2026\n\nLocation: Academy Museum of Motion
-  Pictures\n\nRuntime: 1h 59m\n\n2004 | 119 min. | Japan | Color | English 
- (Dubbed) | Rated PG | DCP\nDIRECTED/WRITTEN BY: Hayao Miyazaki\nWITH: Jean
-  Simmons\, Christian Bale\, Lauren Bacall\, Blythe Danner\n\nType: Screeni
- ngs\n\nAn adaptation of Diana Wynne Jones’s fantasy novel of the same na
- me\, the Oscar-nominated Howl’s Moving Castle is a pitch-perfect fairy t
- ale about aging and war\, set in a dazzling steampunk world. When young ha
- tmaker Sophie is transformed into a 90-year-old woman by the vengeful Witc
- h of the Waste\, she seeks to break the curse with the help of the enigmat
- ic wizard Howl\, the fire demon Calcifer\, and the magical moving castle t
- hey inhabit.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/howls-moving-castle-0
- 19be220-5fd1-2ac7-7ae3-ec50e4adf5b3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Odd Man Out
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-DTSTAMP:20260518T091849Z
-UID:019c0658-767a-4e1d-1109-50eca3c0581d@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Saturday\, May 16\, 2026\n\nLocation: Academy Museum of Motion
-  Pictures\n\nRuntime: 1h 56m\n\n1947 | 116 min. | UK | Black-and-White | E
- nglish | Not Rated | DCP \nDIRECTED BY: Carol Reed \nWRITTEN BY: F. L. Gr
- een\, R. C. Sherriff \nWITH: James Mason\, Robert Newton\, Cyril Cusack\,
-  F. J. McCormick\n\nType: Screenings\n\nWounded IRA fugitive Johnny McQuee
- n (James Mason) flees through wintry Belfast\, encountering strangers whil
- e reuniting with his lover. Over 24 hours\, the exhausted McQueen displays
-  the growing desperation of man with nowhere left to turn. \nShooting on t
- he streets of West Belfast in Northern Ireland and in Hackney\, London\, f
- ilmmaker Carol Reed employs the evocative locations and stark cinematograp
- hy that would come to define his later film The Third Man (1949). Few dire
- ctors in the 1940s matched Reed’s fatalistic intensity\, transforming mu
- ndane details into evocations of an unbalanced world.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/odd-man-out-019c0658-
- 767a-4e1d-1109-50eca3c0581d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Jaws: Costuming Characters with Tracy Tynan
-DTSTART;TZID=America/Los_Angeles:20260516T140000
-DTEND;TZID=America/Los_Angeles:20260516T153000
-DTSTAMP:20260518T091849Z
-UID:019c7342-69a3-534f-21ed-faf3305454b8@academymuseum.org
-CATEGORIES:Conversations
-DESCRIPTION:Saturday\, May 16\, 2026 at 2pm\n\nLocation: Level 4\n\nCost: 
- Free with general admission\n\nType: Conversations\n\nCostume designer and
-  Academy member Tracy Tynan gives a 30-minute tour unveiling the art of co
- stume design in films and the process of creating a character’s identity
- . The tour showcases the way the three leading men in Jaws (1975) highligh
- ted their personas through their distinct costumes.\n\nStay for a brief Q&
- A with Tynan after the tour.
-LOCATION:Level 4
-URL:https://www.academymuseum.org/en/programs/detail/inside-jaws-costuming
- -characters-019c7342-69a3-534f-21ed-faf3305454b8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Pool of London
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-DTSTAMP:20260518T091849Z
-UID:019c0659-a2fd-1d33-5589-96ff6eeda5fd@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Please Note: This screening has been cancelled. All current ti
- cket holders have received an email with details regarding automatic refun
- ds. We apologize for any inconvenience.\n\nSunday\, May 17\, 2026\n\nLocat
- ion: Academy Museum of Motion Pictures\n\nRuntime: 1h 25m\n\n1951 | 85 min
- . | UK | Black-and-White | English | Not Rated | DCP \nDIRECTED BY: Basil 
- Dearden  \nWRITTEN BY: Jack Whittingham\, John Eldridge  \nWITH: Bonar C
- olleano\, Susan Shaw\, Earl Cameron\, Renée Asherson\n\nType: Screenings\
- n\nPlease Note: This screening has been cancelled. All current ticket hold
- ers have received an email with details regarding automatic refunds. We ap
- ologize for any inconvenience. \nThis remarkable London-set crime drama te
- lls the story of Dan MacDonald (Bonar Colleano) and Johnny Lambert (Earl C
- ameron)\, two seamen entangled in a smuggling racket. Filmmaker Basil Dear
- den\, one of Britain’s finest talents\, directs with his typical rigor a
- nd makes a bold choice for its time by casting Black actor Cameron as the 
- romantic lead. Dearden lends an eerie despair to London’s winding street
- s\, famous bridges\, dark tunnels\, and massive cathedrals by virtually em
- ptying them of other people\, creating a sense of isolation that echoes th
- e region’s prevailing postwar sentiments.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/pool-of-london-019c06
- 59-a2fd-1d33-5589-96ff6eeda5fd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Sunday in 35mm
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-DTSTAMP:20260518T091849Z
-UID:019c0659-003c-33c2-6b9a-8b303cabef76@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Sunday\, May 17\, 2026\n\nLocation: Academy Museum of Motion P
- ictures\n\nRuntime: 2h 23m\n\n1977 | 143 min. | USA | Color | Scope | Engl
- ish | Rated R | 35mm \nDIRECTED BY: John Frankenheimer \nWRITTEN BY: Ernes
- t Lehman\, Kenneth Ross\, Ivan Moffat \nWITH: Robert Shaw\, Bruce Dern\, M
- arthe Keller\, Bekim Fehmiu\n\nType: Screenings\n\nJohn Frankenheimer (The
-  Manchurian Candidate\, 1962) directed this epic international thriller ba
- sed on the debut novel by Thomas Harris\, creator of Hannibal Lecter. Robe
- rt Shaw\, in a rare and welcome heroic leading role\, is a world-weary Mos
- sad agent on the trail of a Black September terrorist (Marthe Keller) and 
- her unstable partner (Bruce Dern) planning an unthinkable crime on US soil
- .\nJohn Williams’s score adds to the pulse-pounding excitement\, and the
-  screenplay by Ernest Lehman\, Kenneth Ross\, and Ivan Moffat gives the ch
- aracters on both sides of the conflict their due.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/black-sunday-in-35-mm
- -019c0659-003c-33c2-6b9a-8b303cabef76
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Secrets & Lies
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-DTSTAMP:20260518T091849Z
-UID:019be228-4c81-ee7e-c1b4-a971b99149cf@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Sunday\, May 17\, 2026\n\nLocation: Academy Museum of Motion P
- ictures\n\nRuntime: 2h 16m\n\n1996 | 136 min. | UK | Color | English | Rat
- ed R | DCP \nDIRECTED/WRITTEN BY: Mike Leigh \nWITH: Brenda Blethyn\, Mari
- anne Jean-Baptiste\, Timothy Spall\, Claire Rushbrook\n\nType: Screenings\
- n\nA woman is united with the adult daughter she never knew in this origin
- al and authentic comedy-drama from seven-time Oscar nominated writer-direc
- tor Mike Leigh. Leigh created the script by his usual method\, working wit
- h his top team of actors (assembled by casting directors Paddy Stern and S
- usie Parriss) to develop the characters and storyline\, and the result ear
- ned nominations for stars Brenda Blethyn and Marianne Jean-Baptiste as the
-  unlikely mother-daughter pair. \nThe cast includes Leigh regulars such as
-  Timothy Spall and Lesley Manville\, and the film was also nominated for B
- est Picture (Simon Channing-Williams\, producer)\, Leigh’s direction\, a
- nd the film’s original screenplay.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/secrets-lies-019be228
- -4c81-ee7e-c1b4-a971b99149cf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barton Fink in 35mm
-DTSTART;TZID=America/Los_Angeles:20260518T143000
-DTEND;TZID=America/Los_Angeles:20260518T163000
-DTSTAMP:20260518T091849Z
-UID:019be23e-fa7c-bce5-3e19-60258b8caa53@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Monday\, May 18\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
- of Motion Pictures\n\nRuntime: 1h 56m\n\n1991 | 116 min. | UK/USA | Color 
- | English | Rated R | 35mm\nDIRECTED BY: Joel Coen  \nWRITTEN BY: Joel Co
- en\, Ethan Coen  \nWITH: John Turturro\, John Goodman\, Judy Davis\, Mich
- ael Lerner  \nPrint courtesy of the Ed and Maya Herrera collection at the
-  Academy Film Archive.\n\nType: Screenings\n\n“I’ve always been drawn 
- to the Coen Brothers\,” Bong Joon Ho says in the catalog for the exhibit
- ion Director’s Inspiration: Bong Joon Ho. “Their movies are full of mi
- sunderstandings and misinterpretations.” Set in 1941\, Barton Fink is th
- e story of the titular East Coast transplant (played by John Turturro) who
-  abandons his playwrighting career to try his hand in Hollywood. During a 
- bout of writer’s block in his dilapidated hotel\, Fink becomes acquainte
- d with his noisy neighbor (John Goodman)\, an insurance salesman whose aff
- able appearance belies his true nature. The fourth feature by the Coens wa
- s also the first to win all three major prizes—Best Director\, Best Acto
- r\, and the Palme d’Or—at the Cannes Film Festival. The film was nomin
- ated at the 64th Academy Awards for Supporting Actor (Michael Lerner)\, Ar
- t Direction\, and Costume Design.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/barton-fink-019be23e-
- fa7c-bce5-3e19-60258b8caa53
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Passionate Friends
-DTSTART;TZID=America/Los_Angeles:20260518T193000
-DTEND;TZID=America/Los_Angeles:20260518T203000
-DTSTAMP:20260518T091849Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+DTSTAMP:20260519T091646Z
 UID:019c065b-931a-f68a-6dc8-35c6665ebbf8@academymuseum.org
 CATEGORIES:Screenings
-DESCRIPTION:Monday\, May 18\, 2026 at 7:30 pm\n\nLocation: Academy Museum 
- of Motion Pictures\n\nRuntime: 1h 35m\n\n1949 | 95 min. | UK | Black-and-W
- hite | English | Not Rated | DCP \nDIRECTED BY: David Lean\nWRITTEN BY: Er
- ic Ambler\, David Lean\, Stanley Haynes\nWITH: Ann Todd\, Claude Rains\, T
- revor Howard\, Betty Ann Davies\n\nType: Screenings\n\nBased on H. G. Well
- s’s story of former lovers who rekindle their romance in Switzerland\, t
- his is one of David Lean’s most passionate love stories\, elevated by Gu
- y Green’s lyrical location cinematography in London\, Switzerland\, and 
- France. Mary Justin (Ann Todd) is married to her jealous husband\, Howard 
- (Claude Rains)\, but finds herself besotted with old flame Steven Stratton
-  (Trevor Howard). A continuation of the themes explored in the devastating
-  Brief Encounter (1945)\, the film embraces a female perspective\, allowin
- g the viewer to hear Mary’s interior monologue as she navigates the pass
- ion she wants and stability she needs.
+DESCRIPTION:Monday\, May 18\, 2026\n\nLocation: Academy Museum of Motion P
+ ictures\n\nRuntime: 1h 35m\n\n1949 | 95 min. | UK | Black-and-White | Engl
+ ish | Not Rated | DCP \nDIRECTED BY: David Lean\nWRITTEN BY: Eric Ambler\,
+  David Lean\, Stanley Haynes\nWITH: Ann Todd\, Claude Rains\, Trevor Howar
+ d\, Betty Ann Davies\n\nType: Screenings\n\nBased on H. G. Wells’s story
+  of former lovers who rekindle their romance in Switzerland\, this is one 
+ of David Lean’s most passionate love stories\, elevated by Guy Green’s
+  lyrical location cinematography in London\, Switzerland\, and France. Mar
+ y Justin (Ann Todd) is married to her jealous husband\, Howard (Claude Rai
+ ns)\, but finds herself besotted with old flame Steven Stratton (Trevor Ho
+ ward). A continuation of the themes explored in the devastating Brief Enco
+ unter (1945)\, the film embraces a female perspective\, allowing the viewe
+ r to hear Mary’s interior monologue as she navigates the passion she wan
+ ts and stability she needs.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/the-passionate-friend
  s-019c065b-931a-f68a-6dc8-35c6665ebbf8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barton Fink in 35mm
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+DTSTAMP:20260519T091646Z
+UID:019be23e-fa7c-bce5-3e19-60258b8caa53@academymuseum.org
+CATEGORIES:Screenings
+DESCRIPTION:Monday\, May 18\, 2026\n\nLocation: Academy Museum of Motion P
+ ictures\n\nRuntime: 1h 56m\n\n1991 | 116 min. | UK/USA | Color | English |
+  Rated R | 35mm\nDIRECTED BY: Joel Coen  \nWRITTEN BY: Joel Coen\, Ethan 
+ Coen  \nWITH: John Turturro\, John Goodman\, Judy Davis\, Michael Lerner 
+  \nPrint courtesy of the Ed and Maya Herrera collection at the Academy Fi
+ lm Archive.\n\nType: Screenings\n\n“I’ve always been drawn to the Coen
+  Brothers\,” Bong Joon Ho says in the catalog for the exhibition Directo
+ r’s Inspiration: Bong Joon Ho. “Their movies are full of misunderstand
+ ings and misinterpretations.” Set in 1941\, Barton Fink is the story of 
+ the titular East Coast transplant (played by John Turturro) who abandons h
+ is playwrighting career to try his hand in Hollywood. During a bout of wri
+ ter’s block in his dilapidated hotel\, Fink becomes acquainted with his 
+ noisy neighbor (John Goodman)\, an insurance salesman whose affable appear
+ ance belies his true nature. The fourth feature by the Coens was also the 
+ first to win all three major prizes—Best Director\, Best Actor\, and the
+  Palme d’Or—at the Cannes Film Festival. The film was nominated at the
+  64th Academy Awards for Supporting Actor (Michael Lerner)\, Art Direction
+ \, and Costume Design.
+LOCATION:Academy Museum of Motion Pictures
+URL:https://www.academymuseum.org/en/programs/detail/barton-fink-019be23e-
+ fa7c-bce5-3e19-60258b8caa53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barton Fink in 35mm
 DTSTART;TZID=America/Los_Angeles:20260520T143000
 DTEND;TZID=America/Los_Angeles:20260520T163000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019be23f-22c8-e9aa-fec2-4153a597de89@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, May 20\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -348,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Being There in 35mm
 DTSTART;TZID=America/Los_Angeles:20260520T193000
 DTEND;TZID=America/Los_Angeles:20260520T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019be210-d889-23c4-fc46-fb61ed623eb5@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Sound Branch \nIn person: cinematographer Cale
@@ -376,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:The Hidden Room (aka Obsession)
 DTSTART;TZID=America/Los_Angeles:20260521T193000
 DTEND;TZID=America/Los_Angeles:20260521T203000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019c065b-dc76-64a4-0aea-86ab36464280@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, May 21\, 2026 at 7:30 pm\n\nLocation: Academy Museu
@@ -401,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Barton Fink in 35mm
 DTSTART;TZID=America/Los_Angeles:20260522T143000
 DTEND;TZID=America/Los_Angeles:20260522T163000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019be23f-4f4e-d945-a75a-c25d2a4f792e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, May 22\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -430,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Dersu Uzala in 35mm
 DTSTART;TZID=America/Los_Angeles:20260522T193000
 DTEND;TZID=America/Los_Angeles:20260522T203000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019c065c-245c-46fd-e698-58e38fa15a96@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Anne McKnight\, associate professor of Japanese and
@@ -457,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Kiki’s Delivery Service
 DTSTART;TZID=America/Los_Angeles:20260523T110000
 DTEND;TZID=America/Los_Angeles:20260523T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019be21f-5322-96c7-9e6c-1577c53dc3f3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 23\, 2026 at 11 am\n\nLocation: Academy Museum 
@@ -482,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:The Yellow Balloon
 DTSTART;TZID=America/Los_Angeles:20260523T143000
 DTEND;TZID=America/Los_Angeles:20260523T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019c53be-67ce-e9e2-af0c-cb09a7d68c53@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 23\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -506,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Ran (Chaos) in 35mm
 DTSTART;TZID=America/Los_Angeles:20260523T193000
 DTEND;TZID=America/Los_Angeles:20260523T203000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019c065c-c773-0043-1e8d-ffaa8ec242b0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Academy Collection and Preservation Executive Vice 
@@ -536,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:Erin Brockovich in 4K
 DTSTART;TZID=America/Los_Angeles:20260524T140000
 DTEND;TZID=America/Los_Angeles:20260524T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019be228-9540-a09b-9917-1ac6d9d43cd6@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 24\, 2026 at 2 pm\n\nLocation: Academy Museum of 
@@ -562,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:Brighton Rock in 35mm
 DTSTART;TZID=America/Los_Angeles:20260524T143000
 DTEND;TZID=America/Los_Angeles:20260524T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019c065d-45d5-fcd1-36cd-b9c126339a8f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 24\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -589,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Kagemusha (The Shadow Warrior) in 35mm
 DTSTART;TZID=America/Los_Angeles:20260524T183000
 DTEND;TZID=America/Los_Angeles:20260524T203000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019c065d-e0d2-dc4e-d8c9-9f37095148b3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Kerim Yasar\, associate professor of East Asian lan
@@ -615,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Cure in 4K
 DTSTART;TZID=America/Los_Angeles:20260525T143000
 DTEND;TZID=America/Los_Angeles:20260525T163000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019be23f-e508-83c4-5f7c-abd6ae912964@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, May 25\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -640,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:Cure in 4K
 DTSTART;TZID=America/Los_Angeles:20260527T143000
 DTEND;TZID=America/Los_Angeles:20260527T163000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019be240-02e6-aa1f-4267-b03499cfb847@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, May 27\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -665,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Terminator 2: Judgment Day in 4K
 DTSTART;TZID=America/Los_Angeles:20260527T193000
 DTEND;TZID=America/Los_Angeles:20260527T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019be211-1825-8421-38bd-c9862eb8a547@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: visual effects supervisor Dennis Muren\, Academy Go
@@ -695,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Hell Is a City in 35mm
 DTSTART;TZID=America/Los_Angeles:20260527T200000
 DTEND;TZID=America/Los_Angeles:20260527T213000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019c0661-730d-3658-8771-a0060f094ef0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, May 27\, 2026 at 8 pm\n\nLocation: Academy Museum 
@@ -722,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:Gallery Spotlight: Shaping Hollywoodland
 DTSTART;TZID=America/Los_Angeles:20260529T120000
 DTEND;TZID=America/Los_Angeles:20260529T133000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019a0315-24e2-4f88-59de-e64d5b51f067@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Friday\, May 29\, 2026 at Noon–1pm\n\nLocation: Spielberg Fa
@@ -748,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Cure in 4K
 DTSTART;TZID=America/Los_Angeles:20260529T143000
 DTEND;TZID=America/Los_Angeles:20260529T163000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019c0c71-49e1-2963-eec4-a3e2c887fce8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, May 29\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -773,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Dreams (Yume) in 35mm
 DTSTART;TZID=America/Los_Angeles:20260529T193000
 DTEND;TZID=America/Los_Angeles:20260529T213000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019c0661-f193-f899-3028-5842d51ed060@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, May 29\, 2026 at 7:30 pm\n\nLocation: Academy Museum 
@@ -800,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:The Boy and the Heron
 DTSTART;TZID=America/Los_Angeles:20260530T110000
 DTEND;TZID=America/Los_Angeles:20260530T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019be220-9c0e-c24b-a8ce-9d4d515e0c35@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, May 30\, 2026 at 11 am\n\nL
@@ -826,7 +588,7 @@ BEGIN:VEVENT
 SUMMARY:The Deep in 35mm
 DTSTART;TZID=America/Los_Angeles:20260530T143000
 DTEND;TZID=America/Los_Angeles:20260530T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019c0662-8062-5739-9390-cffa085d0882@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 30\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -850,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:Madadayo (No\, Not Yet!) in 35mm
 DTSTART;TZID=America/Los_Angeles:20260530T193000
 DTEND;TZID=America/Los_Angeles:20260530T213000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019c0663-453c-82a2-5032-4355b581436b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, May 30\, 2026 at 7:30 pm\n\nLocation: Academy Museu
@@ -874,7 +636,7 @@ BEGIN:VEVENT
 SUMMARY:One Battle After Another in 70mm
 DTSTART;TZID=America/Los_Angeles:20260531T140000
 DTEND;TZID=America/Los_Angeles:20260531T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019be229-2834-8b0c-afd0-9de09c933efd@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 31\, 2026 at 2 pm\n\nLocation: Academy Museum of 
@@ -900,7 +662,7 @@ BEGIN:VEVENT
 SUMMARY:Gentlemen Prefer Blondes
 DTSTART;TZID=America/Los_Angeles:20260531T183000
 DTEND;TZID=America/Los_Angeles:20260531T203000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019be22e-7c97-f099-7969-92ca5e9dcb83@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, May 31\, 2026 at 6:30 pm\n\nLocation: Academy Museum 
@@ -931,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:Castle in the Sky in 35mm
 DTSTART;TZID=America/Los_Angeles:20260601T143000
 DTEND;TZID=America/Los_Angeles:20260601T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4dd-73bf-6218-7554-971278051771@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, June 1\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -958,7 +720,7 @@ SUMMARY:The Marilyn Monroe Century: From Norma Jeane to Icon―A Story in
  Photographs Book Signing
 DTSTART;TZID=America/Los_Angeles:20260601T173000
 DTEND;TZID=America/Los_Angeles:20260601T190000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019e18f1-53a3-2e7a-3597-0b327550a891@academymuseum.org
 CATEGORIES:Book Signings,Conversations
 DESCRIPTION:In person: authors Joshua John Miller and Mark A. Fortin\n\nMo
@@ -1007,7 +769,7 @@ BEGIN:VEVENT
 SUMMARY:The Asphalt Jungle in 35mm
 DTSTART;TZID=America/Los_Angeles:20260601T193000
 DTEND;TZID=America/Los_Angeles:20260601T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda55-03d7-7b0a-78c7-4ac1d907f742@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actor Jack Huston\; author\, filmmaker\, and actor 
@@ -1036,7 +798,7 @@ BEGIN:VEVENT
 SUMMARY:Castle in the Sky in 35mm
 DTSTART;TZID=America/Los_Angeles:20260603T143000
 DTEND;TZID=America/Los_Angeles:20260603T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4de-775a-c51a-474c-7a2d523d8315@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, June 3\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -1063,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:Baby It’s You in 4K
 DTSTART;TZID=America/Los_Angeles:20260603T193000
 DTEND;TZID=America/Los_Angeles:20260603T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd527-077e-092b-8461-d9574c6367fe@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Writers Branch \nIn person: actors Rosanna Arq
@@ -1089,7 +851,7 @@ BEGIN:VEVENT
 SUMMARY:Niagara
 DTSTART;TZID=America/Los_Angeles:20260603T200000
 DTEND;TZID=America/Los_Angeles:20260603T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda55-a394-ccfd-d440-678ec0b84108@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, June 3\, 2026 at 8 pm\n\nLocation: Academy Museum 
@@ -1113,7 +875,7 @@ BEGIN:VEVENT
 SUMMARY:Castle in the Sky in 35mm
 DTSTART;TZID=America/Los_Angeles:20260604T143000
 DTEND;TZID=America/Los_Angeles:20260604T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4df-4ffc-ff64-f917-05ff19f6c7ab@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, June 4\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -1139,7 +901,7 @@ BEGIN:VEVENT
 SUMMARY:All About Eve in 35mm with Lorraine Nicholson
 DTSTART;TZID=America/Los_Angeles:20260604T193000
 DTEND;TZID=America/Los_Angeles:20260604T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda56-04e7-cc40-28f6-41958e8b5d4d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Vanity Fair Contributing Editor Lorraine Nicholson\
@@ -1166,7 +928,7 @@ BEGIN:VEVENT
 SUMMARY:Grave of the Fireflies
 DTSTART;TZID=America/Los_Angeles:20260610T143000
 DTEND;TZID=America/Los_Angeles:20260610T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4e0-8733-3af6-b256-65564b3fef42@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, June 10\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -1189,7 +951,7 @@ BEGIN:VEVENT
 SUMMARY:Mamma Mia! Singalong
 DTSTART;TZID=America/Los_Angeles:20260610T193000
 DTEND;TZID=America/Los_Angeles:20260610T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd527-86ab-9169-d6d5-423d5bb36ee0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Actors Branch\n\nWednesday\, June 10\, 2026 at
@@ -1217,7 +979,7 @@ BEGIN:VEVENT
 SUMMARY:Grave of the Fireflies
 DTSTART;TZID=America/Los_Angeles:20260611T143000
 DTEND;TZID=America/Los_Angeles:20260611T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4e1-6d74-d65a-207d-52ace62370fd@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, June 11\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -1240,7 +1002,7 @@ BEGIN:VEVENT
 SUMMARY:Clash by Night with Don’t Bother to Knock
 DTSTART;TZID=America/Los_Angeles:20260611T183000
 DTEND;TZID=America/Los_Angeles:20260611T213000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda57-f164-2cf8-ab82-757efda2582c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, June 11\, 2026 at 6:30 pm\n\nLocation: Academy Muse
@@ -1266,7 +1028,7 @@ BEGIN:VEVENT
 SUMMARY:Grave of the Fireflies
 DTSTART;TZID=America/Los_Angeles:20260612T143000
 DTEND;TZID=America/Los_Angeles:20260612T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4e4-37b6-8f02-4401-b45c3e697267@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, June 12\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -1289,7 +1051,7 @@ BEGIN:VEVENT
 SUMMARY:Gentlemen Prefer Blondes with Monkey Business in 4K
 DTSTART;TZID=America/Los_Angeles:20260612T183000
 DTEND;TZID=America/Los_Angeles:20260612T213000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda5a-ab50-7efe-4f00-64859f98521f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, June 12\, 2026 at 6:30 pm\n\nLocation: Academy Museum
@@ -1317,7 +1079,7 @@ BEGIN:VEVENT
 SUMMARY:Michael Mann’s Manhunter: The Final Cut with Michael Mann
 DTSTART;TZID=America/Los_Angeles:20260612T193000
 DTEND;TZID=America/Los_Angeles:20260612T213000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd53d-50af-baad-9b14-3838732fe7b0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: writer and director Michael Mann\n\nFriday\, June 1
@@ -1342,7 +1104,7 @@ BEGIN:VEVENT
 SUMMARY:Escape to Witch Mountain
 DTSTART;TZID=America/Los_Angeles:20260613T110000
 DTEND;TZID=America/Los_Angeles:20260613T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db0ff-6d56-f857-758e-f7b7876d325b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, June 13\, 2026 at 11 am\n\nLocation: Academy Museum
@@ -1368,7 +1130,7 @@ BEGIN:VEVENT
 SUMMARY:Ladies of the Chorus in 35mm
 DTSTART;TZID=America/Los_Angeles:20260613T150000
 DTEND;TZID=America/Los_Angeles:20260613T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda5e-977f-fb03-d37f-5861011de57b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, June 13\, 2026 at 3 pm\n\nLocation: Academy Museum 
@@ -1392,7 +1154,7 @@ BEGIN:VEVENT
 SUMMARY:Bound
 DTSTART;TZID=America/Los_Angeles:20260613T190000
 DTEND;TZID=America/Los_Angeles:20260613T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd53f-4f70-3abb-8859-66300caa3899@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, June 13\, 2026 at 7 pm\n\nLocation: Academy Museum 
@@ -1419,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:How to Marry a Millionaire
 DTSTART;TZID=America/Los_Angeles:20260613T193000
 DTEND;TZID=America/Los_Angeles:20260613T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda67-f97f-c6c8-221a-626c11fa6abd@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, June 13\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -1445,7 +1207,7 @@ BEGIN:VEVENT
 SUMMARY:Bend It Like Beckham in 35mm
 DTSTART;TZID=America/Los_Angeles:20260614T110000
 DTEND;TZID=America/Los_Angeles:20260614T164500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de534-a9ce-c7f9-7cea-8357cbbf429a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, June 14\, 2026 at 11 am\n\nLocation: Academy Museum o
@@ -1469,7 +1231,7 @@ BEGIN:VEVENT
 SUMMARY:Shaolin Soccer in 35mm
 DTSTART;TZID=America/Los_Angeles:20260614T143000
 DTEND;TZID=America/Los_Angeles:20260614T153000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de536-3069-56db-33cf-a0f9f32f6717@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, June 14\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -1496,7 +1258,7 @@ BEGIN:VEVENT
 SUMMARY:Offside in 35mm
 DTSTART;TZID=America/Los_Angeles:20260614T170000
 DTEND;TZID=America/Los_Angeles:20260614T193000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de537-5c7e-d4ab-fcac-842733f8eb3d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, June 14\, 2026 at 5 pm\n\nLocation: Academy Museum of
@@ -1522,7 +1284,7 @@ BEGIN:VEVENT
 SUMMARY:Only Yesterday
 DTSTART;TZID=America/Los_Angeles:20260615T143000
 DTEND;TZID=America/Los_Angeles:20260615T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4e5-382b-1b21-6b82-7f190efce69f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, June 15\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -1549,7 +1311,7 @@ BEGIN:VEVENT
 SUMMARY:The French Connection in 35mm
 DTSTART;TZID=America/Los_Angeles:20260615T193000
 DTEND;TZID=America/Los_Angeles:20260615T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd56e-ab06-c1c3-3efe-ab5004739894@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, June 15\, 2026 at 7:30 pm\n\nLocation: Academy Museum
@@ -1572,7 +1334,7 @@ BEGIN:VEVENT
 SUMMARY:Only Yesterday
 DTSTART;TZID=America/Los_Angeles:20260617T143000
 DTEND;TZID=America/Los_Angeles:20260617T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4e5-ab29-acfb-eb7a-f52362fe8692@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, June 17\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -1599,7 +1361,7 @@ BEGIN:VEVENT
 SUMMARY:Aardman Animations Celebration
 DTSTART;TZID=America/Los_Angeles:20260617T193000
 DTEND;TZID=America/Los_Angeles:20260617T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd528-36b1-73cb-59ef-39c58d050ebc@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Animation Branch\n\nWednesday\, June 17\, 2026
@@ -1639,7 +1401,7 @@ BEGIN:VEVENT
 SUMMARY:10th Anniversary of Spa Night
 DTSTART;TZID=America/Los_Angeles:20260618T193000
 DTEND;TZID=America/Los_Angeles:20260618T210000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de537-df5c-2aca-648c-405bd5af20d1@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: writer/director Andrew Ahn and actor Joe Seo\n\nThu
@@ -1666,7 +1428,7 @@ BEGIN:VEVENT
 SUMMARY:Only Yesterday
 DTSTART;TZID=America/Los_Angeles:20260619T143000
 DTEND;TZID=America/Los_Angeles:20260619T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4e5-e477-ad4a-420b-800337a5ef96@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, June 19\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -1693,7 +1455,7 @@ BEGIN:VEVENT
 SUMMARY:The Seven Year Itch with Kim Morgan
 DTSTART;TZID=America/Los_Angeles:20260619T183000
 DTEND;TZID=America/Los_Angeles:20260619T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda68-95b6-c5ab-574b-a0563b47ceff@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: writer Kim Morgan\n\nFriday\, June 19\, 2026 at 6:3
@@ -1718,7 +1480,7 @@ BEGIN:VEVENT
 SUMMARY:The Parallax View in 4K
 DTSTART;TZID=America/Los_Angeles:20260619T193000
 DTEND;TZID=America/Los_Angeles:20260619T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd571-1467-4501-b84c-022e55e2b969@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, June 19\, 2026 at 7:30 pm\n\nLocation: Academy Museum
@@ -1742,7 +1504,7 @@ BEGIN:VEVENT
 SUMMARY:The Rescuers
 DTSTART;TZID=America/Los_Angeles:20260620T110000
 DTEND;TZID=America/Los_Angeles:20260620T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db100-4895-ac0b-21ed-07abc0c67798@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, June 20\, 2026 at 11 am\n\nLocation: Academy Museum
@@ -1769,7 +1531,7 @@ BEGIN:VEVENT
 SUMMARY:River of No Return
 DTSTART;TZID=America/Los_Angeles:20260620T150000
 DTEND;TZID=America/Los_Angeles:20260620T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda5f-18da-8f07-df02-1ca531ee7455@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, June 20\, 2026 at 3 pm\n\nLocation: Academy Museum 
@@ -1792,7 +1554,7 @@ BEGIN:VEVENT
 SUMMARY:Car Wash 50th Anniversary Screening in 4K
 DTSTART;TZID=America/Los_Angeles:20260620T193000
 DTEND;TZID=America/Los_Angeles:20260620T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db106-4226-a625-5d8f-1f850e40e197@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Restoration world premiere \nIn person: filmmaker Michael Schu
@@ -1823,7 +1585,7 @@ BEGIN:VEVENT
 SUMMARY:Phantom Thread in 70mm
 DTSTART;TZID=America/Los_Angeles:20260621T130000
 DTEND;TZID=America/Los_Angeles:20260621T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019d8808-824f-8193-5719-ea7f79594e16@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, June 21\, 2026 at 1 pm\n\nLocation: Academy Museum of
@@ -1851,7 +1613,7 @@ BEGIN:VEVENT
 SUMMARY:Summertime in 35mm
 DTSTART;TZID=America/Los_Angeles:20260621T183000
 DTEND;TZID=America/Los_Angeles:20260621T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db108-13ff-5335-b104-60a373cf8855@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, June 21\, 2026 at 6:30 pm\n\nLocation: Academy Museum
@@ -1882,7 +1644,7 @@ BEGIN:VEVENT
 SUMMARY:Pom Poko
 DTSTART;TZID=America/Los_Angeles:20260622T143000
 DTEND;TZID=America/Los_Angeles:20260622T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4ea-5df0-6755-75ac-a923956a708e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, June 22\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -1909,7 +1671,7 @@ BEGIN:VEVENT
 SUMMARY:Crash in 4K
 DTSTART;TZID=America/Los_Angeles:20260622T193000
 DTEND;TZID=America/Los_Angeles:20260622T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd572-68b7-baa0-a568-ca93762acf21@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, June 22\, 2026 at 7:30 pm\n\nLocation: Academy Museum
@@ -1936,7 +1698,7 @@ BEGIN:VEVENT
 SUMMARY:Pom Poko
 DTSTART;TZID=America/Los_Angeles:20260624T143000
 DTEND;TZID=America/Los_Angeles:20260624T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4ea-fe4b-7d9e-ae7a-7d84dc07f8e4@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, June 24\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -1963,7 +1725,7 @@ BEGIN:VEVENT
 SUMMARY:Notorious with Guillermo del Toro
 DTSTART;TZID=America/Los_Angeles:20260624T190000
 DTEND;TZID=America/Los_Angeles:20260624T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda4c-6058-561e-0943-f275f3a7f670@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, June 24\, 2026 at 7 pm\n\nLocation: Academy Museum
@@ -1990,7 +1752,7 @@ BEGIN:VEVENT
 SUMMARY:Shadow of a Doubt with Guillermo del Toro
 DTSTART;TZID=America/Los_Angeles:20260625T190000
 DTEND;TZID=America/Los_Angeles:20260625T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda4f-bd35-37fa-baa8-c9a1d9017b86@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, June 25\, 2026 at 7 pm\n\nLocation: Academy Museum 
@@ -2015,10 +1777,32 @@ URL:https://www.academymuseum.org/en/programs/detail/shadow-of-a-doubt-wit
  h-guillermo-del-toro-019dda4f-bd35-37fa-baa8-c9a1d9017b86
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gallery Spotlight | Marilyn Monroe: Hollywood Icon
+DTSTART;TZID=America/Los_Angeles:20260626T120000
+DTEND;TZID=America/Los_Angeles:20260626T130000
+DTSTAMP:20260519T091646Z
+UID:019e289e-6d6a-02c1-581e-1379f73b67b4@academymuseum.org
+CATEGORIES:Conversations
+DESCRIPTION:Costume and textile conservator Melinda Kerstein and Icon Coll
+ ection Co-Founder Bryan Johns explore the legacy of Marilyn Monroe through
+  her iconic onscreen looks.\n\nFriday\, June 26\, 2026 at 12 pm\n\nLocatio
+ n: Sidney Poitier Grand Lobby\n\nRuntime: 1h\n\nType: Conversations\n\nCos
+ tume and textile conservator Melinda Kerstein and Icon Collection Co-Found
+ er Bryan Johns explore the legacy of Marilyn Monroe through her iconic ons
+ creen looks. \nAgainst the backdrop of the largest exhibition of Monroe's 
+ onscreen costumes\, the conversation also delves into the late actress’s
+  personal style and the many visual elements that came together to seal he
+ r place among Hollywood legends. \nAssociate Curator Sophia Serrano modera
+ tes.
+LOCATION:Sidney Poitier Grand Lobby
+URL:https://www.academymuseum.org/en/programs/detail/gallery-spotlight-mar
+ ilyn-monroe-hollywood-icon-019e289e-6d6a-02c1-581e-1379f73b67b4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pom Poko
 DTSTART;TZID=America/Los_Angeles:20260626T143000
 DTEND;TZID=America/Los_Angeles:20260626T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4f1-25a5-b1fa-e5e1-a3cc0af72ac7@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, June 26\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -2045,7 +1829,7 @@ BEGIN:VEVENT
 SUMMARY:North by Northwest with Guillermo del Toro
 DTSTART;TZID=America/Los_Angeles:20260626T190000
 DTEND;TZID=America/Los_Angeles:20260626T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda50-8ae2-01d8-d781-c585adaa77d1@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, June 26\, 2026 at 7 pm\n\nLocation: Academy Museum of
@@ -2076,7 +1860,7 @@ BEGIN:VEVENT
 SUMMARY:There's No Business Like Show Business
 DTSTART;TZID=America/Los_Angeles:20260626T193000
 DTEND;TZID=America/Los_Angeles:20260626T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda69-eb64-242b-17a3-0f3f59a296b3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, June 26\, 2026 at 7:30 pm\n\nLocation: Academy Museum
@@ -2101,7 +1885,7 @@ BEGIN:VEVENT
 SUMMARY:The Goonies in 4K
 DTSTART;TZID=America/Los_Angeles:20260627T110000
 DTEND;TZID=America/Los_Angeles:20260627T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda33-4f68-ad1f-15d3-4abc0b61ec82@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, June 27\, 2026 at 11 am\n\n
@@ -2130,7 +1914,7 @@ BEGIN:VEVENT
 SUMMARY:The Prince and the Showgirl in 35mm with Bus Stop
 DTSTART;TZID=America/Los_Angeles:20260627T153000
 DTEND;TZID=America/Los_Angeles:20260627T173000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda63-5be8-c4a8-aa3e-738053c6e3dd@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, June 27\, 2026 at 3:30 pm\n\nLocation: Academy Muse
@@ -2155,7 +1939,7 @@ BEGIN:VEVENT
 SUMMARY:Rock and Reel with Richard Gibbs
 DTSTART;TZID=America/Los_Angeles:20260627T160000
 DTEND;TZID=America/Los_Angeles:20260627T170000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dc08e-7d43-cd96-b02b-c59dc8e1f0a0@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Saturday\, June 27\, 2026 at 4 pm\n\nLocation: Shirley Temple 
@@ -2173,7 +1957,7 @@ BEGIN:VEVENT
 SUMMARY:I Confess in 35mm with Guillermo del Toro
 DTSTART;TZID=America/Los_Angeles:20260627T190000
 DTEND;TZID=America/Los_Angeles:20260627T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda52-4717-b411-b5dd-cfbc9f743000@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, June 27\, 2026 at 7 pm\n\nLocation: Academy Museum 
@@ -2200,7 +1984,7 @@ BEGIN:VEVENT
 SUMMARY:All That Money Can Buy (The Devil and Daniel Webster)
 DTSTART;TZID=America/Los_Angeles:20260628T140000
 DTEND;TZID=America/Los_Angeles:20260628T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019d8808-51f2-84ef-4692-307b79ea47f5@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, June 28\, 2026 at 2 pm\n\nLocation: Academy Museum of
@@ -2226,7 +2010,7 @@ BEGIN:VEVENT
 SUMMARY:Let’s Make Love
 DTSTART;TZID=America/Los_Angeles:20260628T150000
 DTEND;TZID=America/Los_Angeles:20260628T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda60-0589-9655-e49d-f0fa19d1ec52@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, June 28\, 2026 at 3 pm\n\nLocation: Academy Museum of
@@ -2248,7 +2032,7 @@ BEGIN:VEVENT
 SUMMARY:Frenzy with Guillermo del Toro
 DTSTART;TZID=America/Los_Angeles:20260628T190000
 DTEND;TZID=America/Los_Angeles:20260628T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda52-83b8-2223-cb75-2263d6b43651@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, June 28\, 2026 at 7 pm\n\nLocation: Academy Museum of
@@ -2275,7 +2059,7 @@ BEGIN:VEVENT
 SUMMARY:Whisper of the Heart
 DTSTART;TZID=America/Los_Angeles:20260629T143000
 DTEND;TZID=America/Los_Angeles:20260629T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4f7-e228-20c6-bae7-3b5767b0f59e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, June 29\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -2298,7 +2082,7 @@ BEGIN:VEVENT
 SUMMARY:The Hitch-Hiker
 DTSTART;TZID=America/Los_Angeles:20260629T193000
 DTEND;TZID=America/Los_Angeles:20260629T203000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd575-e18f-fbe3-842e-c38d02a9579a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, June 29\, 2026 at 7:30 pm\n\nLocation: Academy Museum
@@ -2324,7 +2108,7 @@ BEGIN:VEVENT
 SUMMARY:Whisper of the Heart
 DTSTART;TZID=America/Los_Angeles:20260701T143000
 DTEND;TZID=America/Los_Angeles:20260701T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4f8-287d-30e8-3767-77ffb9700f42@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, July 1\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -2347,7 +2131,7 @@ BEGIN:VEVENT
 SUMMARY:Galaxy Quest in 35mm
 DTSTART;TZID=America/Los_Angeles:20260701T193000
 DTEND;TZID=America/Los_Angeles:20260701T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd529-253c-f148-74e3-19386a610226@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Casting Directors Branch\n\nWednesday\, July 1
@@ -2375,7 +2159,7 @@ BEGIN:VEVENT
 SUMMARY:Some Like It Hot in 4K
 DTSTART;TZID=America/Los_Angeles:20260702T193000
 DTEND;TZID=America/Los_Angeles:20260702T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda6b-59cc-be2f-090e-f2f741d4e082@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, July 2\, 2026 at 7:30 pm\n\nLocation: Academy Museu
@@ -2399,7 +2183,7 @@ BEGIN:VEVENT
 SUMMARY:Tokyo Drifter
 DTSTART;TZID=America/Los_Angeles:20260702T200000
 DTEND;TZID=America/Los_Angeles:20260702T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd578-9525-65a2-2a4f-39807145503e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, July 2\, 2026 at 8 pm\n\nLocation: Academy Museum o
@@ -2424,7 +2208,7 @@ BEGIN:VEVENT
 SUMMARY:Whisper of the Heart
 DTSTART;TZID=America/Los_Angeles:20260703T143000
 DTEND;TZID=America/Los_Angeles:20260703T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4f9-7849-b1b0-965c-537bb69da545@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, July 3\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -2447,7 +2231,7 @@ BEGIN:VEVENT
 SUMMARY:The Misfits in 4K
 DTSTART;TZID=America/Los_Angeles:20260703T190000
 DTEND;TZID=America/Los_Angeles:20260703T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda6a-6f44-f26c-6d86-98e042029c2b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, July 3\, 2026 at 7 pm\n\nLocation: Academy Museum of 
@@ -2473,7 +2257,7 @@ BEGIN:VEVENT
 SUMMARY:Sorcerer
 DTSTART;TZID=America/Los_Angeles:20260703T193000
 DTEND;TZID=America/Los_Angeles:20260703T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd579-9263-515c-5873-11100ff31dac@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, July 3\, 2026 at 7:30 pm\n\nLocation: Academy Museum 
@@ -2501,7 +2285,7 @@ BEGIN:VEVENT
 SUMMARY:The Great Muppet Caper in 4K
 DTSTART;TZID=America/Los_Angeles:20260704T110000
 DTEND;TZID=America/Los_Angeles:20260704T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db104-9ede-2724-6ea8-30871fa1a1f9@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, July 4\, 2026 at 11 am\n\nLocation: Academy Museum 
@@ -2526,7 +2310,7 @@ BEGIN:VEVENT
 SUMMARY:Jaws in 4K
 DTSTART;TZID=America/Los_Angeles:20260704T143000
 DTEND;TZID=America/Los_Angeles:20260704T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db107-26cd-12fd-87e7-a1ebc697e1fa@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, July 4\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -2560,7 +2344,7 @@ BEGIN:VEVENT
 SUMMARY:Giant in 4K
 DTSTART;TZID=America/Los_Angeles:20260705T140000
 DTEND;TZID=America/Los_Angeles:20260705T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019d8807-8f35-89b4-4423-642b22f044e1@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, July 5\, 2026 at 2 pm\n\nLocation: Academy Museum of 
@@ -2585,7 +2369,7 @@ BEGIN:VEVENT
 SUMMARY:Private Property
 DTSTART;TZID=America/Los_Angeles:20260705T143000
 DTEND;TZID=America/Los_Angeles:20260705T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd57a-e7c4-4cd9-514c-266e25cf7f85@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, July 5\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -2609,7 +2393,7 @@ BEGIN:VEVENT
 SUMMARY:Three Days of the Condor
 DTSTART;TZID=America/Los_Angeles:20260705T190000
 DTEND;TZID=America/Los_Angeles:20260705T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd57b-abd2-99cd-0867-db4e92aa0321@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, July 5\, 2026 at 7 pm\n\nLocation: Academy Museum of 
@@ -2634,7 +2418,7 @@ BEGIN:VEVENT
 SUMMARY:Princess Mononoke in 35mm
 DTSTART;TZID=America/Los_Angeles:20260706T143000
 DTEND;TZID=America/Los_Angeles:20260706T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4fa-4622-28a9-6f79-b9f62112f72c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, July 6\, 2026 at 2:30 pm\n\nLocation: Academy Museum 
@@ -2660,7 +2444,7 @@ BEGIN:VEVENT
 SUMMARY:The Night of the Hunter in 35mm
 DTSTART;TZID=America/Los_Angeles:20260706T193000
 DTEND;TZID=America/Los_Angeles:20260706T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd57c-a7a5-928e-8172-063ab7ffc190@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, July 6\, 2026 at 7:30 pm\n\nLocation: Academy Museum 
@@ -2686,7 +2470,7 @@ BEGIN:VEVENT
 SUMMARY:Princess Mononoke in 35mm
 DTSTART;TZID=America/Los_Angeles:20260708T143000
 DTEND;TZID=America/Los_Angeles:20260708T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd4fb-ae21-2e16-f346-ad206ac21b04@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, July 8\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -2712,7 +2496,7 @@ BEGIN:VEVENT
 SUMMARY:The Lovers on the Bridge (Les amants de Pont-Neuf) in 4K
 DTSTART;TZID=America/Los_Angeles:20260708T193000
 DTEND;TZID=America/Los_Angeles:20260708T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd52e-d672-d769-b172-eb2edced096f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Cinematographers Branch\n\nWednesday\, July 8\
@@ -2739,7 +2523,7 @@ BEGIN:VEVENT
 SUMMARY:Princess Mononoke in 35mm
 DTSTART;TZID=America/Los_Angeles:20260709T143000
 DTEND;TZID=America/Los_Angeles:20260709T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd50b-594c-9ff5-6a87-2437cb57b76a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, July 9\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -2765,7 +2549,7 @@ BEGIN:VEVENT
 SUMMARY:Blow Out in 35mm
 DTSTART;TZID=America/Los_Angeles:20260710T193000
 DTEND;TZID=America/Los_Angeles:20260710T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd57d-7000-1a17-a7ea-f705d9ff2f9c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, July 10\, 2026 at 7:30 pm\n\nLocation: Academy Museum
@@ -2789,7 +2573,7 @@ BEGIN:VEVENT
 SUMMARY:Clue
 DTSTART;TZID=America/Los_Angeles:20260711T110000
 DTEND;TZID=America/Los_Angeles:20260711T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db101-caa9-1616-9f8c-b6a9c029251c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, July 11\, 2026 at 11 am\n\nLocation: Academy Museum
@@ -2812,7 +2596,7 @@ BEGIN:VEVENT
 SUMMARY:Elevator to the Gallows
 DTSTART;TZID=America/Los_Angeles:20260711T143000
 DTEND;TZID=America/Los_Angeles:20260711T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd57e-11da-98b1-87d7-2de5abc187cd@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, July 11\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -2838,7 +2622,7 @@ BEGIN:VEVENT
 SUMMARY:Careful in 4K with Guy Maddin
 DTSTART;TZID=America/Los_Angeles:20260711T193000
 DTEND;TZID=America/Los_Angeles:20260711T213000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd537-2e34-6c78-8d7f-584841b78a06@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:US restoration premiere\nIn person: director Guy Maddin and fi
@@ -2863,7 +2647,7 @@ BEGIN:VEVENT
 SUMMARY:The Magnificent Seven in 4K
 DTSTART;TZID=America/Los_Angeles:20260712T140000
 DTEND;TZID=America/Los_Angeles:20260712T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019d8807-479d-3bdf-e11e-5f3a97e1777d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, July 12\, 2026 at 2 pm\n\nLocation: Academy Museum of
@@ -2886,7 +2670,7 @@ BEGIN:VEVENT
 SUMMARY:The Green Fog with Guy Maddin
 DTSTART;TZID=America/Los_Angeles:20260712T143000
 DTEND;TZID=America/Los_Angeles:20260712T213000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd538-3ef3-53b8-2fc6-aaf84e3fc5dd@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, July 12\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -2913,7 +2697,7 @@ BEGIN:VEVENT
 SUMMARY:My Winnipeg in 35mm with Guy Maddin
 DTSTART;TZID=America/Los_Angeles:20260712T193000
 DTEND;TZID=America/Los_Angeles:20260712T213000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd539-00fa-31a2-67b6-c57af87fcdb1@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, July 12\, 2026 at 7:30 pm\n\nLocation: Academy Museum
@@ -2938,7 +2722,7 @@ BEGIN:VEVENT
 SUMMARY:My Neighbors the Yamadas
 DTSTART;TZID=America/Los_Angeles:20260713T143000
 DTEND;TZID=America/Los_Angeles:20260713T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd511-a205-b46b-3a95-3db863a98edd@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, July 13\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -2963,7 +2747,7 @@ BEGIN:VEVENT
 SUMMARY:The Saddest Music in the World with Guy Maddin
 DTSTART;TZID=America/Los_Angeles:20260713T193000
 DTEND;TZID=America/Los_Angeles:20260713T213000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd53b-afab-95c2-4ae6-6e0f0c70c508@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, July 13\, 2026 at 7:30 pm\n\nLocation: Academy Museum
@@ -2992,7 +2776,7 @@ BEGIN:VEVENT
 SUMMARY:My Neighbors the Yamadas
 DTSTART;TZID=America/Los_Angeles:20260715T143000
 DTEND;TZID=America/Los_Angeles:20260715T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd512-359a-f02d-e72c-7e577b814208@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, July 15\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -3017,7 +2801,7 @@ BEGIN:VEVENT
 SUMMARY:Bugsy in 35mm
 DTSTART;TZID=America/Los_Angeles:20260715T193000
 DTEND;TZID=America/Los_Angeles:20260715T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd52f-a256-6605-687a-101422312e89@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Costume Designers Branch\n\nWednesday\, July 1
@@ -3044,7 +2828,7 @@ BEGIN:VEVENT
 SUMMARY:Juice with Ernest Dickerson
 DTSTART;TZID=America/Los_Angeles:20260716T193000
 DTEND;TZID=America/Los_Angeles:20260716T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd57f-69a3-8bdd-8d5a-ac677c12b91a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, July 16\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -3070,7 +2854,7 @@ BEGIN:VEVENT
 SUMMARY:My Neighbors the Yamadas
 DTSTART;TZID=America/Los_Angeles:20260717T143000
 DTEND;TZID=America/Los_Angeles:20260717T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd512-ea9a-6689-25cd-5f1660ba3861@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, July 17\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -3095,7 +2879,7 @@ BEGIN:VEVENT
 SUMMARY:Poison Ivy in 35mm
 DTSTART;TZID=America/Los_Angeles:20260717T193000
 DTEND;TZID=America/Los_Angeles:20260717T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd57f-e1cb-bdce-e97c-4a394e83a8eb@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: director Katt Shea\n\nFriday\, July 17\, 2026 at 7:
@@ -3121,7 +2905,7 @@ BEGIN:VEVENT
 SUMMARY:The Great Mouse Detective
 DTSTART;TZID=America/Los_Angeles:20260718T110000
 DTEND;TZID=America/Los_Angeles:20260718T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db101-4c28-f4d0-d99e-71207761efa6@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, July 18\, 2026 at 11 am\n\nLocation: Academy Museum
@@ -3148,7 +2932,7 @@ SUMMARY:30th Anniversary of From Dusk Till Dawn with Robert Rodriguez\, pl
  us a performance by Robert Rodriguez's CHINGON BAND
 DTSTART;TZID=America/Los_Angeles:20260718T190000
 DTEND;TZID=America/Los_Angeles:20260718T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db1fc-f863-def8-3638-c35bc75970cc@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Robert Rodriguez\n\nSaturday\, July 18\, 2026 at 7 
@@ -3180,7 +2964,7 @@ BEGIN:VEVENT
 SUMMARY:Fantômas Episodes 1-5
 DTSTART;TZID=America/Los_Angeles:20260719T120000
 DTEND;TZID=America/Los_Angeles:20260719T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd580-a360-5491-7f1f-62166fa72be4@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, July 19\, 2026 at 12 pm\n\nLocation: Academy Museum o
@@ -3208,7 +2992,7 @@ SUMMARY:25th Anniversary of Spy Kids with Robert Rodriguez\, plus a perfor
  mance by The Rodriguez Family SPY BAND
 DTSTART;TZID=America/Los_Angeles:20260719T140000
 DTEND;TZID=America/Los_Angeles:20260719T163000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db1ff-c1d7-27a3-7600-c9e6b670fc82@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Robert Rodriguez\n\nSunday\, July 19\, 2026 at 2 pm
@@ -3237,7 +3021,7 @@ BEGIN:VEVENT
 SUMMARY:Spirited Away in 35mm
 DTSTART;TZID=America/Los_Angeles:20260720T143000
 DTEND;TZID=America/Los_Angeles:20260720T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd515-2d0b-9831-de23-02777c0d6b0c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, July 20\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -3264,7 +3048,7 @@ BEGIN:VEVENT
 SUMMARY:Le Cercle Rouge in 4K
 DTSTART;TZID=America/Los_Angeles:20260720T193000
 DTEND;TZID=America/Los_Angeles:20260720T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd581-418a-70dd-ff2c-889ba35b3859@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, July 20\, 2026 at 7:30 pm\n\nLocation: Academy Museum
@@ -3287,7 +3071,7 @@ BEGIN:VEVENT
 SUMMARY:Spirited Away in 35mm
 DTSTART;TZID=America/Los_Angeles:20260722T143000
 DTEND;TZID=America/Los_Angeles:20260722T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd515-b15a-7db7-ab67-8c426be3b0bf@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, July 22\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -3314,7 +3098,7 @@ BEGIN:VEVENT
 SUMMARY:Downhill Racer in 35mm
 DTSTART;TZID=America/Los_Angeles:20260722T193000
 DTEND;TZID=America/Los_Angeles:20260722T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd530-50e1-a2f7-0398-9b2968ece910@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Directors Branch\n\nWednesday\, July 22\, 2026
@@ -3341,7 +3125,7 @@ BEGIN:VEVENT
 SUMMARY:Cape Fear (1962) in 4K
 DTSTART;TZID=America/Los_Angeles:20260723T193000
 DTEND;TZID=America/Los_Angeles:20260723T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd581-d2bc-67e5-c083-4b3ad7f2a472@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, July 23\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -3365,7 +3149,7 @@ BEGIN:VEVENT
 SUMMARY:Spirited Away in 35mm
 DTSTART;TZID=America/Los_Angeles:20260724T143000
 DTEND;TZID=America/Los_Angeles:20260724T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd516-1779-bf84-d571-8c3cb163bf39@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, July 24\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -3392,7 +3176,7 @@ BEGIN:VEVENT
 SUMMARY:Cape Fear (1991) in 35mm
 DTSTART;TZID=America/Los_Angeles:20260724T193000
 DTEND;TZID=America/Los_Angeles:20260724T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd582-397a-b205-fdc8-809ad66fe3c5@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, July 24\, 2026 at 7:30 pm\n\nLocation: Academy Museum
@@ -3416,7 +3200,7 @@ BEGIN:VEVENT
 SUMMARY:Wallace & Gromit: The Curse of the Were-Rabbit
 DTSTART;TZID=America/Los_Angeles:20260725T110000
 DTEND;TZID=America/Los_Angeles:20260725T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda3a-cfae-2718-68de-f7bf62b2c9bf@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, July 25\, 2026 at 11 am\n\n
@@ -3442,7 +3226,7 @@ BEGIN:VEVENT
 SUMMARY:Murder on the Orient Express
 DTSTART;TZID=America/Los_Angeles:20260726T140000
 DTEND;TZID=America/Los_Angeles:20260726T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019d8806-f1fa-e43f-575f-e24053f914be@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, July 26\, 2026 at 2 pm\n\nLocation: Academy Museum of
@@ -3468,7 +3252,7 @@ BEGIN:VEVENT
 SUMMARY:Blackmail
 DTSTART;TZID=America/Los_Angeles:20260726T143000
 DTEND;TZID=America/Los_Angeles:20260726T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd582-e5d1-4e52-31b8-2f41fd8359af@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, July 26\, 2026 at 2:30 pm\n\nLocation: Academy Museum
@@ -3495,7 +3279,7 @@ BEGIN:VEVENT
 SUMMARY:Cutter's Way
 DTSTART;TZID=America/Los_Angeles:20260726T183000
 DTEND;TZID=America/Los_Angeles:20260726T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd583-e1a7-e213-7c39-6dcfa44c2bce@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, July 26\, 2026 at 6:30 pm\n\nLocation: Academy Museum
@@ -3520,7 +3304,7 @@ BEGIN:VEVENT
 SUMMARY:Who Framed Roger Rabbit
 DTSTART;TZID=America/Los_Angeles:20260801T110000
 DTEND;TZID=America/Los_Angeles:20260801T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db102-6a44-5086-0897-939caa28feba@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 1\, 2026 at 11 am\n\nLocation: Academy Museu
@@ -3544,7 +3328,7 @@ BEGIN:VEVENT
 SUMMARY:Out of Africa in 35mm
 DTSTART;TZID=America/Los_Angeles:20260802T140000
 DTEND;TZID=America/Los_Angeles:20260802T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019d8806-52fd-216b-45c9-4904d7d5b323@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 2\, 2026 at 2 pm\n\nLocation: Academy Museum o
@@ -3569,7 +3353,7 @@ BEGIN:VEVENT
 SUMMARY:The Cat Returns
 DTSTART;TZID=America/Los_Angeles:20260803T143000
 DTEND;TZID=America/Los_Angeles:20260803T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd517-16d7-e8e7-5dcb-d39a9c5fd257@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 3\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -3594,7 +3378,7 @@ BEGIN:VEVENT
 SUMMARY:A Man Escaped in 35mm
 DTSTART;TZID=America/Los_Angeles:20260803T193000
 DTEND;TZID=America/Los_Angeles:20260803T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd584-92b4-fd24-11c8-7d0ce23af494@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 3\, 2026 at 7:30 pm\n\nLocation: Academy Museu
@@ -3619,7 +3403,7 @@ BEGIN:VEVENT
 SUMMARY:The Cat Returns
 DTSTART;TZID=America/Los_Angeles:20260805T143000
 DTEND;TZID=America/Los_Angeles:20260805T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd517-e48c-ba35-4370-f1b96ed34a7a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 5\, 2026 at 2:30 pm\n\nLocation: Academy Mu
@@ -3644,7 +3428,7 @@ BEGIN:VEVENT
 SUMMARY:Titicut Follies in 4K
 DTSTART;TZID=America/Los_Angeles:20260805T193000
 DTEND;TZID=America/Los_Angeles:20260805T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd531-3419-7f41-baa2-1ec05eb4f02f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Documentary Branch\n\nWednesday\, August 5\, 2
@@ -3670,7 +3454,7 @@ BEGIN:VEVENT
 SUMMARY:In the Cut in 35mm
 DTSTART;TZID=America/Los_Angeles:20260806T193000
 DTEND;TZID=America/Los_Angeles:20260806T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd585-40b8-73e6-0781-56750aa09dd3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, August 6\, 2026 at 7:30 pm\n\nLocation: Academy Mus
@@ -3695,7 +3479,7 @@ BEGIN:VEVENT
 SUMMARY:The Cat Returns
 DTSTART;TZID=America/Los_Angeles:20260807T143000
 DTEND;TZID=America/Los_Angeles:20260807T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd519-9fe3-64e5-f810-1c587e19cb45@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 7\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -3720,7 +3504,7 @@ BEGIN:VEVENT
 SUMMARY:Basic Instinct in 4K
 DTSTART;TZID=America/Los_Angeles:20260807T193000
 DTEND;TZID=America/Los_Angeles:20260807T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd587-0e22-9625-5806-8b921623f8a2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 7\, 2026 at 7:30 pm\n\nLocation: Academy Museu
@@ -3749,7 +3533,7 @@ BEGIN:VEVENT
 SUMMARY:Harriet the Spy in 4K
 DTSTART;TZID=America/Los_Angeles:20260808T110000
 DTEND;TZID=America/Los_Angeles:20260808T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db102-fe01-43a3-84a5-eeeb5fb60e21@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 8\, 2026 at 11 am\n\nLocation: Academy Museu
@@ -3775,7 +3559,7 @@ SUMMARY:Popcorn Disabilities Conversation and Book Signing with Kristen Lo
  pez
 DTSTART;TZID=America/Los_Angeles:20260808T140000
 DTEND;TZID=America/Los_Angeles:20260808T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019ddf76-e982-c361-1f01-60e1b84b6d8b@academymuseum.org
 CATEGORIES:Book Signings,Conversations
 DESCRIPTION:Journalist\, author\, and disability advocate Kristen Lopez si
@@ -3808,7 +3592,7 @@ BEGIN:VEVENT
 SUMMARY:Fritz Lang’s M
 DTSTART;TZID=America/Los_Angeles:20260808T143000
 DTEND;TZID=America/Los_Angeles:20260808T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd589-21a2-cf22-47aa-909c46d0348a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Academy Governor Howard A. Rodman\n\nSaturday\, Aug
@@ -3836,7 +3620,7 @@ BEGIN:VEVENT
 SUMMARY:The 4th Man in 35mm
 DTSTART;TZID=America/Los_Angeles:20260808T193000
 DTEND;TZID=America/Los_Angeles:20260808T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd589-d8d0-bf49-4cbf-adea87d13136@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 8\, 2026 at 7:30 pm\n\nLocation: Academy Mus
@@ -3865,7 +3649,7 @@ BEGIN:VEVENT
 SUMMARY:The Thin Red Line in 35mm
 DTSTART;TZID=America/Los_Angeles:20260809T140000
 DTEND;TZID=America/Los_Angeles:20260809T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019d8806-49c1-0b1c-0a34-0cd360c2e8e9@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 9\, 2026 at 2 pm\n\nLocation: Academy Museum o
@@ -3889,7 +3673,7 @@ BEGIN:VEVENT
 SUMMARY:Bunny Lake Is Missing in 4K
 DTSTART;TZID=America/Los_Angeles:20260809T143000
 DTEND;TZID=America/Los_Angeles:20260809T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd58a-8b76-50a9-ab86-a9842016a5b1@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 9\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -3915,7 +3699,7 @@ BEGIN:VEVENT
 SUMMARY:Elle
 DTSTART;TZID=America/Los_Angeles:20260809T183000
 DTEND;TZID=America/Los_Angeles:20260809T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd58b-36cb-2931-b14f-63ac39d62b9b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 9\, 2026 at 6:30 pm\n\nLocation: Academy Museu
@@ -3939,7 +3723,7 @@ BEGIN:VEVENT
 SUMMARY:Howl’s Moving Castle
 DTSTART;TZID=America/Los_Angeles:20260810T143000
 DTEND;TZID=America/Los_Angeles:20260810T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd51d-7564-f197-c616-12ecc8530357@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 10\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -3961,7 +3745,7 @@ BEGIN:VEVENT
 SUMMARY:The Prestige in 35mm
 DTSTART;TZID=America/Los_Angeles:20260810T193000
 DTEND;TZID=America/Los_Angeles:20260810T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd58c-400e-aae7-d42b-8937636a5c73@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 10\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -3987,7 +3771,7 @@ BEGIN:VEVENT
 SUMMARY:Howl’s Moving Castle
 DTSTART;TZID=America/Los_Angeles:20260812T143000
 DTEND;TZID=America/Los_Angeles:20260812T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd51d-f06d-ae0b-1b9a-1454e7f686d7@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 12\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -4009,7 +3793,7 @@ BEGIN:VEVENT
 SUMMARY:To Be or Not to Be
 DTSTART;TZID=America/Los_Angeles:20260812T193000
 DTEND;TZID=America/Los_Angeles:20260812T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd531-8cec-e732-df70-044dfc38219b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Executives Branch\n\nWednesday\, August 12\, 2
@@ -4035,7 +3819,7 @@ BEGIN:VEVENT
 SUMMARY:Fatal Attraction with Adrian Lyne
 DTSTART;TZID=America/Los_Angeles:20260813T193000
 DTEND;TZID=America/Los_Angeles:20260813T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd58c-f37f-8692-e2f3-b2c358295fda@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: director Adrian Lyne\n\nThursday\, August 13\, 2026
@@ -4062,7 +3846,7 @@ BEGIN:VEVENT
 SUMMARY:Howl’s Moving Castle
 DTSTART;TZID=America/Los_Angeles:20260814T143000
 DTEND;TZID=America/Los_Angeles:20260814T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd51e-9196-b3fe-be48-1f0c289cf9e4@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 14\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -4084,7 +3868,7 @@ BEGIN:VEVENT
 SUMMARY:Unfaithful with Adrian Lyne
 DTSTART;TZID=America/Los_Angeles:20260814T193000
 DTEND;TZID=America/Los_Angeles:20260814T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd58d-916f-a50b-c633-78a0ffd1e907@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: director Adrian Lyne\n\nFriday\, August 14\, 2026 a
@@ -4109,7 +3893,7 @@ BEGIN:VEVENT
 SUMMARY:Scooby-Doo in 35mm
 DTSTART;TZID=America/Los_Angeles:20260815T110000
 DTEND;TZID=America/Los_Angeles:20260815T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db103-7ebb-e23a-c52a-b153e188f713@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 15\, 2026 at 11 am\n\nLocation: Academy Muse
@@ -4136,7 +3920,7 @@ BEGIN:VEVENT
 SUMMARY:Train to Busan in 4K with Yeon Sang-ho
 DTSTART;TZID=America/Los_Angeles:20260815T143000
 DTEND;TZID=America/Los_Angeles:20260815T170000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019e0a0b-adbd-3b4f-a93e-c94024d83aed@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: director Yeon Sang-ho\n\nSaturday\, August 15\, 202
@@ -4160,7 +3944,7 @@ BEGIN:VEVENT
 SUMMARY:The Ugly with Yeon Sang-ho and Park Jeong-min
 DTSTART;TZID=America/Los_Angeles:20260815T193000
 DTEND;TZID=America/Los_Angeles:20260815T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019e0a0a-e285-aa70-93a8-d960d2b0c160@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: director Yeon Sang-ho and actor Park Jeong-min\n\nS
@@ -4186,7 +3970,7 @@ BEGIN:VEVENT
 SUMMARY:Munich in 35mm
 DTSTART;TZID=America/Los_Angeles:20260816T140000
 DTEND;TZID=America/Los_Angeles:20260816T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019d8804-e004-8e70-0ae5-e53d81175bb7@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 16\, 2026 at 2 pm\n\nLocation: Academy Museum 
@@ -4214,7 +3998,7 @@ BEGIN:VEVENT
 SUMMARY:Ponyo in 35mm
 DTSTART;TZID=America/Los_Angeles:20260817T143000
 DTEND;TZID=America/Los_Angeles:20260817T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd51f-43b5-e687-8774-0d5f81c04a9c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 17\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -4241,7 +4025,7 @@ BEGIN:VEVENT
 SUMMARY:A Snake of June
 DTSTART;TZID=America/Los_Angeles:20260817T193000
 DTEND;TZID=America/Los_Angeles:20260817T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd58f-be6b-74f3-d4b0-11084892d642@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 17\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -4266,7 +4050,7 @@ BEGIN:VEVENT
 SUMMARY:Ponyo in 35mm
 DTSTART;TZID=America/Los_Angeles:20260819T143000
 DTEND;TZID=America/Los_Angeles:20260819T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd51f-cf25-51cc-c97d-ba287de07ded@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 19\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -4293,7 +4077,7 @@ BEGIN:VEVENT
 SUMMARY:Out of Sight
 DTSTART;TZID=America/Los_Angeles:20260819T193000
 DTEND;TZID=America/Los_Angeles:20260819T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd532-0b98-b1eb-af29-bc9f09d740b6@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Film Editors Branch\n\nWednesday\, August 19\,
@@ -4319,7 +4103,7 @@ BEGIN:VEVENT
 SUMMARY:The Searchers in 70mm
 DTSTART;TZID=America/Los_Angeles:20260820T193000
 DTEND;TZID=America/Los_Angeles:20260820T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de50c-7daf-6b53-eb10-eaee76152d11@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, August 20\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -4345,7 +4129,7 @@ BEGIN:VEVENT
 SUMMARY:Ponyo in 35mm
 DTSTART;TZID=America/Los_Angeles:20260821T143000
 DTEND;TZID=America/Los_Angeles:20260821T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd520-9708-d19c-3849-8e284a442b56@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 21\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -4372,7 +4156,7 @@ BEGIN:VEVENT
 SUMMARY:Gunfight at the O.K. Corral in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260821T193000
 DTEND;TZID=America/Los_Angeles:20260821T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de50d-75de-011b-6835-d2abcb4adec8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 21\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -4398,7 +4182,7 @@ BEGIN:VEVENT
 SUMMARY:Nancy Drew
 DTSTART;TZID=America/Los_Angeles:20260822T110000
 DTEND;TZID=America/Los_Angeles:20260822T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019db103-fddd-6a12-cf78-c41fe1e4486c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 22\, 2026 at 11 am\n\nLocation: Academy Muse
@@ -4422,7 +4206,7 @@ BEGIN:VEVENT
 SUMMARY:The Ten Commandments in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260822T120000
 DTEND;TZID=America/Los_Angeles:20260822T133000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de50f-21df-5b2b-aa64-3ac6e6d9ce9e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 22\, 2026 at 12 pm\n\nLocation: Academy Muse
@@ -4446,7 +4230,7 @@ BEGIN:VEVENT
 SUMMARY:Funny Face
 DTSTART;TZID=America/Los_Angeles:20260823T110000
 DTEND;TZID=America/Los_Angeles:20260823T133000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dff3e-49fd-4d34-726a-fa34142e7d20@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 11 am\n\nLocation: Academy Museum
@@ -4468,7 +4252,7 @@ BEGIN:VEVENT
 SUMMARY:Jackie
 DTSTART;TZID=America/Los_Angeles:20260823T140000
 DTEND;TZID=America/Los_Angeles:20260823T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019d8803-b2c0-a887-a0ba-9fdddd5907b3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 2 pm\n\nLocation: Academy Museum 
@@ -4492,7 +4276,7 @@ BEGIN:VEVENT
 SUMMARY:Hot Spell in 4K
 DTSTART;TZID=America/Los_Angeles:20260823T150000
 DTEND;TZID=America/Los_Angeles:20260823T170000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de511-03b4-d950-feef-fa89b7d15a45@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 3 pm\n\nLocation: Academy Museum 
@@ -4520,7 +4304,7 @@ BEGIN:VEVENT
 SUMMARY:White Christmas in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260823T193000
 DTEND;TZID=America/Los_Angeles:20260823T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de512-76dc-82b2-35eb-c7b2f9f6791e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -4544,7 +4328,7 @@ BEGIN:VEVENT
 SUMMARY:The Secret World of Arrietty
 DTSTART;TZID=America/Los_Angeles:20260824T143000
 DTEND;TZID=America/Los_Angeles:20260824T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd521-7b44-c524-f75d-3935ed4b9d41@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 24\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -4566,7 +4350,7 @@ BEGIN:VEVENT
 SUMMARY:Anything Goes in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260824T193000
 DTEND;TZID=America/Los_Angeles:20260824T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de513-00e0-5754-7620-1708e4e8d8c2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 24\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -4592,7 +4376,7 @@ BEGIN:VEVENT
 SUMMARY:The Secret World of Arrietty
 DTSTART;TZID=America/Los_Angeles:20260826T143000
 DTEND;TZID=America/Los_Angeles:20260826T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd521-b4f4-a7ee-5873-dcf85008501d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 26\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -4614,7 +4398,7 @@ BEGIN:VEVENT
 SUMMARY:To Catch a Thief in 4K
 DTSTART;TZID=America/Los_Angeles:20260826T193000
 DTEND;TZID=America/Los_Angeles:20260826T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de51f-1614-b551-b58a-67d29d24c360@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 26\, 2026 at 7:30 pm\n\nLocation: Academy M
@@ -4640,7 +4424,7 @@ BEGIN:VEVENT
 SUMMARY:We’re No Angels in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260827T193000
 DTEND;TZID=America/Los_Angeles:20260827T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de514-3234-fd98-dc7c-4435b1633d41@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, August 27\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -4666,7 +4450,7 @@ BEGIN:VEVENT
 SUMMARY:Gallery Spotlight: Cinematic Makeup and Hairstyling with Ve Neill
 DTSTART;TZID=America/Los_Angeles:20260828T120000
 DTEND;TZID=America/Los_Angeles:20260828T130000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dc075-f108-7589-f25f-e0d3f3711c8f@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Friday\, August 28\, 2026 at 12 pm\n\nLocation: Sidney Poitier
@@ -4685,7 +4469,7 @@ BEGIN:VEVENT
 SUMMARY:The Secret World of Arrietty
 DTSTART;TZID=America/Los_Angeles:20260828T143000
 DTEND;TZID=America/Los_Angeles:20260828T150000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dd522-293b-8db0-1e4f-d04df892a954@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 28\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -4707,7 +4491,7 @@ BEGIN:VEVENT
 SUMMARY:North by Northwest in 70mm
 DTSTART;TZID=America/Los_Angeles:20260828T193000
 DTEND;TZID=America/Los_Angeles:20260828T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de51f-ab06-6108-b040-1bbb6bce74fc@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 28\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -4735,7 +4519,7 @@ BEGIN:VEVENT
 SUMMARY:Zootopia
 DTSTART;TZID=America/Los_Angeles:20260829T110000
 DTEND;TZID=America/Los_Angeles:20260829T121500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019dda3b-5b6c-ff0e-36d9-e452ba39a26f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, August 29\, 2026 at 11 am\n
@@ -4765,7 +4549,7 @@ BEGIN:VEVENT
 SUMMARY:The Court Jester in 4K
 DTSTART;TZID=America/Los_Angeles:20260829T140000
 DTEND;TZID=America/Los_Angeles:20260829T170000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de530-6df9-22e6-2f9f-98c8af80ef63@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 29\, 2026 at 2 pm\n\nLocation: Academy Museu
@@ -4794,7 +4578,7 @@ BEGIN:VEVENT
 SUMMARY:The Joker is Wild in 4K
 DTSTART;TZID=America/Los_Angeles:20260829T193000
 DTEND;TZID=America/Los_Angeles:20260829T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de521-a3d9-0807-ac46-6ad21e437134@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 29\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -4820,7 +4604,7 @@ BEGIN:VEVENT
 SUMMARY:Artists and Models in 4K
 DTSTART;TZID=America/Los_Angeles:20260830T110000
 DTEND;TZID=America/Los_Angeles:20260830T130000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de531-95a3-83a5-d03e-2cf9083cbd5e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 11 am\n\nLocation: Academy Museum
@@ -4846,7 +4630,7 @@ BEGIN:VEVENT
 SUMMARY:Da 5 Bloods
 DTSTART;TZID=America/Los_Angeles:20260830T140000
 DTEND;TZID=America/Los_Angeles:20260830T160000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019d8802-dd35-9e27-711e-afcf7156045f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 2 pm\n\nLocation: Academy Museum 
@@ -4873,7 +4657,7 @@ BEGIN:VEVENT
 SUMMARY:The Girl Rush in 4K
 DTSTART;TZID=America/Los_Angeles:20260830T150000
 DTEND;TZID=America/Los_Angeles:20260830T164500
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de532-8da6-6426-d183-19f2891686ac@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 3 pm\n\nLocation: Academy Museum 
@@ -4899,7 +4683,7 @@ BEGIN:VEVENT
 SUMMARY:One Battle After Another in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260830T193000
 DTEND;TZID=America/Los_Angeles:20260830T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de515-367d-098b-c57d-6dacbcee8e5a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -4925,7 +4709,7 @@ BEGIN:VEVENT
 SUMMARY:One-Eyed Jacks in 4K
 DTSTART;TZID=America/Los_Angeles:20260831T193000
 DTEND;TZID=America/Los_Angeles:20260831T223000
-DTSTAMP:20260518T091849Z
+DTSTAMP:20260519T091646Z
 UID:019de522-dc97-112e-3113-d16e7bff810d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 31\, 2026 at 7:30 pm\n\nLocation: Academy Muse
