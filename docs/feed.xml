@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 09:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:06:15 +0000</lastBuildDate>
     <item>
       <title>Car Wash 50th Anniversary Screening in 4K — Jun 20</title>
       <link>https://www.academymuseum.org/en/programs/detail/car-wash-50th-anniversary-and-restoration-premiere-019db106-4226-a625-5d8f-1f850e40e197</link>
@@ -80,31 +80,9 @@ The Rescue Aid Society, an international secret association of mice, receives a 
       <pubDate>Sat, 20 Jun 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>Phantom Thread in 70mm — Jun 21</title>
-      <link>https://www.academymuseum.org/en/programs/detail/phantom-thread-019d8808-824f-8193-5719-ea7f79594e16</link>
-      <description>Sunday, June 21, 2026 at 1 pm
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 2h 10m
-
-2017 | 130 min. | USA | Color | English | Rated R | 70mm
-DIRECTED/WRITTEN BY: Paul Thomas Anderson 
-WITH: Daniel Day-Lewis, Lesley Manville, Vicky Krieps, Camilla Rutherford
-Print courtesy of the Academy Film Archive.
-
-Type: Screenings
-
-Daniel Day-Lewis reunited with his There Will Be Blood director Paul Thomas Anderson for this offbeat romantic drama set in 1950s England. Day-Lewis plays Reynolds Woodcock, a brilliant clothing designer, who falls for a young waitress (Vicky Krieps) only to find their relationship moving in unexpected directions. Mark Bridges won the Oscar for his elegant costume designs, and the film’s six nominations included Best Picture, Directing, and the performances of Day-Lewis and Lesley Manville as Woodcock’s strong-willed sister. Radiohead’s Jonny Greenwood, a regular Anderson collaborator, received his first Oscar nomination for the score. Inspired by the kinds of artists Day-Lewis’s character would listen to, such as Nelson Riddle and especially Glenn Gould, Greenwood composed a score dominated by piano and what Anderson called “big-ass strings.”</description>
-      <guid isPermaLink="false">019d8808-824f-8193-5719-ea7f79594e16</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/JGTbASeY9jtkbGc944tYH/5758b4bd099c272e02a95769073e145f/SERIES_HEROAug23_PHANTOM_THREAD_OscarSundays1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jun 2026 13:00:00 -0700</pubDate>
-    </item>
-    <item>
       <title>Summertime in 35mm — Jun 21</title>
       <link>https://www.academymuseum.org/en/programs/detail/summertime-019db108-13ff-5335-b104-60a373cf8855</link>
-      <description>Sunday, June 21, 2026 at 6:30 pm
+      <description>Sunday, June 21, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -124,7 +102,29 @@ Summertime was restored in 2003 by the Academy Film Archive and the British Film
       <guid isPermaLink="false">019db108-13ff-5335-b104-60a373cf8855</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/GN7o2WFX4iJQr9EQFfhAp/4838c741b59195f53bed4a9c1c9a728a/Jun21_SUMMERTIME_Spotlights3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jun 2026 18:30:00 -0700</pubDate>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Phantom Thread in 70mm — Jun 21</title>
+      <link>https://www.academymuseum.org/en/programs/detail/phantom-thread-019d8808-824f-8193-5719-ea7f79594e16</link>
+      <description>Sunday, June 21, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 2h 10m
+
+2017 | 130 min. | USA | Color | English | Rated R | 70mm
+DIRECTED/WRITTEN BY: Paul Thomas Anderson 
+WITH: Daniel Day-Lewis, Lesley Manville, Vicky Krieps, Camilla Rutherford
+Print courtesy of the Academy Film Archive.
+
+Type: Screenings
+
+Daniel Day-Lewis reunited with his There Will Be Blood director Paul Thomas Anderson for this offbeat romantic drama set in 1950s England. Day-Lewis plays Reynolds Woodcock, a brilliant clothing designer, who falls for a young waitress (Vicky Krieps) only to find their relationship moving in unexpected directions. Mark Bridges won the Oscar for his elegant costume designs, and the film’s six nominations included Best Picture, Directing, and the performances of Day-Lewis and Lesley Manville as Woodcock’s strong-willed sister. Radiohead’s Jonny Greenwood, a regular Anderson collaborator, received his first Oscar nomination for the score. Inspired by the kinds of artists Day-Lewis’s character would listen to, such as Nelson Riddle and especially Glenn Gould, Greenwood composed a score dominated by piano and what Anderson called “big-ass strings.”</description>
+      <guid isPermaLink="false">019d8808-824f-8193-5719-ea7f79594e16</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/JGTbASeY9jtkbGc944tYH/5758b4bd099c272e02a95769073e145f/SERIES_HEROAug23_PHANTOM_THREAD_OscarSundays1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Pom Poko — Jun 22</title>
