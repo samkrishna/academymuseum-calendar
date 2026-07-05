@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 10:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 10:12:54 +0000</lastBuildDate>
     <item>
       <title>Some Like It Hot in 4K — Jul 2</title>
       <link>https://www.academymuseum.org/en/programs/detail/some-like-it-hot-019dda6b-59cc-be2f-090e-f2f741d4e082</link>
@@ -124,31 +124,9 @@ Penned by Arthur Miller, this contemporary Western centers on the recently divor
       <pubDate>Fri, 03 Jul 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>The Great Muppet Caper in 4K — Jul 4</title>
-      <link>https://www.academymuseum.org/en/programs/detail/the-great-muppet-caper-019db104-9ede-2724-6ea8-30871fa1a1f9</link>
-      <description>Saturday, July 4, 2026 at 11 am
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 37m
-
-1981 | 97 min. | UK, USA | Color | English | Rated G | 4K
-DIRECTED BY: Jim Henson 
-WRITTEN BY: Tom Patchett, Jay Tarses, Jerry Juhl, Jack Rose 
-WITH: Jim Henson, Frank Oz, Dave Goelz, Jerry Nelson
-
-Type: Screenings
-
-This second Muppets feature film casts Kermit the Frog, Fozzie Bear, and the Great Gonzo as intrepid journalists on location in London to interview fashion icon Lady Holiday about the recent theft of her jewels. Hired as Holiday’s secretary is aspiring model Miss Piggy, who poses as her boss when Kermit arrives. Mistaken identities, espionage, and hijinks abound in this kooky escapade that features cameos from comedy greats Charles Grodin, John Cleese, and international raconteur Peter Ustinov. The film received an Academy Award nomination for Music (Original Song) for the delightful “The First Time It Happens.”</description>
-      <guid isPermaLink="false">019db104-9ede-2724-6ea8-30871fa1a1f9</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/36dHrooW4vo0x7IEXNXVTm/d627588572e4cd52e998ddbd6feffbc6/1_Jul4_GREAT_MUPPET_CAPER_Matinees8.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 11:00:00 -0700</pubDate>
-    </item>
-    <item>
       <title>Jaws in 4K — Jul 4</title>
       <link>https://www.academymuseum.org/en/programs/detail/jaws-019db107-26cd-12fd-87e7-a1ebc697e1fa</link>
-      <description>Saturday, July 4, 2026 at 2:30 pm
+      <description>Saturday, July 4, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -167,7 +145,29 @@ Jaws: The Exhibition is curated by Jenny He, senior exhibitions curator, and Emi
       <guid isPermaLink="false">019db107-26cd-12fd-87e7-a1ebc697e1fa</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4JQfH8xE0hE5PNajf8WA4Y/e3647983f796721cd6e647f8fd8424e7/Jul4_JAWS_Spotlight1MHL.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 14:30:00 -0700</pubDate>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Great Muppet Caper in 4K — Jul 4</title>
+      <link>https://www.academymuseum.org/en/programs/detail/the-great-muppet-caper-019db104-9ede-2724-6ea8-30871fa1a1f9</link>
+      <description>Saturday, July 4, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 37m
+
+1981 | 97 min. | UK, USA | Color | English | Rated G | 4K
+DIRECTED BY: Jim Henson 
+WRITTEN BY: Tom Patchett, Jay Tarses, Jerry Juhl, Jack Rose 
+WITH: Jim Henson, Frank Oz, Dave Goelz, Jerry Nelson
+
+Type: Screenings
+
+This second Muppets feature film casts Kermit the Frog, Fozzie Bear, and the Great Gonzo as intrepid journalists on location in London to interview fashion icon Lady Holiday about the recent theft of her jewels. Hired as Holiday’s secretary is aspiring model Miss Piggy, who poses as her boss when Kermit arrives. Mistaken identities, espionage, and hijinks abound in this kooky escapade that features cameos from comedy greats Charles Grodin, John Cleese, and international raconteur Peter Ustinov. The film received an Academy Award nomination for Music (Original Song) for the delightful “The First Time It Happens.”</description>
+      <guid isPermaLink="false">019db104-9ede-2724-6ea8-30871fa1a1f9</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/36dHrooW4vo0x7IEXNXVTm/d627588572e4cd52e998ddbd6feffbc6/1_Jul4_GREAT_MUPPET_CAPER_Matinees8.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Giant in 4K — Jul 5</title>
