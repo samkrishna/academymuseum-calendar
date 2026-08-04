@@ -24,216 +24,50 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Green Border (Zielona granica) with Agnieszka Holland
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-DTSTAMP:20260803T112253Z
-UID:019de500-6ff0-16b7-9b06-34d2c9405882@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Friday\, July 31\, 2026\n\nLocation: Academy Museum of Motion 
- Pictures\n\nRuntime: 2h 32m\n\n2023 | 152 min. | Poland\, France\, Czechia
- \, Belgium | Black-and-white | Polish\, Arabic\, English\, French with Eng
- lish subtitles | Not Rated | DCP  \nDIRECTED BY: Agnieszka Holland  \nPROD
- UCED BY: Fred Bernstein\, Agnieszka Holland\, Marcin Wierzchoslawski\nWRIT
- TEN BY: Maciej Pisuk\, Gabriela  Łazarkiewicz-Sieczko\, Agnieszka Holland
-  \nWITH: Jalal Altawil\, Maja Ostaszewska\, Behi Djanati Atai\, Tomasz Wł
- osok\n\nType: Screenings\n\nWinner of the Special Jury Prize at the 2023 V
- enice Film Festival\, Holland’s “angry and urgent masterpiece” (The 
- Guardian) centers around the 2021 migrant crisis that unfolded in the excl
- usion zone between Poland and Belarus. Named for the swamplands that cover
-  the region\, Holland’s impactful narrative was conceived by reflecting 
- on actual events\, using interviews with real border guards and refugees t
- o inform the four interwoven stories that supply the work with its incredi
- ble emotional depth. Made with trusted collaborators\, including cinematog
- rapher Tomasz Naumiuk and co-writer Gabriela Łazarkiewicz-Sieczko\, Green
-  Border insists on depicting regional upheaval and conflict by prioritizin
- g its human impact.\nTim Grieson\, senior US film critic for Screen Intern
- ational\, moderates.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/green-border-with-agn
- ieszka-holland-019de500-6ff0-16b7-9b06-34d2c9405882
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Europa Europa in 35mm with Agnieszka Holland
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-DTSTAMP:20260803T112253Z
-UID:019de508-00ca-3ab5-3fe2-e71f692cf80b@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Saturday\, August 1\, 2026\n\nLocation: Academy Museum of Moti
- on Pictures\n\nRuntime: 1h 52m\n\n1990 | 112 min. | Germany\, France\, Pol
- and | Color | German\, Russian\, Polish\, Hebrew with English subtitles | 
- Rated R | 35mm  \nDIRECTED/WRITTEN BY: Agnieszka Holland  \nPRODUCED BY: A
- rtur Brauner\, Margaret Ménégoz \nWITH: Marco Hofschneider\, André Wilm
- s\, Ashley Wanninger\, Klaus Abramowsky\nPrint courtesy of the Joe Dante a
- nd Jon Davison Collection at the Academy Film Archive.\n\nType: Screenings
- \n\nInspired by the memoirs of Solomon Perel\, a German Jew who evaded Naz
- i persecution by joining their ranks\, Holland’s WWII–era biopic offer
- s "new immediacy to the outrage by locating specific\, wrenching details t
- hat transcend cliché" (New York Times). Nominated for Best Adapted Screen
- play at the 64th Oscars—the film was shut out of the then-named Foreign 
- Language Film category when Germany refused to nominate it for its themati
- c content—Holland’s complicated work investigates ways that denial and
-  untruths can lead to irrepressible personal\, generational\, and cultural
-  anguish. \nProducer Mark Johnson moderates.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/europa-europa-with-ag
- nieszka-holland-019de508-00ca-3ab5-3fe2-e71f692cf80b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz with Agnieszka Holland
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-DTSTAMP:20260803T112253Z
-UID:019de501-60bd-d662-b2b6-9044e8295dde@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Saturday\, August 1\, 2026\n\nLocation: Academy Museum of Moti
- on Pictures\n\nRuntime: 2h 7m\n\n2025 | 127 min. | Czechia\, Poland\, Germ
- any\, France\, Turkey | Color\, Black-and-white | German\, Czech\, Yiddish
- \, English\, French\, Japanese with English subtitles | Not Rated | DCP  \
- nDIRECTED BY: Agnieszka Holland \nPRODUCED BY:  Šárka Cimbalová\, Agnie
- szka Holland \nWRITTEN BY: Marek Epstein \nWITH: Peter Kurth\, Daniel Dong
- res\, Idan Weiss\, Aaron Friesz\n\nType: Screenings\n\nThe life of German-
- speaking Jewish-Czech modernist author Franz Kafka\, who died in 1924 at 4
- 0 after publishing three novels and a handful of short stories and parable
- s\, was a natural story for Holland to adapt into a film: she read his fam
- ous Metamorphosis when she was 14 and felt “since that time\, Kafka is m
- y brother” (Screen Daily). Wanting to give the character “light—and 
- some punk infusion\,” Holland takes a playful approach to the author’s
-  idiosyncratic personality through “some kind of biography” that she h
- opes appeals to young people who might not be familiar with this man\, who
-  has been written about far more voluminously than he was able to write ab
- out himself. \nFilmmaker Jeremy Kagan moderates.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/franz-with-agnieszka-
- holland-019de501-60bd-d662-b2b6-9044e8295dde
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Who Framed Roger Rabbit in Dolby Vision
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-DTSTAMP:20260803T112253Z
-UID:019db102-6a44-5086-0897-939caa28feba@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Saturday\, August 1\, 2026\n\nLocation: Academy Museum of Moti
- on Pictures\n\nRuntime: 1h 47m\n\n1988. 107 min. USA. Color. English. Rate
- d PG. DCP. Dolby Vision\nDIRECTED BY: Robert Zemeckis  \nWRITTEN BY: Jeff
- rey Price\, Peter S. Seaman \nWITH: Bob Hoskins\, Christopher Lloyd\, Joa
- nna Cassidy\, Charles Fleischer\n\nType: Screenings\n\nEddie Valiant (Bob 
- Hoskins)\, a private eye in 1930s Los Angeles\, gets an unexpected client
- —Roger Rabbit\, a cartoon film star. Director Robert Zemeckis’s witty 
- comedy-mystery is a dazzling mix of live-action and animation\, incorporat
- ing beloved cartoon characters from Disney and other studios. Nominated fo
- r its art direction\, cinematography\, and sound\, it won for its film edi
- ting\, sound effects editing\, and visual effects. Richard Williams also r
- eceived a Special Achievement Award from the Academy for his animation dir
- ection.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/who-framed-roger-rabb
- it-019db102-6a44-5086-0897-939caa28feba
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Korczak with Agnieszka Holland
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-DTSTAMP:20260803T112253Z
-UID:019de508-ee77-5b77-a19b-d73be4f73701@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Sunday\, August 2\, 2026\n\nLocation: Academy Museum of Motion
-  Pictures\n\nRuntime: 1h 58m\n\n1990 | 118 min | Poland\, Germany\, United
-  Kingdom\, France | Black-and-white | Polish\, German with English subtitl
- es | Not Rated | DCP  \nDIRECTED BY: Andrzej Wajda  \nPRODUCED BY: Janusz 
- Morgenstern\, Willi Segler\, Daniel Toscan du Plantier\, Regina Ziegler\nW
- RITTEN BY: Agnieszka Holland  \nWITH: Wojciech Pszoniak\, Ewa Dałkowska\,
-  Teresa Budzisz-Krzyżanowska\, Marzena Trybala\n\nType: Screenings\n\nJus
- t after Agnieszka Holland completed film school in Prague\, Polish filmmak
- er Andrzej Wajda\, already an established and celebrated auteur for films 
- like Ashes and Diamonds (1958)\, welcomed the young aspirant to visit his 
- set of The Wedding (1973). Over time\, Holland said\, “our relation move
- d from ‘master–pupil’ to something much more equal in collaboration 
- and friendship\,” and she started to write scripts with him. One of thei
- r most meaningful collaborations was this 1990 biopic about the extraordin
- ary Polish-Jewish humanitarian Janusz Korczak\, remembered “for his peda
- gogical philosophy and his heroic actions during the Holocaust\,” Hollan
- d told the BFI. With stunning cinematography by Robby Müller (Dead Man\, 
- 1995)\, Korczak is\, as Steven Spielberg once wrote\, "one of the most imp
- ortant European pictures about the Holocaust."\nWriter and literary curato
- r Louise Steinman moderates.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/korczak-with-agnieszk
- a-holland-019de508-ee77-5b77-a19b-d73be4f73701
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Out of Africa in 35mm
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-DTSTAMP:20260803T112253Z
-UID:019d8806-52fd-216b-45c9-4904d7d5b323@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Sunday\, August 2\, 2026\n\nLocation: Academy Museum of Motion
-  Pictures\n\nRuntime: 2h 42m\n\n1985 | 162 min. | USA | Color | English | 
- Rated PG | 35mm \nDIRECTED BY: Sydney Pollack \nWRITTEN BY: Kurt Leudtke \
- nWITH: Robert Redford\, Meryl Streep\, Klaus Maria Brandauer\, Michael Kit
- chen\nPrint courtesy of the Academy Film Archive.\n\nType: Screenings\n\nT
- he memoir of Danish author Karen Blixen (published under her pen name Isak
-  Dinesen) was adapted by director Sydney Pollack and screenwriter Kurt Leu
- dtke for this lavish romantic drama\, focusing on the years Blixen (Best A
- ctress nominee Meryl Streep) spent running a coffee farm in Nairobi and he
- r relationship with hunter Denys Finch-Hatton (Robert Redford). Out of Afr
- ica was nominated for 11 Oscars and won seven including Best Picture\, Dir
- ecting (both for Pollack)\, Adapted Screenplay\, Art Direction\, Cinematog
- raphy and Sound\, with John Barry winning his fourth Oscar for an achingly
-  romantic score.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/out-of-africa-019d880
- 6-52fd-216b-45c9-4904d7d5b323
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Cat Returns
-DTSTART;TZID=America/Los_Angeles:20260803T143000
-DTEND;TZID=America/Los_Angeles:20260803T150000
-DTSTAMP:20260803T112253Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+DTSTAMP:20260804T103914Z
 UID:019dd517-16d7-e8e7-5dcb-d39a9c5fd257@academymuseum.org
 CATEGORIES:Screenings
-DESCRIPTION:Monday\, August 3\, 2026 at 2:30 pm\n\nLocation: Academy Museu
- m of Motion Pictures\n\nRuntime: 1h 15m\n\n2002 | 75 min. | Japan | Color 
- | Japanese with English subtitles | Rated G | DCP\nDIRECTED BY: Hiroyuki M
- orita \nWRITTEN BY: Reiko Yoshida \nWITH: Chizuru Ikewaki\, Yoshihiko Ha
- kamada\, Aki Maeda\, Takayuki Yamada\n\nType: Screenings\n\nA spin-off of 
- Whisper of the Heart\, The Cat Returns finds another schoolgirl encounteri
- ng a mysterious tomcat on the street\, though this time she is led to a fa
- ntastic world beyond her wildest dreams. Launched into a cobblestoned magi
- c kingdom ruled by cat royalty—including a motorcade replete with vassal
- s\, maidens\, and even Secret Service—she must enlist the help of the el
- usive Baron Humbert von Gikkingen (the same cat featured as a statue in Wh
- isper of the Heart) if she hopes to make it back home. The only feature fi
- lm directed by Hiroyuki Morita to date\, The Cat Returns is a feline fligh
- t of fancy.
+DESCRIPTION:Monday\, August 3\, 2026\n\nLocation: Academy Museum of Motion
+  Pictures\n\nRuntime: 1h 15m\n\n2002 | 75 min. | Japan | Color | Japanese 
+ with English subtitles | Rated G | DCP\nDIRECTED BY: Hiroyuki Morita \nWR
+ ITTEN BY: Reiko Yoshida \nWITH: Chizuru Ikewaki\, Yoshihiko Hakamada\, Ak
+ i Maeda\, Takayuki Yamada\n\nType: Screenings\n\nA spin-off of Whisper of 
+ the Heart\, The Cat Returns finds another schoolgirl encountering a myster
+ ious tomcat on the street\, though this time she is led to a fantastic wor
+ ld beyond her wildest dreams. Launched into a cobblestoned magic kingdom r
+ uled by cat royalty—including a motorcade replete with vassals\, maidens
+ \, and even Secret Service—she must enlist the help of the elusive Baron
+  Humbert von Gikkingen (the same cat featured as a statue in Whisper of th
+ e Heart) if she hopes to make it back home. The only feature film directed
+  by Hiroyuki Morita to date\, The Cat Returns is a feline flight of fancy.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/the-cat-returns-019dd
  517-16d7-e8e7-5dcb-d39a9c5fd257
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Man Escaped in 35mm
-DTSTART;TZID=America/Los_Angeles:20260803T193000
-DTEND;TZID=America/Los_Angeles:20260803T223000
-DTSTAMP:20260803T112253Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+DTSTAMP:20260804T103914Z
 UID:019dd584-92b4-fd24-11c8-7d0ce23af494@academymuseum.org
 CATEGORIES:Screenings
-DESCRIPTION:Monday\, August 3\, 2026 at 7:30 pm\n\nLocation: Academy Museu
- m of Motion Pictures\n\nRuntime: 1h 41m\n\n1956 | 101 min. | France | Blac
- k-and-White | French\, German | Not Rated | 35mm  \nDIRECTED/WRITTEN BY: 
- Robert Bresson \nWITH: François Leterrier\, Charles Le Clainche\, Mauric
- e Beerblock\, Roland Monod\n\nType: Screenings\n\n“On one side\, thick w
- alls\, bars\, soldiers\, weapons. On the other\, one lone man\, unarmed\, 
- doomed from the start.”\nIn minimalist Robert Bresson’s 1956 film\, a 
- French Resistance fighter attempts escape from a German military prison ag
- ainst impossible odds. While the title of the film seems to say it all\, i
- t belies the film’s gripping tension and near-silent sequences of harrow
- ing engineering feats\, unbelievable patience\, and human resilience\, all
-  performed with placid determination by François Leterrier as he embodies
-  lieutenant Fontaine\, a proxy for André Devigny\, whose life Bresson loo
- sely adapted for the screen from his 1956 memoir.
+DESCRIPTION:Monday\, August 3\, 2026\n\nLocation: Academy Museum of Motion
+  Pictures\n\nRuntime: 1h 41m\n\n1956 | 101 min. | France | Black-and-White
+  | French\, German | Not Rated | 35mm  \nDIRECTED/WRITTEN BY: Robert Bres
+ son \nWITH: François Leterrier\, Charles Le Clainche\, Maurice Beerblock
+ \, Roland Monod\n\nType: Screenings\n\n“On one side\, thick walls\, bars
+ \, soldiers\, weapons. On the other\, one lone man\, unarmed\, doomed from
+  the start.”\nIn minimalist Robert Bresson’s 1956 film\, a French Resi
+ stance fighter attempts escape from a German military prison against impos
+ sible odds. While the title of the film seems to say it all\, it belies th
+ e film’s gripping tension and near-silent sequences of harrowing enginee
+ ring feats\, unbelievable patience\, and human resilience\, all performed 
+ with placid determination by François Leterrier as he embodies lieutenant
+  Fontaine\, a proxy for André Devigny\, whose life Bresson loosely adapte
+ d for the screen from his 1956 memoir.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/a-man-escaped-019dd58
  4-92b4-fd24-11c8-7d0ce23af494
@@ -242,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:The Cat Returns
 DTSTART;TZID=America/Los_Angeles:20260805T143000
 DTEND;TZID=America/Los_Angeles:20260805T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd517-e48c-ba35-4370-f1b96ed34a7a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 5\, 2026 at 2:30 pm\n\nLocation: Academy Mu
@@ -267,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Titicut Follies in 4K
 DTSTART;TZID=America/Los_Angeles:20260805T193000
 DTEND;TZID=America/Los_Angeles:20260805T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd531-3419-7f41-baa2-1ec05eb4f02f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: film editor Kate Amend\nSelected by the Documentary
@@ -293,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:In the Cut in 35mm
 DTSTART;TZID=America/Los_Angeles:20260806T193000
 DTEND;TZID=America/Los_Angeles:20260806T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd585-40b8-73e6-0781-56750aa09dd3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, August 6\, 2026 at 7:30 pm\n\nLocation: Academy Mus
@@ -318,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:The Cat Returns
 DTSTART;TZID=America/Los_Angeles:20260807T143000
 DTEND;TZID=America/Los_Angeles:20260807T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd519-9fe3-64e5-f810-1c587e19cb45@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 7\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -343,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Basic Instinct in 4K
 DTSTART;TZID=America/Los_Angeles:20260807T193000
 DTEND;TZID=America/Los_Angeles:20260807T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd587-0e22-9625-5806-8b921623f8a2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 7\, 2026 at 7:30 pm\n\nLocation: Academy Museu
@@ -372,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Harriet the Spy in 4K
 DTSTART;TZID=America/Los_Angeles:20260808T110000
 DTEND;TZID=America/Los_Angeles:20260808T121500
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019db102-fe01-43a3-84a5-eeeb5fb60e21@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 8\, 2026 at 11 am\n\nLocation: Academy Museu
@@ -398,7 +232,7 @@ SUMMARY:Popcorn Disabilities Conversation and Book Signing with Kristen Lo
  pez
 DTSTART;TZID=America/Los_Angeles:20260808T140000
 DTEND;TZID=America/Los_Angeles:20260808T160000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019ddf76-e982-c361-1f01-60e1b84b6d8b@academymuseum.org
 CATEGORIES:Book Signings,Conversations
 DESCRIPTION:Journalist\, author\, and disability advocate Kristen Lopez si
@@ -410,20 +244,21 @@ DESCRIPTION:Journalist\, author\, and disability advocate Kristen Lopez si
  —and too often misrepresented—in movies. It’s all examined in her bo
  ok\, Popcorn Disabilities: The Highs and Lows of Disabled Representation i
  n the Movies. \nLopez appears for a free conversation as well as a separat
- e\, ticketed signing of Popcorn Disabilities.\nPopcorn Disabilities is Lop
- ez’s impassioned\, yet fun and engaging survey of how Hollywood has deal
- t with disability over the last century. She reveals that\, even when they
- 're not just narrative props to help an able-bodied protagonist\, movie ch
- aracters with disabilities are overwhelmingly white\, affluent\, and conve
- ntionally attractive\, obscuring the variety of disabilities and the exper
- iences of those who deal with them. But she also explains where films have
-  gotten it right\, and how the power of the medium can enlighten and educa
- te in the future. \nFrom little-remembered gems such as Tod Browning's Fre
- aks (1932)—one of the earliest attempts to show dimensionality in charac
- ters with disabilities—to contemporary films such as CODA (2021)\, My Le
- ft Foot (1989)\, A Different Man (2024)\, and many others\, it challenges 
- popular assumptions about disability while never losing sight of movies' u
- nique power\, influence\, and potential as a tool for social good.
+ e\, ticketed signing of Popcorn Disabilities. American Sign Language (ASL)
+  interpretation will be available during the program.\nPopcorn Disabilitie
+ s is Lopez’s impassioned\, yet fun and engaging survey of how Hollywood 
+ has dealt with disability over the last century. She reveals that\, even w
+ hen they're not just narrative props to help an able-bodied protagonist\, 
+ movie characters with disabilities are overwhelmingly white\, affluent\, a
+ nd conventionally attractive\, obscuring the variety of disabilities and t
+ he experiences of those who deal with them. But she also explains where fi
+ lms have gotten it right\, and how the power of the medium can enlighten a
+ nd educate in the future. \nFrom little-remembered gems such as Tod Browni
+ ng's Freaks (1932)—one of the earliest attempts to show dimensionality i
+ n characters with disabilities—to contemporary films such as CODA (2021)
+ \, My Left Foot (1989)\, A Different Man (2024)\, and many others\, it cha
+ llenges popular assumptions about disability while never losing sight of m
+ ovies' unique power\, influence\, and potential as a tool for social good.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/popcorn-disabilities-
  book-signing-with-kristen-lopez-019ddf76-e982-c361-1f01-60e1b84b6d8b
@@ -432,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:Fritz Lang’s M
 DTSTART;TZID=America/Los_Angeles:20260808T143000
 DTEND;TZID=America/Los_Angeles:20260808T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd589-21a2-cf22-47aa-909c46d0348a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Academy Governor Howard A. Rodman\n\nSaturday\, Aug
@@ -460,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:The 4th Man in 35mm
 DTSTART;TZID=America/Los_Angeles:20260808T193000
 DTEND;TZID=America/Los_Angeles:20260808T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd589-d8d0-bf49-4cbf-adea87d13136@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 8\, 2026 at 7:30 pm\n\nLocation: Academy Mus
@@ -489,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:The Thin Red Line in 35mm
 DTSTART;TZID=America/Los_Angeles:20260809T140000
 DTEND;TZID=America/Los_Angeles:20260809T160000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019d8806-49c1-0b1c-0a34-0cd360c2e8e9@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 9\, 2026 at 2 pm\n\nLocation: Academy Museum o
@@ -513,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Bunny Lake Is Missing in 4K
 DTSTART;TZID=America/Los_Angeles:20260809T143000
 DTEND;TZID=America/Los_Angeles:20260809T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd58a-8b76-50a9-ab86-a9842016a5b1@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 9\, 2026 at 2:30 pm\n\nLocation: Academy Museu
@@ -539,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Elle
 DTSTART;TZID=America/Los_Angeles:20260809T183000
 DTEND;TZID=America/Los_Angeles:20260809T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd58b-36cb-2931-b14f-63ac39d62b9b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 9\, 2026 at 6:30 pm\n\nLocation: Academy Museu
@@ -563,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Howl’s Moving Castle
 DTSTART;TZID=America/Los_Angeles:20260810T143000
 DTEND;TZID=America/Los_Angeles:20260810T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd51d-7564-f197-c616-12ecc8530357@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 10\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -585,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:The Prestige in 35mm
 DTSTART;TZID=America/Los_Angeles:20260810T193000
 DTEND;TZID=America/Los_Angeles:20260810T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd58c-400e-aae7-d42b-8937636a5c73@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 10\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -611,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Howl’s Moving Castle
 DTSTART;TZID=America/Los_Angeles:20260812T143000
 DTEND;TZID=America/Los_Angeles:20260812T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd51d-f06d-ae0b-1b9a-1454e7f686d7@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 12\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -633,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:To Be or Not to Be
 DTSTART;TZID=America/Los_Angeles:20260812T193000
 DTEND;TZID=America/Los_Angeles:20260812T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd531-8cec-e732-df70-044dfc38219b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Executives Branch\n\nWednesday\, August 12\, 2
@@ -659,26 +494,26 @@ BEGIN:VEVENT
 SUMMARY:Fatal Attraction with Adrian Lyne
 DTSTART;TZID=America/Los_Angeles:20260813T193000
 DTEND;TZID=America/Los_Angeles:20260813T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd58c-f37f-8692-e2f3-b2c358295fda@academymuseum.org
 CATEGORIES:Screenings
-DESCRIPTION:In person: director Adrian Lyne\n\nThursday\, August 13\, 2026
-  at 7:30 pm\n\nLocation: Academy Museum of Motion Pictures\n\nRuntime: 1h 
- 59m\n\n1987 | 119 min. | USA | Color | English | Rated R | 4K DCP\nDIRECTE
- D BY: Adrian Lyne \nWRITTEN BY: James Dearden \nWITH: Michael Douglas\, 
- Glenn Close\, Anne Archer\, Ellen Hamilton Latzen\n\nType: Screenings\n\nA
- drian Lyne’s groundbreaking 1987 erotic thriller\, which garnered six Os
- car nominations\, contributed to the phenomenal boom of this subgenre\, an
- d it remains iconic and timeless. Glenn Close is compelling in her portray
- al of Alex\, a book editor who has an affair with Dan (Michael Douglas)\, 
- a happily married attorney whose life becomes an unbearable torture after 
- the tryst. Passion turns into obsession\; Alex not only terrorizes Dan but
-  also his wife and young daughter. Close’s deep dive into Alex’s psych
- ological state\, exhibited in the extreme measures she takes to possess Da
- n\, is manifested in an intense performance\,and the chemistry she shares 
- with Douglas’s riveting Dan creates simultaneously repulsive and magneti
- c dynamics between them.\nMaya Montañez Smukler\, head of the UCLA Film &
-  Television Archive Research and Study Center\, moderates.
+DESCRIPTION:In person: director Adrian Lyne in conversation with Maya Mont
+ añez Smukler\, head of the UCLA Film & Television Archive Research and St
+ udy Center\n\nThursday\, August 13\, 2026 at 7:30 pm\n\nLocation: Academy 
+ Museum of Motion Pictures\n\nRuntime: 1h 59m\n\n1987 | 119 min. | USA | Co
+ lor | English | Rated R | 4K DCP\nDIRECTED BY: Adrian Lyne \nWRITTEN BY: 
+ James Dearden \nWITH: Michael Douglas\, Glenn Close\, Anne Archer\, Ellen
+  Hamilton Latzen\n\nType: Screenings\n\nAdrian Lyne’s groundbreaking 198
+ 7 erotic thriller\, which garnered six Oscar nominations\, contributed to 
+ the phenomenal boom of this subgenre\, and it remains iconic and timeless.
+  Glenn Close is compelling in her portrayal of Alex\, a book editor who ha
+ s an affair with Dan (Michael Douglas)\, a happily married attorney whose 
+ life becomes an unbearable torture after the tryst. Passion turns into obs
+ ession\; Alex not only terrorizes Dan but also his wife and young daughter
+ . Close’s deep dive into Alex’s psychological state\, exhibited in the
+  extreme measures she takes to possess Dan\, is manifested in an intense p
+ erformance\,and the chemistry she shares with Douglas’s riveting Dan cre
+ ates simultaneously repulsive and magnetic dynamics between them.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/fatal-attraction-019d
  d58c-f37f-8692-e2f3-b2c358295fda
@@ -687,7 +522,7 @@ BEGIN:VEVENT
 SUMMARY:Howl’s Moving Castle
 DTSTART;TZID=America/Los_Angeles:20260814T143000
 DTEND;TZID=America/Los_Angeles:20260814T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd51e-9196-b3fe-be48-1f0c289cf9e4@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 14\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -709,24 +544,24 @@ BEGIN:VEVENT
 SUMMARY:Unfaithful with Adrian Lyne
 DTSTART;TZID=America/Los_Angeles:20260814T193000
 DTEND;TZID=America/Los_Angeles:20260814T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd58d-916f-a50b-c633-78a0ffd1e907@academymuseum.org
 CATEGORIES:Screenings
-DESCRIPTION:In person: director Adrian Lyne\n\nFriday\, August 14\, 2026 a
- t 7:30 pm\n\nLocation: Academy Museum of Motion Pictures\n\nRuntime: 2h 4m
- \n\n2002 | 124 min. | USA | Color | English | Rated R | 35mm\nDIRECTED BY:
-  Adrian Lyne \nWRITTEN BY: Alvin Sargent\, William Broyles\, Jr. \nWITH:
-  Diane Lane. Richard Gere. Olivier Martinez\, Erik Per Sullivan \nPrint co
- urtesy of the Academy Film Archive.\n\nType: Screenings\n\nDiane Lane rece
- ived an Oscar nomination for her remarkable portrayal of Connie Sumner\, w
- ho lives an admirable life in an upper-class neighborhood of upstate New Y
- ork with loving husband Edward and 8-year-old son Charlie. In a gush of wi
- nd\, an unpredictable encounter occurs between Connie and an attractive ma
- n in the street of New York City\, followed by the irreversible measures o
- f an illicit affair. Adrian Lyne candidly and without judgment surveys on 
- lust\, passion\, jealousy\, and guilt\, unearthing a dark\, dense pool of 
- human emotion and the arbitrariness of its motivation.\nKarina Longworth m
- oderates.
+DESCRIPTION:In person: director Adrian Lyne in conversation with Karina Lo
+ ngworth\n\nFriday\, August 14\, 2026 at 7:30 pm\n\nLocation: Academy Museu
+ m of Motion Pictures\n\nRuntime: 2h 4m\n\n2002 | 124 min. | USA | Color | 
+ English | Rated R | 35mm\nDIRECTED BY: Adrian Lyne \nWRITTEN BY: Alvin Sa
+ rgent\, William Broyles\, Jr. \nWITH: Diane Lane. Richard Gere. Olivier M
+ artinez\, Erik Per Sullivan \nPrint courtesy of the Academy Film Archive.\
+ n\nType: Screenings\n\nDiane Lane received an Oscar nomination for her rem
+ arkable portrayal of Connie Sumner\, who lives an admirable life in an upp
+ er-class neighborhood of upstate New York with loving husband Edward and 8
+ -year-old son Charlie. In a gush of wind\, an unpredictable encounter occu
+ rs between Connie and an attractive man in the street of New York City\, f
+ ollowed by the irreversible measures of an illicit affair. Adrian Lyne can
+ didly and without judgment surveys on lust\, passion\, jealousy\, and guil
+ t\, unearthing a dark\, dense pool of human emotion and the arbitrariness 
+ of its motivation.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/unfaithful-019dd58d-9
  16f-a50b-c633-78a0ffd1e907
@@ -735,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:Scooby-Doo in 35mm
 DTSTART;TZID=America/Los_Angeles:20260815T110000
 DTEND;TZID=America/Los_Angeles:20260815T121500
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019db103-7ebb-e23a-c52a-b153e188f713@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 15\, 2026 at 11 am\n\nLocation: Academy Muse
@@ -762,7 +597,7 @@ BEGIN:VEVENT
 SUMMARY:Train to Busan in 4K with Yeon Sang-ho
 DTSTART;TZID=America/Los_Angeles:20260815T143000
 DTEND;TZID=America/Los_Angeles:20260815T170000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019e0a0b-adbd-3b4f-a93e-c94024d83aed@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: director Yeon Sang-ho\n\nSaturday\, August 15\, 202
@@ -786,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:The Ugly with Yeon Sang-ho and Park Jeong-min
 DTSTART;TZID=America/Los_Angeles:20260815T193000
 DTEND;TZID=America/Los_Angeles:20260815T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019e0a0a-e285-aa70-93a8-d960d2b0c160@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: director Yeon Sang-ho and actor Park Jeong-min\n\nS
@@ -812,7 +647,7 @@ BEGIN:VEVENT
 SUMMARY:Munich in 35mm
 DTSTART;TZID=America/Los_Angeles:20260816T140000
 DTEND;TZID=America/Los_Angeles:20260816T160000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019d8804-e004-8e70-0ae5-e53d81175bb7@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 16\, 2026 at 2 pm\n\nLocation: Academy Museum 
@@ -840,7 +675,7 @@ BEGIN:VEVENT
 SUMMARY:Ponyo in 35mm
 DTSTART;TZID=America/Los_Angeles:20260817T143000
 DTEND;TZID=America/Los_Angeles:20260817T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd51f-43b5-e687-8774-0d5f81c04a9c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 17\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -867,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:A Snake of June
 DTSTART;TZID=America/Los_Angeles:20260817T193000
 DTEND;TZID=America/Los_Angeles:20260817T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd58f-be6b-74f3-d4b0-11084892d642@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 17\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -892,7 +727,7 @@ BEGIN:VEVENT
 SUMMARY:Ponyo in 35mm
 DTSTART;TZID=America/Los_Angeles:20260819T143000
 DTEND;TZID=America/Los_Angeles:20260819T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd51f-cf25-51cc-c97d-ba287de07ded@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 19\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -919,7 +754,7 @@ BEGIN:VEVENT
 SUMMARY:Out of Sight
 DTSTART;TZID=America/Los_Angeles:20260819T193000
 DTEND;TZID=America/Los_Angeles:20260819T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd532-0b98-b1eb-af29-bc9f09d740b6@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: film editors Stephen Rivkin\, Robb Sullivan\, John 
@@ -946,7 +781,7 @@ BEGIN:VEVENT
 SUMMARY:Marilyn & Me with Lawrence Schiller Book Signing and Conversation
 DTSTART;TZID=America/Los_Angeles:20260820T180000
 DTEND;TZID=America/Los_Angeles:20260820T190000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019faf26-8fef-003d-559e-344bbcac0055@academymuseum.org
 CATEGORIES:Book Signings
 DESCRIPTION:Bestselling author and filmmaker Lawrence Schiller shares his 
@@ -972,7 +807,7 @@ BEGIN:VEVENT
 SUMMARY:The Searchers in 70mm
 DTSTART;TZID=America/Los_Angeles:20260820T193000
 DTEND;TZID=America/Los_Angeles:20260820T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de50c-7daf-6b53-eb10-eaee76152d11@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, August 20\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -998,7 +833,7 @@ BEGIN:VEVENT
 SUMMARY:Gallery Spotlight: Cinematic Makeup and Hairstyling with Ve Neill
 DTSTART;TZID=America/Los_Angeles:20260821T120000
 DTEND;TZID=America/Los_Angeles:20260821T130000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dc075-f108-7589-f25f-e0d3f3711c8f@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Friday\, August 21\, 2026 at 12 pm\n\nLocation: Sidney Poitier
@@ -1018,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:Ponyo in 35mm
 DTSTART;TZID=America/Los_Angeles:20260821T143000
 DTEND;TZID=America/Los_Angeles:20260821T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd520-9708-d19c-3849-8e284a442b56@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 21\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -1045,7 +880,7 @@ BEGIN:VEVENT
 SUMMARY:Gunfight at the O.K. Corral in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260821T193000
 DTEND;TZID=America/Los_Angeles:20260821T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de50d-75de-011b-6835-d2abcb4adec8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 21\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -1071,7 +906,7 @@ BEGIN:VEVENT
 SUMMARY:Nancy Drew
 DTSTART;TZID=America/Los_Angeles:20260822T110000
 DTEND;TZID=America/Los_Angeles:20260822T121500
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019db103-fddd-6a12-cf78-c41fe1e4486c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 22\, 2026 at 11 am\n\nLocation: Academy Muse
@@ -1095,22 +930,24 @@ BEGIN:VEVENT
 SUMMARY:The Ten Commandments in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260822T120000
 DTEND;TZID=America/Los_Angeles:20260822T133000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de50f-21df-5b2b-aa64-3ac6e6d9ce9e@academymuseum.org
 CATEGORIES:Screenings
-DESCRIPTION:Saturday\, August 22\, 2026 at 12 pm\n\nLocation: Academy Muse
- um of Motion Pictures\n\nRuntime: 3h 39m\n\n1956 | 219 min | USA | Color |
-  English | Rated G | VistaVision \nDIRECTED BY: Cecil B. DeMille \nWRITT
- EN BY: Aeneas MacKenzie\, Jesse Lasky Jr.\, Jack Gariss\, Fredric M. Frank
-  \nWITH: Charlton Heston\, Yul Brynner\, Anne Baxter\, Edward G. Robinson
- \n\nType: Screenings\n\nThe final film directed by blockbuster master Ceci
- l B. DeMille is a lavish remake of his own 1923 silent epic. Charlton Hest
- on\, as Moses\, leads a stellar cast\, including Yul Brynner as Pharaoh Ra
- meses II\, Anne Baxter as the lustful Nefretiri\, and Edward G. Robinson a
- s the rebellious Dathan. The film was nominated for seven Oscars\, includi
- ng Best Picture\, and John Fulton (The Invisible Man\, 1933) won for its s
- pecial effects\, which included such classic Biblical sequences as the Bur
- ning bush\, the Ten Plagues\, and the parting of the Red Sea.
+DESCRIPTION:In person: Charlotte Barker\, senior director\, film preservat
+ ion and restoration\, Paramount Archives\; and Craig Barron\, executive d
+ irector\, Magnopus\n\nSaturday\, August 22\, 2026 at 12 pm\n\nLocation: Ac
+ ademy Museum of Motion Pictures\n\nRuntime: 3h 39m\n\n1956 | 219 min | USA
+  | Color | English | Rated G | VistaVision \nDIRECTED BY: Cecil B. DeMill
+ e \nWRITTEN BY: Aeneas MacKenzie\, Jesse Lasky Jr.\, Jack Gariss\, Fredri
+ c M. Frank \nWITH: Charlton Heston\, Yul Brynner\, Anne Baxter\, Edward G
+ . Robinson\n\nType: Screenings\n\nThe final film directed by blockbuster m
+ aster Cecil B. DeMille is a lavish remake of his own 1923 silent epic. Cha
+ rlton Heston\, as Moses\, leads a stellar cast\, including Yul Brynner as 
+ Pharaoh Rameses II\, Anne Baxter as the lustful Nefretiri\, and Edward G. 
+ Robinson as the rebellious Dathan. The film was nominated for seven Oscars
+ \, including Best Picture\, and John Fulton (The Invisible Man\, 1933) won
+  for its special effects\, which included such classic Biblical sequences 
+ as the Burning bush\, the Ten Plagues\, and the parting of the Red Sea.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/the-ten-commandments-
  in-vista-vision-019de50f-21df-5b2b-aa64-3ac6e6d9ce9e
@@ -1119,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Charlize Theron Featuring Mad Max: Fury Road
 DTSTART;TZID=America/Los_Angeles:20260822T190000
 DTEND;TZID=America/Los_Angeles:20260822T213000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019f24e4-20c3-8b06-55f7-05f9a1187e85@academymuseum.org
 CATEGORIES:Conversations,Screenings
 DESCRIPTION:Charlize Theron engages in conversation with members of the Ac
@@ -1145,7 +982,7 @@ BEGIN:VEVENT
 SUMMARY:Funny Face
 DTSTART;TZID=America/Los_Angeles:20260823T110000
 DTEND;TZID=America/Los_Angeles:20260823T133000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dff3e-49fd-4d34-726a-fa34142e7d20@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 11 am\n\nLocation: Academy Museum
@@ -1167,7 +1004,7 @@ BEGIN:VEVENT
 SUMMARY:Jackie
 DTSTART;TZID=America/Los_Angeles:20260823T140000
 DTEND;TZID=America/Los_Angeles:20260823T160000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019d8803-b2c0-a887-a0ba-9fdddd5907b3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 2 pm\n\nLocation: Academy Museum 
@@ -1191,7 +1028,7 @@ BEGIN:VEVENT
 SUMMARY:Hot Spell
 DTSTART;TZID=America/Los_Angeles:20260823T150000
 DTEND;TZID=America/Los_Angeles:20260823T170000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de511-03b4-d950-feef-fa89b7d15a45@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 3 pm\n\nLocation: Academy Museum 
@@ -1219,7 +1056,7 @@ BEGIN:VEVENT
 SUMMARY:White Christmas in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260823T193000
 DTEND;TZID=America/Los_Angeles:20260823T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de512-76dc-82b2-35eb-c7b2f9f6791e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -1243,7 +1080,7 @@ BEGIN:VEVENT
 SUMMARY:The Secret World of Arrietty
 DTSTART;TZID=America/Los_Angeles:20260824T143000
 DTEND;TZID=America/Los_Angeles:20260824T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd521-7b44-c524-f75d-3935ed4b9d41@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 24\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -1265,7 +1102,7 @@ BEGIN:VEVENT
 SUMMARY:Anything Goes in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260824T193000
 DTEND;TZID=America/Los_Angeles:20260824T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de513-00e0-5754-7620-1708e4e8d8c2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 24\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -1291,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:The Secret World of Arrietty
 DTSTART;TZID=America/Los_Angeles:20260826T143000
 DTEND;TZID=America/Los_Angeles:20260826T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd521-b4f4-a7ee-5873-dcf85008501d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 26\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -1313,7 +1150,7 @@ BEGIN:VEVENT
 SUMMARY:To Catch a Thief in 4K
 DTSTART;TZID=America/Los_Angeles:20260826T193000
 DTEND;TZID=America/Los_Angeles:20260826T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de51f-1614-b551-b58a-67d29d24c360@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 26\, 2026 at 7:30 pm\n\nLocation: Academy M
@@ -1339,7 +1176,7 @@ BEGIN:VEVENT
 SUMMARY:We’re No Angels in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260827T193000
 DTEND;TZID=America/Los_Angeles:20260827T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de514-3234-fd98-dc7c-4435b1633d41@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, August 27\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -1365,7 +1202,7 @@ BEGIN:VEVENT
 SUMMARY:The Secret World of Arrietty
 DTSTART;TZID=America/Los_Angeles:20260828T143000
 DTEND;TZID=America/Los_Angeles:20260828T150000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dd522-293b-8db0-1e4f-d04df892a954@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 28\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -1387,7 +1224,7 @@ BEGIN:VEVENT
 SUMMARY:North by Northwest in 70mm
 DTSTART;TZID=America/Los_Angeles:20260828T193000
 DTEND;TZID=America/Los_Angeles:20260828T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de51f-ab06-6108-b040-1bbb6bce74fc@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 28\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -1415,7 +1252,7 @@ BEGIN:VEVENT
 SUMMARY:Zootopia
 DTSTART;TZID=America/Los_Angeles:20260829T110000
 DTEND;TZID=America/Los_Angeles:20260829T121500
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019dda3b-5b6c-ff0e-36d9-e452ba39a26f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, August 29\, 2026 at 11 am\n
@@ -1445,7 +1282,7 @@ BEGIN:VEVENT
 SUMMARY:The Court Jester in 4K
 DTSTART;TZID=America/Los_Angeles:20260829T140000
 DTEND;TZID=America/Los_Angeles:20260829T170000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de530-6df9-22e6-2f9f-98c8af80ef63@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 29\, 2026 at 2 pm\n\nLocation: Academy Museu
@@ -1474,7 +1311,7 @@ BEGIN:VEVENT
 SUMMARY:The Joker is Wild in 4K
 DTSTART;TZID=America/Los_Angeles:20260829T193000
 DTEND;TZID=America/Los_Angeles:20260829T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de521-a3d9-0807-ac46-6ad21e437134@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 29\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -1500,7 +1337,7 @@ BEGIN:VEVENT
 SUMMARY:Artists and Models in 4K
 DTSTART;TZID=America/Los_Angeles:20260830T110000
 DTEND;TZID=America/Los_Angeles:20260830T130000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de531-95a3-83a5-d03e-2cf9083cbd5e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 11 am\n\nLocation: Academy Museum
@@ -1526,7 +1363,7 @@ BEGIN:VEVENT
 SUMMARY:Da 5 Bloods
 DTSTART;TZID=America/Los_Angeles:20260830T140000
 DTEND;TZID=America/Los_Angeles:20260830T160000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019d8802-dd35-9e27-711e-afcf7156045f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 2 pm\n\nLocation: Academy Museum 
@@ -1553,7 +1390,7 @@ BEGIN:VEVENT
 SUMMARY:The Girl Rush in 4K
 DTSTART;TZID=America/Los_Angeles:20260830T150000
 DTEND;TZID=America/Los_Angeles:20260830T164500
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de532-8da6-6426-d183-19f2891686ac@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 3 pm\n\nLocation: Academy Museum 
@@ -1579,7 +1416,7 @@ BEGIN:VEVENT
 SUMMARY:One Battle After Another in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260830T193000
 DTEND;TZID=America/Los_Angeles:20260830T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de515-367d-098b-c57d-6dacbcee8e5a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -1605,7 +1442,7 @@ BEGIN:VEVENT
 SUMMARY:One-Eyed Jacks in 4K
 DTSTART;TZID=America/Los_Angeles:20260831T193000
 DTEND;TZID=America/Los_Angeles:20260831T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019de522-dc97-112e-3113-d16e7bff810d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 31\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -1629,7 +1466,7 @@ BEGIN:VEVENT
 SUMMARY:Connor Member Presale unlock Test 1
 DTSTART;TZID=America/Los_Angeles:20261001T193000
 DTEND;TZID=America/Los_Angeles:20261001T223000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019f6d07-9fd0-5a17-7b5c-6245e2d874c3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Lorem ipsum dolor sit amet\, consectetur adipiscing elit\, sed
@@ -1652,7 +1489,7 @@ BEGIN:VEVENT
 SUMMARY:Monster Mash
 DTSTART;TZID=America/Los_Angeles:20261024T110000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019f1fdb-7bb1-0d3a-96fc-ec6cc22ce4f2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Calling all creatures of the night: join the Academy Museum fo
@@ -1708,7 +1545,7 @@ BEGIN:VEVENT
 SUMMARY:Museum After Dark
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T224500
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019f240a-2c67-7918-db74-8932990ed413@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Celebrate Halloween at the Academy Museum with a goth-themed a
@@ -1745,7 +1582,7 @@ BEGIN:VEVENT
 SUMMARY:Carrie with Sissy Spacek
 DTSTART;TZID=America/Los_Angeles:20261119T193000
 DTEND;TZID=America/Los_Angeles:20261119T213000
-DTSTAMP:20260803T112253Z
+DTSTAMP:20260804T103914Z
 UID:019efac4-788f-5c34-1b3d-6cf7811d1697@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, November 19\, 2026 at 7:30 pm\n\nLocation: Academy 
