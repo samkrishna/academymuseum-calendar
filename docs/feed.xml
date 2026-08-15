@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 09:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:28:37 +0000</lastBuildDate>
     <item>
       <title>Fatal Attraction with Adrian Lyne — Aug 13</title>
       <link>https://www.academymuseum.org/en/programs/detail/fatal-attraction-019dd58c-f37f-8692-e2f3-b2c358295fda</link>
@@ -33,32 +33,11 @@ Adrian Lyne’s groundbreaking 1987 erotic thriller, which garnered six Oscar no
       <pubDate>Thu, 13 Aug 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>Howl’s Moving Castle — Aug 14</title>
-      <link>https://www.academymuseum.org/en/programs/detail/howls-moving-castle-019dd51e-9196-b3fe-be48-1f0c289cf9e4</link>
-      <description>Friday, August 14, 2026 at 2:30 pm
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 59m
-
-2004 | 119 min. | Japan | Color | Japanese with English subtitles | Rated PG | DCP
-DIRECTED/WRITTEN BY: Hayao Miyazaki 
-WITH: Chieko Baisho, Takuya Kimura, Akihiro Miwa, Tatsuya Gashûin
-
-Type: Screenings
-
-An adaptation of Diana Wynne Jones’s fantasy novel of the same name, the Oscar-nominated Howl’s Moving Castle is a pitch-perfect fairy tale about aging and war, set in a dazzling steampunk world. When young hatmaker Sophie is transformed into a 90-year-old woman by the vengeful Witch of the Waste, she seeks to break the curse with the help of the enigmatic wizard Howl, the fire demon Calcifer, and the magical moving castle they inhabit.</description>
-      <guid isPermaLink="false">019dd51e-9196-b3fe-be48-1f0c289cf9e4</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/7FdQH0LWqbQsLrPBLKko2N/52a9772f80a3293a5b4afb695a7e4c3c/Aug10_HOWLS_MOVING_CASTLE_Ghibli1GKIDS.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 14:30:00 -0700</pubDate>
-    </item>
-    <item>
       <title>Unfaithful with Adrian Lyne — Aug 14</title>
       <link>https://www.academymuseum.org/en/programs/detail/unfaithful-019dd58d-916f-a50b-c633-78a0ffd1e907</link>
       <description>In person: director Adrian Lyne in conversation with Karina Longworth
 
-Friday, August 14, 2026 at 7:30 pm
+Friday, August 14, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -76,7 +55,28 @@ Diane Lane received an Oscar nomination for her remarkable portrayal of Connie S
       <guid isPermaLink="false">019dd58d-916f-a50b-c633-78a0ffd1e907</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/257yEULb4W7qO028pDp4Lo/65209f1807f96a60b7dd2535f322d36e/Aug14_UNFAITHFUL_Thrills1MHL.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 19:30:00 -0700</pubDate>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Howl’s Moving Castle — Aug 14</title>
+      <link>https://www.academymuseum.org/en/programs/detail/howls-moving-castle-019dd51e-9196-b3fe-be48-1f0c289cf9e4</link>
+      <description>Friday, August 14, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 59m
+
+2004 | 119 min. | Japan | Color | Japanese with English subtitles | Rated PG | DCP
+DIRECTED/WRITTEN BY: Hayao Miyazaki 
+WITH: Chieko Baisho, Takuya Kimura, Akihiro Miwa, Tatsuya Gashûin
+
+Type: Screenings
+
+An adaptation of Diana Wynne Jones’s fantasy novel of the same name, the Oscar-nominated Howl’s Moving Castle is a pitch-perfect fairy tale about aging and war, set in a dazzling steampunk world. When young hatmaker Sophie is transformed into a 90-year-old woman by the vengeful Witch of the Waste, she seeks to break the curse with the help of the enigmatic wizard Howl, the fire demon Calcifer, and the magical moving castle they inhabit.</description>
+      <guid isPermaLink="false">019dd51e-9196-b3fe-be48-1f0c289cf9e4</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/7FdQH0LWqbQsLrPBLKko2N/52a9772f80a3293a5b4afb695a7e4c3c/Aug10_HOWLS_MOVING_CASTLE_Ghibli1GKIDS.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Scooby-Doo in 35mm — Aug 15</title>
