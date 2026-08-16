@@ -24,163 +24,86 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Fatal Attraction with Adrian Lyne
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260815T082837Z
-UID:019dd58c-f37f-8692-e2f3-b2c358295fda@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:In person: director Adrian Lyne in conversation with Maya Mont
- añez Smukler\, head of the UCLA Film & Television Archive Research and St
- udy Center\n\nThursday\, August 13\, 2026\n\nLocation: Academy Museum of M
- otion Pictures\n\nRuntime: 1h 59m\n\n1987 | 119 min. | USA | Color | Engli
- sh | Rated R | 4K DCP\nDIRECTED BY: Adrian Lyne \nWRITTEN BY: James Deard
- en \nWITH: Michael Douglas\, Glenn Close\, Anne Archer\, Ellen Hamilton L
- atzen\n\nType: Screenings\n\nAdrian Lyne’s groundbreaking 1987 erotic th
- riller\, which garnered six Oscar nominations\, contributed to the phenome
- nal boom of this subgenre\, and it remains iconic and timeless. Glenn Clos
- e is compelling in her portrayal of Alex\, a book editor who has an affair
-  with Dan (Michael Douglas)\, a happily married attorney whose life become
- s an unbearable torture after the tryst. Passion turns into obsession\; Al
- ex not only terrorizes Dan but also his wife and young daughter. Close’s
-  deep dive into Alex’s psychological state\, exhibited in the extreme me
- asures she takes to possess Dan\, is manifested in an intense performance\
- ,and the chemistry she shares with Douglas’s riveting Dan creates simult
- aneously repulsive and magnetic dynamics between them.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/fatal-attraction-019d
- d58c-f37f-8692-e2f3-b2c358295fda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unfaithful with Adrian Lyne
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-DTSTAMP:20260815T082837Z
-UID:019dd58d-916f-a50b-c633-78a0ffd1e907@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:In person: director Adrian Lyne in conversation with Karina Lo
- ngworth\n\nFriday\, August 14\, 2026\n\nLocation: Academy Museum of Motion
-  Pictures\n\nRuntime: 2h 4m\n\n2002 | 124 min. | USA | Color | English | R
- ated R | 35mm\nDIRECTED BY: Adrian Lyne \nWRITTEN BY: Alvin Sargent\, Wil
- liam Broyles\, Jr. \nWITH: Diane Lane. Richard Gere. Olivier Martinez\, E
- rik Per Sullivan \nPrint courtesy of the Academy Film Archive.\n\nType: Sc
- reenings\n\nDiane Lane received an Oscar nomination for her remarkable por
- trayal of Connie Sumner\, who lives an admirable life in an upper-class ne
- ighborhood of upstate New York with loving husband Edward and 8-year-old s
- on Charlie. In a gush of wind\, an unpredictable encounter occurs between 
- Connie and an attractive man in the street of New York City\, followed by 
- the irreversible measures of an illicit affair. Adrian Lyne candidly and w
- ithout judgment surveys on lust\, passion\, jealousy\, and guilt\, unearth
- ing a dark\, dense pool of human emotion and the arbitrariness of its moti
- vation.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/unfaithful-019dd58d-9
- 16f-a50b-c633-78a0ffd1e907
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Howl’s Moving Castle
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-DTSTAMP:20260815T082837Z
-UID:019dd51e-9196-b3fe-be48-1f0c289cf9e4@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Friday\, August 14\, 2026\n\nLocation: Academy Museum of Motio
- n Pictures\n\nRuntime: 1h 59m\n\n2004 | 119 min. | Japan | Color | Japanes
- e with English subtitles | Rated PG | DCP\nDIRECTED/WRITTEN BY: Hayao Miya
- zaki \nWITH: Chieko Baisho\, Takuya Kimura\, Akihiro Miwa\, Tatsuya Gash
- ûin\n\nType: Screenings\n\nAn adaptation of Diana Wynne Jones’s fantasy
-  novel of the same name\, the Oscar-nominated Howl’s Moving Castle is a 
- pitch-perfect fairy tale about aging and war\, set in a dazzling steampunk
-  world. When young hatmaker Sophie is transformed into a 90-year-old woman
-  by the vengeful Witch of the Waste\, she seeks to break the curse with th
- e help of the enigmatic wizard Howl\, the fire demon Calcifer\, and the ma
- gical moving castle they inhabit.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/howls-moving-castle-0
- 19dd51e-9196-b3fe-be48-1f0c289cf9e4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scooby-Doo in 35mm
-DTSTART;TZID=America/Los_Angeles:20260815T110000
-DTEND;TZID=America/Los_Angeles:20260815T121500
-DTSTAMP:20260815T082837Z
-UID:019db103-7ebb-e23a-c52a-b153e188f713@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Saturday\, August 15\, 2026 at 11 am\n\nLocation: Academy Muse
- um of Motion Pictures\n\nRuntime: 1h 26m\n\n2002 | 86 min. | USA | Color |
-  English | Rated PG | 35mm \nDIRECTED BY: Raja Gosnell \nWRITTEN BY: Jam
- es Gunn \nSTORY BY: Craig Titley\, James Gunn\nWITH: Freddie Prinze Jr.\,
-  Sarah Michelle Gellar\, Matthew Lillard\, Linda Cardellini\n\nType: Scree
- nings\n\nThe Mystery Inc. gang from Hanna-Barbera’s classic cartoon\, Sc
- ooby-Doo\, Where Are You! took their sleuthing skills to the big screen wi
- th their first live-action adventure in 2002’s Scooby-Doo. Led by ‘90s
-  teen heartthrobs and real-life couple Freddie Prinze Jr. and Sarah Michel
- le Gellar as Fred and Daphne\, the amateur detectives Velma (Linda Cardell
- ini)\, Shaggy (Matthew Lillard) and his best friend\, the cowardly\, alway
- s hungry\, and vocal Great Dane\, Scooby-Doo\, reunite to solve the myster
- y of ghostly happenings at the tropical resort Spooky Island. From a scrip
- t co-written by James Gunn and featuring Rowan Atkinson as the eccentric r
- esort-owner\, the film was a box office success on its release and continu
- es to have an avid following.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/scooby-doo-019db103-7
- ebb-e23a-c52a-b153e188f713
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Train to Busan in 4K with Yeon Sang-ho
-DTSTART;TZID=America/Los_Angeles:20260815T143000
-DTEND;TZID=America/Los_Angeles:20260815T170000
-DTSTAMP:20260815T082837Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260816T082840Z
 UID:019e0a0b-adbd-3b4f-a93e-c94024d83aed@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: director Yeon Sang-ho\n\nSaturday\, August 15\, 202
- 6 at 2:30 pm\n\nLocation: Academy Museum of Motion Pictures\n\nRuntime: 1h
-  58m\n\n2016 | 118 min. | Korea | Color | Korean | Not Rated | 4K DCP \nDI
- RECTED/WRITTEN BY: Yeon Sang-ho \nWITH: Gong Yoo\, Jung Yu-mi\, Ma Dong-se
- ok\, Kim Su-an\n\nType: Screenings\n\nWith the South Korean peninsula in t
- he throes of a national disaster\, travelers board the KTX\, a fast a trai
- n to Busan\, a city unaffected by the crisis. Among them is Seok-woo\, a w
- orkaholic father traveling with his daughter. When a young woman\, scuffed
-  and dazed\, gets on board\, an unimaginable horror erupts in the train’
- s claustrophobic confines. Director Yeon Sang-ho\, whose prior filmmaking 
- comprises groundbreaking animated features\, balances an upbeat\, kinetic 
- energy with solid emotional storytelling to deliver much more than just an
-  action-driven genre film.
+ 6\n\nLocation: Academy Museum of Motion Pictures\n\nRuntime: 1h 58m\n\n201
+ 6 | 118 min. | Korea | Color | Korean | Not Rated | 4K DCP \nDIRECTED/WRIT
+ TEN BY: Yeon Sang-ho \nWITH: Gong Yoo\, Jung Yu-mi\, Ma Dong-seok\, Kim Su
+ -an\n\nType: Screenings\n\nWith the South Korean peninsula in the throes o
+ f a national disaster\, travelers board the KTX\, a fast a train to Busan\
+ , a city unaffected by the crisis. Among them is Seok-woo\, a workaholic f
+ ather traveling with his daughter. When a young woman\, scuffed and dazed\
+ , gets on board\, an unimaginable horror erupts in the train’s claustrop
+ hobic confines. Director Yeon Sang-ho\, whose prior filmmaking comprises g
+ roundbreaking animated features\, balances an upbeat\, kinetic energy with
+  solid emotional storytelling to deliver much more than just an action-dri
+ ven genre film.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/train-to-busan-019e0a
  0b-adbd-3b4f-a93e-c94024d83aed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ugly with Yeon Sang-ho and Park Jeong-min
-DTSTART;TZID=America/Los_Angeles:20260815T193000
-DTEND;TZID=America/Los_Angeles:20260815T223000
-DTSTAMP:20260815T082837Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260816T082840Z
 UID:019e0a0a-e285-aa70-93a8-d960d2b0c160@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: director Yeon Sang-ho and actor Park Jeong-min\n\nS
- aturday\, August 15\, 2026 at 7:30 pm\n\nLocation: Academy Museum of Motio
- n Pictures\n\nRuntime: 1h 43m\n\n2025 | 103 min. | Korea | Color | Korean 
- | Rated R | DCP \nDIRECTED BY: Yeon Sang-ho \nWRITTEN BY: Yeon Sang-ho.\n
- WITH: Park Jeong-min\, Kwon Hae-hyo\, Shin Hyun-bin\, Han Ji-hyun\n\nType:
-  Screenings\n\nStarring in Yeon Sang-ho’s intimate suspense drama is Par
- k Jeong-min\, in his compelling portrayal of Dong-hwan and the younger ver
- sion of his father\, Yeong-gyu\, in flashback sequences. Yeong-gyu\, who c
- annot see\, is a renowned wooden seal carver\, respected for his intricate
-  craftsmanship. Dong-hwan has no memory of his mother\, who has been missi
- ng for 40 years—or so he’s been told—until he receives a startling c
- all about her remains. Adapted from his own graphic novel\, Yeon excavates
-  the ugly aspects of societal standards and perceptions of beauty\, and un
- apologetically exhibits the dark sides of human greed\, desire\, and traum
- a.
+ aturday\, August 15\, 2026\n\nLocation: Academy Museum of Motion Pictures\
+ n\nRuntime: 1h 43m\n\n2025 | 103 min. | Korea | Color | Korean | Rated R |
+  DCP \nDIRECTED BY: Yeon Sang-ho \nWRITTEN BY: Yeon Sang-ho.\nWITH: Park 
+ Jeong-min\, Kwon Hae-hyo\, Shin Hyun-bin\, Han Ji-hyun\n\nType: Screenings
+ \n\nStarring in Yeon Sang-ho’s intimate suspense drama is Park Jeong-min
+ \, in his compelling portrayal of Dong-hwan and the younger version of his
+  father\, Yeong-gyu\, in flashback sequences. Yeong-gyu\, who cannot see\,
+  is a renowned wooden seal carver\, respected for his intricate craftsmans
+ hip. Dong-hwan has no memory of his mother\, who has been missing for 40 y
+ ears—or so he’s been told—until he receives a startling call about h
+ er remains. Adapted from his own graphic novel\, Yeon excavates the ugly a
+ spects of societal standards and perceptions of beauty\, and unapologetica
+ lly exhibits the dark sides of human greed\, desire\, and trauma.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/the-ugly-019e0a0a-e28
  5-aa70-93a8-d960d2b0c160
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scooby-Doo in 35mm
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260816T082840Z
+UID:019db103-7ebb-e23a-c52a-b153e188f713@academymuseum.org
+CATEGORIES:Screenings
+DESCRIPTION:Saturday\, August 15\, 2026\n\nLocation: Academy Museum of Mot
+ ion Pictures\n\nRuntime: 1h 26m\n\n2002 | 86 min. | USA | Color | English 
+ | Rated PG | 35mm \nDIRECTED BY: Raja Gosnell \nWRITTEN BY: James Gunn 
+ \nSTORY BY: Craig Titley\, James Gunn\nWITH: Freddie Prinze Jr.\, Sarah Mi
+ chelle Gellar\, Matthew Lillard\, Linda Cardellini\n\nType: Screenings\n\n
+ The Mystery Inc. gang from Hanna-Barbera’s classic cartoon\, Scooby-Doo\
+ , Where Are You! took their sleuthing skills to the big screen with their 
+ first live-action adventure in 2002’s Scooby-Doo. Led by ‘90s teen hea
+ rtthrobs and real-life couple Freddie Prinze Jr. and Sarah Michelle Gellar
+  as Fred and Daphne\, the amateur detectives Velma (Linda Cardellini)\, Sh
+ aggy (Matthew Lillard) and his best friend\, the cowardly\, always hungry\
+ , and vocal Great Dane\, Scooby-Doo\, reunite to solve the mystery of ghos
+ tly happenings at the tropical resort Spooky Island. From a script co-writ
+ ten by James Gunn and featuring Rowan Atkinson as the eccentric resort-own
+ er\, the film was a box office success on its release and continues to hav
+ e an avid following.
+LOCATION:Academy Museum of Motion Pictures
+URL:https://www.academymuseum.org/en/programs/detail/scooby-doo-019db103-7
+ ebb-e23a-c52a-b153e188f713
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Munich in 35mm
 DTSTART;TZID=America/Los_Angeles:20260816T140000
 DTEND;TZID=America/Los_Angeles:20260816T160000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019d8804-e004-8e70-0ae5-e53d81175bb7@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 16\, 2026 at 2 pm\n\nLocation: Academy Museum 
@@ -208,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Ponyo in 35mm
 DTSTART;TZID=America/Los_Angeles:20260817T143000
 DTEND;TZID=America/Los_Angeles:20260817T150000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019dd51f-43b5-e687-8774-0d5f81c04a9c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 17\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -235,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:A Snake of June
 DTSTART;TZID=America/Los_Angeles:20260817T193000
 DTEND;TZID=America/Los_Angeles:20260817T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019dd58f-be6b-74f3-d4b0-11084892d642@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 17\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -260,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Ponyo in 35mm
 DTSTART;TZID=America/Los_Angeles:20260819T143000
 DTEND;TZID=America/Los_Angeles:20260819T150000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019dd51f-cf25-51cc-c97d-ba287de07ded@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 19\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -287,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Out of Sight
 DTSTART;TZID=America/Los_Angeles:20260819T193000
 DTEND;TZID=America/Los_Angeles:20260819T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019dd532-0b98-b1eb-af29-bc9f09d740b6@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: film editors Stephen Rivkin\, Robb Sullivan\, John 
@@ -314,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Marilyn & Me with Lawrence Schiller Book Signing and Conversation
 DTSTART;TZID=America/Los_Angeles:20260820T180000
 DTEND;TZID=America/Los_Angeles:20260820T190000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019faf26-8fef-003d-559e-344bbcac0055@academymuseum.org
 CATEGORIES:Book Signings
 DESCRIPTION:Bestselling author and filmmaker Lawrence Schiller shares his 
@@ -340,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:The Searchers in 70mm
 DTSTART;TZID=America/Los_Angeles:20260820T193000
 DTEND;TZID=America/Los_Angeles:20260820T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de50c-7daf-6b53-eb10-eaee76152d11@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, August 20\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -366,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:Gallery Spotlight: Cinematic Makeup and Hairstyling with Ve Neill
 DTSTART;TZID=America/Los_Angeles:20260821T120000
 DTEND;TZID=America/Los_Angeles:20260821T130000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019dc075-f108-7589-f25f-e0d3f3711c8f@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Friday\, August 21\, 2026 at 12 pm\n\nLocation: Sidney Poitier
@@ -386,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Ponyo in 35mm
 DTSTART;TZID=America/Los_Angeles:20260821T143000
 DTEND;TZID=America/Los_Angeles:20260821T150000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019dd520-9708-d19c-3849-8e284a442b56@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 21\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -413,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Gunfight at the O.K. Corral in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260821T193000
 DTEND;TZID=America/Los_Angeles:20260821T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de50d-75de-011b-6835-d2abcb4adec8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actor Peter Weller\n\nFriday\, August 21\, 2026 at 
@@ -439,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Nancy Drew
 DTSTART;TZID=America/Los_Angeles:20260822T110000
 DTEND;TZID=America/Los_Angeles:20260822T121500
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019db103-fddd-6a12-cf78-c41fe1e4486c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 22\, 2026 at 11 am\n\nLocation: Academy Muse
@@ -463,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:The Ten Commandments in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260822T120000
 DTEND;TZID=America/Los_Angeles:20260822T133000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de50f-21df-5b2b-aa64-3ac6e6d9ce9e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Charlotte Barker\, senior director\, film preservat
@@ -490,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Charlize Theron Featuring Mad Max: Fury Road
 DTSTART;TZID=America/Los_Angeles:20260822T190000
 DTEND;TZID=America/Los_Angeles:20260822T213000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019f24e4-20c3-8b06-55f7-05f9a1187e85@academymuseum.org
 CATEGORIES:Conversations,Screenings
 DESCRIPTION:Charlize Theron engages in conversation with members of the Ac
@@ -516,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Funny Face
 DTSTART;TZID=America/Los_Angeles:20260823T110000
 DTEND;TZID=America/Los_Angeles:20260823T133000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019dff3e-49fd-4d34-726a-fa34142e7d20@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 11 am\n\nLocation: Academy Museum
@@ -538,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Jackie
 DTSTART;TZID=America/Los_Angeles:20260823T140000
 DTEND;TZID=America/Los_Angeles:20260823T160000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019d8803-b2c0-a887-a0ba-9fdddd5907b3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 2 pm\n\nLocation: Academy Museum 
@@ -562,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Hot Spell
 DTSTART;TZID=America/Los_Angeles:20260823T150000
 DTEND;TZID=America/Los_Angeles:20260823T170000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de511-03b4-d950-feef-fa89b7d15a45@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 3 pm\n\nLocation: Academy Museum 
@@ -590,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:White Christmas in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260823T193000
 DTEND;TZID=America/Los_Angeles:20260823T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de512-76dc-82b2-35eb-c7b2f9f6791e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 23\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -614,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:The Secret World of Arrietty
 DTSTART;TZID=America/Los_Angeles:20260824T143000
 DTEND;TZID=America/Los_Angeles:20260824T150000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019dd521-7b44-c524-f75d-3935ed4b9d41@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 24\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -636,7 +559,7 @@ BEGIN:VEVENT
 SUMMARY:Anything Goes in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260824T193000
 DTEND;TZID=America/Los_Angeles:20260824T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de513-00e0-5754-7620-1708e4e8d8c2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, August 24\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -662,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:The Secret World of Arrietty
 DTSTART;TZID=America/Los_Angeles:20260826T143000
 DTEND;TZID=America/Los_Angeles:20260826T150000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019dd521-b4f4-a7ee-5873-dcf85008501d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 26\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -684,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:To Catch a Thief in 4K
 DTSTART;TZID=America/Los_Angeles:20260826T193000
 DTEND;TZID=America/Los_Angeles:20260826T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de51f-1614-b551-b58a-67d29d24c360@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, August 26\, 2026 at 7:30 pm\n\nLocation: Academy M
@@ -710,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:We’re No Angels in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260827T193000
 DTEND;TZID=America/Los_Angeles:20260827T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de514-3234-fd98-dc7c-4435b1633d41@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, August 27\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -736,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:The Secret World of Arrietty
 DTSTART;TZID=America/Los_Angeles:20260828T143000
 DTEND;TZID=America/Los_Angeles:20260828T150000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019dd522-293b-8db0-1e4f-d04df892a954@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 28\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -758,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:North by Northwest in 70mm
 DTSTART;TZID=America/Los_Angeles:20260828T193000
 DTEND;TZID=America/Los_Angeles:20260828T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de51f-ab06-6108-b040-1bbb6bce74fc@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 28\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -786,7 +709,7 @@ BEGIN:VEVENT
 SUMMARY:Zootopia
 DTSTART;TZID=America/Los_Angeles:20260829T110000
 DTEND;TZID=America/Los_Angeles:20260829T121500
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019dda3b-5b6c-ff0e-36d9-e452ba39a26f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, August 29\, 2026 at 11 am\n
@@ -816,7 +739,7 @@ BEGIN:VEVENT
 SUMMARY:The Court Jester in 4K
 DTSTART;TZID=America/Los_Angeles:20260829T140000
 DTEND;TZID=America/Los_Angeles:20260829T170000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de530-6df9-22e6-2f9f-98c8af80ef63@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 29\, 2026 at 2 pm\n\nLocation: Academy Museu
@@ -845,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:The Joker is Wild in 4K
 DTSTART;TZID=America/Los_Angeles:20260829T193000
 DTEND;TZID=America/Los_Angeles:20260829T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de521-a3d9-0807-ac46-6ad21e437134@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 29\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -871,7 +794,7 @@ BEGIN:VEVENT
 SUMMARY:Artists and Models in 4K
 DTSTART;TZID=America/Los_Angeles:20260830T110000
 DTEND;TZID=America/Los_Angeles:20260830T130000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de531-95a3-83a5-d03e-2cf9083cbd5e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 11 am\n\nLocation: Academy Museum
@@ -897,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:Da 5 Bloods
 DTSTART;TZID=America/Los_Angeles:20260830T140000
 DTEND;TZID=America/Los_Angeles:20260830T160000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019d8802-dd35-9e27-711e-afcf7156045f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 2 pm\n\nLocation: Academy Museum 
@@ -924,7 +847,7 @@ BEGIN:VEVENT
 SUMMARY:The Girl Rush in 4K
 DTSTART;TZID=America/Los_Angeles:20260830T150000
 DTEND;TZID=America/Los_Angeles:20260830T164500
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de532-8da6-6426-d183-19f2891686ac@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 3 pm\n\nLocation: Academy Museum 
@@ -950,7 +873,7 @@ BEGIN:VEVENT
 SUMMARY:One Battle After Another in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260830T193000
 DTEND;TZID=America/Los_Angeles:20260830T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de515-367d-098b-c57d-6dacbcee8e5a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -976,7 +899,7 @@ BEGIN:VEVENT
 SUMMARY:One-Eyed Jacks in 4K
 DTSTART;TZID=America/Los_Angeles:20260831T193000
 DTEND;TZID=America/Los_Angeles:20260831T223000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019de522-dc97-112e-3113-d16e7bff810d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actor Peter Weller\n\nMonday\, August 31\, 2026 at 
@@ -1001,7 +924,7 @@ BEGIN:VEVENT
 SUMMARY:Monster Mash
 DTSTART;TZID=America/Los_Angeles:20261024T110000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019f1fdb-7bb1-0d3a-96fc-ec6cc22ce4f2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Calling all creatures of the night: join the Academy Museum fo
@@ -1058,7 +981,7 @@ BEGIN:VEVENT
 SUMMARY:Museum After Dark
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T224500
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019f240a-2c67-7918-db74-8932990ed413@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Celebrate Halloween at the Academy Museum with a goth-themed a
@@ -1095,7 +1018,7 @@ BEGIN:VEVENT
 SUMMARY:Carrie with Sissy Spacek
 DTSTART;TZID=America/Los_Angeles:20261119T193000
 DTEND;TZID=America/Los_Angeles:20261119T213000
-DTSTAMP:20260815T082837Z
+DTSTAMP:20260816T082840Z
 UID:019efac4-788f-5c34-1b3d-6cf7811d1697@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, November 19\, 2026 at 7:30 pm\n\nLocation: Academy 
