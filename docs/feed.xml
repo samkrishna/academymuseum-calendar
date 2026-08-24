@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 08:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:48:13 +0000</lastBuildDate>
     <item>
       <title>An Evening with Charlize Theron Featuring Mad Max: Fury Road — Aug 22</title>
       <link>https://www.academymuseum.org/en/programs/detail/an-evening-with-charlize-theron-featuring-mad-max-fury-road-019f24e4-20c3-8b06-55f7-05f9a1187e85</link>
@@ -86,7 +86,7 @@ Emma Roberts steps into the role of Nancy Drew in this contemporary adaptation o
     <item>
       <title>Funny Face — Aug 23</title>
       <link>https://www.academymuseum.org/en/programs/detail/funny-face-019dff3e-49fd-4d34-726a-fa34142e7d20</link>
-      <description>Sunday, August 23, 2026 at 11 am
+      <description>Sunday, August 23, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -103,34 +103,12 @@ Stanley Donen directed this charming May-December romantic musical comedy that p
       <guid isPermaLink="false">019dff3e-49fd-4d34-726a-fa34142e7d20</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/7u2oPnPBhifONXSf8irBL0/6d0acedbc0ebdfd5cc6c3dd877a4ef77/Aug23_FUNNY_FACE_Vista2.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 11:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Jackie — Aug 23</title>
-      <link>https://www.academymuseum.org/en/programs/detail/jackie-019d8803-b2c0-a887-a0ba-9fdddd5907b3</link>
-      <description>Sunday, August 23, 2026 at 2 pm
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 40m
-
-2016 | 100 min. | USA/France/Chile | Color | English | Rated R | DCP 
-DIRECTED BY: Pablo Larraín 
-WRITTEN BY: Noah Oppenheim 
-WITH: Natalie Portman, Peter Sarsgaard, Greta Gerwig, Billy Crudup
-
-Type: Screenings
-
-Natalie Portman was nominated for her uncanny performance as Jacqueline Bouvier Kennedy in this unusual biopic directed by Pablo Larraín (Maria, 2024). The screenplay by Noah Oppenheim is structured around an interview by a magazine journalist (Billy Crudup) and focuses on key events in the First Lady’s life, especially the assassination of her husband. The film was also nominated for Madeline Fontaine’s authentic costume designs and the unsettling score by Mica Levi (Under the Skin, 2013), which used flutes and strings to evoke its heroine’s combination of vulnerability and resilience.</description>
-      <guid isPermaLink="false">019d8803-b2c0-a887-a0ba-9fdddd5907b3</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/6tWMabF1KSINJn4KBv5TVe/60f3ebd841b0355429f011efa72e3b13/Aug16_JACKIE_OscarSundays1MHL.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 14:00:00 -0700</pubDate>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Hot Spell — Aug 23</title>
       <link>https://www.academymuseum.org/en/programs/detail/hot-spell-019de511-03b4-d950-feef-fa89b7d15a45</link>
-      <description>Sunday, August 23, 2026 at 3 pm
+      <description>Sunday, August 23, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -147,12 +125,34 @@ Based on the unproduced play Next of Kin, Hot Spell is a New Orleans-set drama a
       <guid isPermaLink="false">019de511-03b4-d950-feef-fa89b7d15a45</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/ft7lzzBdyc3cTLHnqqtwE/8fa3407f72d69b1fbf942ac46cc91831/Aug23_HOT_SPELL_Vista1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 15:00:00 -0700</pubDate>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Jackie — Aug 23</title>
+      <link>https://www.academymuseum.org/en/programs/detail/jackie-019d8803-b2c0-a887-a0ba-9fdddd5907b3</link>
+      <description>Sunday, August 23, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 40m
+
+2016 | 100 min. | USA/France/Chile | Color | English | Rated R | DCP 
+DIRECTED BY: Pablo Larraín 
+WRITTEN BY: Noah Oppenheim 
+WITH: Natalie Portman, Peter Sarsgaard, Greta Gerwig, Billy Crudup
+
+Type: Screenings
+
+Natalie Portman was nominated for her uncanny performance as Jacqueline Bouvier Kennedy in this unusual biopic directed by Pablo Larraín (Maria, 2024). The screenplay by Noah Oppenheim is structured around an interview by a magazine journalist (Billy Crudup) and focuses on key events in the First Lady’s life, especially the assassination of her husband. The film was also nominated for Madeline Fontaine’s authentic costume designs and the unsettling score by Mica Levi (Under the Skin, 2013), which used flutes and strings to evoke its heroine’s combination of vulnerability and resilience.</description>
+      <guid isPermaLink="false">019d8803-b2c0-a887-a0ba-9fdddd5907b3</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/6tWMabF1KSINJn4KBv5TVe/60f3ebd841b0355429f011efa72e3b13/Aug16_JACKIE_OscarSundays1MHL.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>White Christmas in VistaVision — Aug 23</title>
       <link>https://www.academymuseum.org/en/programs/detail/white-christmas-in-vista-vision-019de512-76dc-82b2-35eb-c7b2f9f6791e</link>
-      <description>Sunday, August 23, 2026 at 7:30 pm
+      <description>Sunday, August 23, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -169,7 +169,7 @@ This popular musical comedy inspired by Irving Berlin’s Oscar-winning song fro
       <guid isPermaLink="false">019de512-76dc-82b2-35eb-c7b2f9f6791e</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/76JyIKJ7sYcVkVjVllziqz/010991f6fa3954c65d80be746f4a8b07/Aug23-WHITE_CHRISTMAS_Vista1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 19:30:00 -0700</pubDate>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>The Secret World of Arrietty in 4K — Aug 24</title>
