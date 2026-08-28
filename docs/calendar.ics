@@ -24,36 +24,10 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:We’re No Angels in VistaVision
-DTSTART;TZID=America/Los_Angeles:20260827T193000
-DTEND;TZID=America/Los_Angeles:20260827T223000
-DTSTAMP:20260827T185422Z
-UID:019de514-3234-fd98-dc7c-4435b1633d41@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Thursday\, August 27\, 2026 at 7:30 pm\n\nLocation: Academy Mu
- seum of Motion Pictures\n\nRuntime: 1h 45m\n\n1955 | 105 min. | USA | Tech
- nicolor | English | Not Rated | VistaVision \nDIRECTED BY: Michael Curtiz
-   \nWRITTEN BY: Ranald MacDougall  \nWITH: Humphrey Bogart\, Aldo Ray\, 
- Peter Ustinov\, Joan Bennett\n\nType: Screenings\n\n“It isn’t fair! He
- re we are\, three desperate criminals who will stop at nothing to escape f
- rom Devil’s Island\, and we have to fall in with nice people!” So lame
- nts Jules (Peter Ustinov)\, one of a trio of convicts stuck on the French-
- controlled isle on Christmas Eve\, 1895\, where they fall in with the love
- ly proprietors of a local supply shop. Crime\, romance\, and dark comedy c
- ollide in an entertaining tale of unexpected guardian angels from director
-  and star of Casablanca (1942) Michael Curtiz and Humphrey Bogart\, with t
- he actor in a rare comedic role. The material was rich enough for director
-  Neil Jordan to revisit in 1989\, this time with Oscar-winning stars Rober
- t De Niro and Sean Penn.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/were-no-angels-in-vis
- ta-vision-019de514-3234-fd98-dc7c-4435b1633d41
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Secret World of Arrietty in 4K
 DTSTART;TZID=America/Los_Angeles:20260828T143000
 DTEND;TZID=America/Los_Angeles:20260828T150000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019dd522-293b-8db0-1e4f-d04df892a954@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 28\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -75,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:North by Northwest in 70mm
 DTSTART;TZID=America/Los_Angeles:20260828T193000
 DTEND;TZID=America/Los_Angeles:20260828T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019de51f-ab06-6108-b040-1bbb6bce74fc@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, August 28\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -103,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Zootopia
 DTSTART;TZID=America/Los_Angeles:20260829T110000
 DTEND;TZID=America/Los_Angeles:20260829T121500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019dda3b-5b6c-ff0e-36d9-e452ba39a26f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, August 29\, 2026 at 11 am\n
@@ -133,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:The Court Jester in 4K
 DTSTART;TZID=America/Los_Angeles:20260829T140000
 DTEND;TZID=America/Los_Angeles:20260829T170000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019de530-6df9-22e6-2f9f-98c8af80ef63@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 29\, 2026 at 2 pm\n\nLocation: Academy Museu
@@ -162,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:The Joker is Wild in 4K
 DTSTART;TZID=America/Los_Angeles:20260829T193000
 DTEND;TZID=America/Los_Angeles:20260829T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019de521-a3d9-0807-ac46-6ad21e437134@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, August 29\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -188,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Artists and Models in 4K
 DTSTART;TZID=America/Los_Angeles:20260830T110000
 DTEND;TZID=America/Los_Angeles:20260830T130000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019de531-95a3-83a5-d03e-2cf9083cbd5e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 11 am\n\nLocation: Academy Museum
@@ -214,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Da 5 Bloods
 DTSTART;TZID=America/Los_Angeles:20260830T140000
 DTEND;TZID=America/Los_Angeles:20260830T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019d8802-dd35-9e27-711e-afcf7156045f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 2 pm\n\nLocation: Academy Museum 
@@ -241,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:The Girl Rush in 4K
 DTSTART;TZID=America/Los_Angeles:20260830T150000
 DTEND;TZID=America/Los_Angeles:20260830T164500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019de532-8da6-6426-d183-19f2891686ac@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, August 30\, 2026 at 3 pm\n\nLocation: Academy Museum 
@@ -267,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:One Battle After Another in VistaVision
 DTSTART;TZID=America/Los_Angeles:20260830T193000
 DTEND;TZID=America/Los_Angeles:20260830T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019de515-367d-098b-c57d-6dacbcee8e5a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: director Paul Thomas Anderson\, cinematographer Mic
@@ -296,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:One-Eyed Jacks in 4K
 DTSTART;TZID=America/Los_Angeles:20260831T193000
 DTEND;TZID=America/Los_Angeles:20260831T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019de522-dc97-112e-3113-d16e7bff810d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actor Peter Weller\n\nMonday\, August 31\, 2026 at 
@@ -321,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Monkey Business in 4K
 DTSTART;TZID=America/Los_Angeles:20260902T143000
 DTEND;TZID=America/Los_Angeles:20260902T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc88b-243a-ad10-b3bf-fcbe2f99ee0d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, September 2\, 2026 at 2:30 pm\n\nLocation: Academy
@@ -345,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:The Women
 DTSTART;TZID=America/Los_Angeles:20260902T193000
 DTEND;TZID=America/Los_Angeles:20260902T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8a7-c694-982e-f68b-8d69273eeb1d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Academy Governor Patricia Dehaney \nSelected by the
@@ -373,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Monkey Business in 4K
 DTSTART;TZID=America/Los_Angeles:20260903T143000
 DTEND;TZID=America/Los_Angeles:20260903T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc88e-0eca-236f-ef64-2098323a1d1e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, September 3\, 2026 at 2:30 pm\n\nLocation: Academy 
@@ -397,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:Barry Lyndon in 35mm
 DTSTART;TZID=America/Los_Angeles:20260903T190000
 DTEND;TZID=America/Los_Angeles:20260903T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc89b-1225-eeaf-4075-7229824fea60@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, September 3\, 2026 at 7 pm\n\nLocation: Academy Mus
@@ -421,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:Monkey Business in 4K
 DTSTART;TZID=America/Los_Angeles:20260904T143000
 DTEND;TZID=America/Los_Angeles:20260904T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc88e-8b3d-8ac8-b1b4-bff3549ff91a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, September 4\, 2026 at 2:30 pm\n\nLocation: Academy Mu
@@ -445,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:Romeo + Juliet in 35mm
 DTSTART;TZID=America/Los_Angeles:20260904T193000
 DTEND;TZID=America/Los_Angeles:20260904T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc89c-0b7d-e148-2d01-91e901f619ab@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, September 4\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -453,14 +427,14 @@ DESCRIPTION:Friday\, September 4\, 2026 at 7:30 pm\n\nLocation: Academy Mu
  Canada | Color | Scope | English | Rated PG-13 | 35mm  \nDIRECTED BY: Baz
   Luhrmann  \nWRITTEN BY: Craig Pearce\, Baz Luhrmann  \nPRODUCED BY: Gab
  riella Martinelli\, Baz Luhrmann  \nWITH: Leonardo DiCaprio\, Claire Dane
- s\, Brian Dennehy\, John Leguizamo\n\nType: Screenings\n\nBaz Luhrmann’s
-  take on Shakespeare’s tragedy is perhaps one of the best-loved adaptati
- ons and is the second installment in his Red Curtain Trilogy\, which close
- d with Moulin Rouge! (2001). Featuring Luhrmann’s distinctive\, stylized
-  palate coupled with frenetic\, MTV-style editing and an all-star soundtra
- ck\, Romeo + Juliet became a classic for its casting\, with Leonardo DiCap
- rio and Claire Danes playing the star-crossed lovers.\nPrint courtesy of t
- he Academy Film Archive.
+ s\, Brian Dennehy\, John Leguizamo\nPrint courtesy of the Academy Film Arc
+ hive.\n\nType: Screenings\n\nBaz Luhrmann’s take on Shakespeare’s trag
+ edy is perhaps one of the best-loved adaptations and is the second install
+ ment in his Red Curtain Trilogy\, which closed with Moulin Rouge! (2001). 
+ Featuring Luhrmann’s distinctive\, stylized palate coupled with frenetic
+ \, MTV-style editing and an all-star soundtrack\, Romeo + Juliet became a 
+ classic for its casting\, with Leonardo DiCaprio and Claire Danes playing 
+ the star-crossed lovers.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/romeo-juliet-019fc89c
  -0b7d-e148-2d01-91e901f619ab
@@ -469,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:Snow White and the Seven Dwarfs
 DTSTART;TZID=America/Los_Angeles:20260905T110000
 DTEND;TZID=America/Los_Angeles:20260905T121500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8af-40aa-8422-5027-ead44125da7f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, September 5\, 2026 at 11 am\n\nLocation: Academy Mu
@@ -500,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:Fanny & Alexander in 35mm
 DTSTART;TZID=America/Los_Angeles:20260905T143000
 DTEND;TZID=America/Los_Angeles:20260905T163000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc89d-9071-0842-2700-77f8e4ef116e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, September 5\, 2026 at 2:30 pm\n\nLocation: Academy 
@@ -508,17 +482,17 @@ DESCRIPTION:Saturday\, September 5\, 2026 at 2:30 pm\n\nLocation: Academy
  ance/West Germany | Color | Swedish/German/Yiddish with English subtitles 
  | Rated R | 35mm\nDIRECTED/WRITTEN BY: Ingmar Bergman \nPRODUCED BY: Jör
  n Donner \nWITH: Kristina Adolphson\, Börje Ahlstedt\, Bertil Guve\, Per
- nilla Allwin\n\nType: Screenings\n\nSwedish auteur Ingmar Bergman’s most
-  sentimental and autobiographical work is set in turn-of-the-century Swede
- n and appropriately bathed in the candlelit interiors common of the era. U
- nfolding through the eyes of 10-year-old Alexander\, a boy from a wealthy 
- family that operates the town theater\, the narrative spans seasons and ho
- lidays\, marriages and deaths\, with small moments of daily life punctuati
- ng childhood milestones. Originally conceived as a television miniseries o
- f more than five hours\, the final\, 188-minute version allowed the visual
- s of two-time Oscar-winning cinematographer Sven Nykvist (Fanny & Alexande
- r was one of his wins) to be admired at a scale befitting this epic drama.
-  \nNew print courtesy of the Academy Film Archive.
+ nilla Allwin\nNew print courtesy of the Academy Film Archive.\n\nType: Scr
+ eenings\n\nSwedish auteur Ingmar Bergman’s most sentimental and autobiog
+ raphical work is set in turn-of-the-century Sweden and appropriately bathe
+ d in the candlelit interiors common of the era. Unfolding through the eyes
+  of 10-year-old Alexander\, a boy from a wealthy family that operates the 
+ town theater\, the narrative spans seasons and holidays\, marriages and de
+ aths\, with small moments of daily life punctuating childhood milestones. 
+ Originally conceived as a television miniseries of more than five hours\, 
+ the final\, 188-minute version allowed the visuals of two-time Oscar-winni
+ ng cinematographer Sven Nykvist (Fanny & Alexander was one of his wins) to
+  be admired at a scale befitting this epic drama.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/fanny-alexander-019fc
  89d-9071-0842-2700-77f8e4ef116e
@@ -527,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:Top Hat in 35mm
 DTSTART;TZID=America/Los_Angeles:20260906T140000
 DTEND;TZID=America/Los_Angeles:20260906T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8b4-d768-678d-0db9-a00bf429e330@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, September 6\, 2026 at 2 pm\n\nLocation: Academy Museu
@@ -535,16 +509,16 @@ DESCRIPTION:Sunday\, September 6\, 2026 at 2 pm\n\nLocation: Academy Museu
  nd-White | English | 35mm \nDIRECTED BY: Mark Sandrich \nWRITTEN BY: Dwigh
  t Taylor\, Allan Scott \nSTORY BY: Dwight Taylor \nPRODUCED BY: Pandro S. 
  Berman \nWITH: Fred Astaire\, Ginger Rogers\, Edward Everett Horton\, Erik
-  Rhodes\n\nType: Screenings\n\nAn American tap dancer pursues the woman he
-  loves from London to Venice in the fourth movie musical to feature the ic
- onic team of Fred Astaire and Ginger Rogers\, and the second of their film
- s to receive a Best Picture nomination\, following The Gay Divorcee (1934)
- . Spotlighting the stars at their effortless best\, it was also nominated 
- for Irving Berlin’s classic “Cheek to Cheek\,” Hermes Pan’s dance 
- direction of the numbers “Piccolino” and “Top Hat\, White Tie\, and 
- Tails\,” and the art direction of Van Nest Polglase and Carroll Clark\, 
- whose elegant deco sets include a Venice canal constructed on a Los Angele
- s soundstage. \nNew print courtesy of the Academy Film Archive.
+  Rhodes \nNew print courtesy of the Academy Film Archive.\n\nType: Screeni
+ ngs\n\nAn American tap dancer pursues the woman he loves from London to Ve
+ nice in the fourth movie musical to feature the iconic team of Fred Astair
+ e and Ginger Rogers\, and the second of their films to receive a Best Pict
+ ure nomination\, following The Gay Divorcee (1934). Spotlighting the stars
+  at their effortless best\, it was also nominated for Irving Berlin’s cl
+ assic “Cheek to Cheek\,” Hermes Pan’s dance direction of the numbers
+  “Piccolino” and “Top Hat\, White Tie\, and Tails\,” and the art d
+ irection of Van Nest Polglase and Carroll Clark\, whose elegant deco sets 
+ include a Venice canal constructed on a Los Angeles soundstage.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/top-hat-019fc8b4-d768
  -678d-0db9-a00bf429e330
@@ -553,7 +527,7 @@ BEGIN:VEVENT
 SUMMARY:Amadeus in 4K
 DTSTART;TZID=America/Los_Angeles:20260906T180000
 DTEND;TZID=America/Los_Angeles:20260906T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc89e-7904-149f-2c28-cb7ff0e1a99a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, September 6\, 2026 at 6 pm\n\nLocation: Academy Museu
@@ -581,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:Niagara
 DTSTART;TZID=America/Los_Angeles:20260907T143000
 DTEND;TZID=America/Los_Angeles:20260907T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc891-49c1-51ed-a07d-1b35ecb4a43a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, September 7\, 2026 at 2:30 pm\n\nLocation: Academy Mu
@@ -605,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:Niagara
 DTSTART;TZID=America/Los_Angeles:20260909T143000
 DTEND;TZID=America/Los_Angeles:20260909T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc891-cb1a-7c05-c102-15d1f9bce031@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, September 9\, 2026 at 2:30 pm\n\nLocation: Academy
@@ -629,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:The Adventures of Priscilla\, Queen of the Desert in 35mm
 DTSTART;TZID=America/Los_Angeles:20260909T193000
 DTEND;TZID=America/Los_Angeles:20260909T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8a9-66fc-e4d3-eba1-d926c379596d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Marketing and Public Relations Branch\n\nWedne
@@ -637,16 +611,16 @@ DESCRIPTION:Selected by the Marketing and Public Relations Branch\n\nWedne
   Pictures\n\nRuntime: 1h 44m\n\n1994 | 104 min. | Australia | Color | Scop
  e | English | Rated R | 35mm\nDIRECTED/WRITTEN BY: Stephan Elliott \nPRODU
  CED BY: Al Clark\, Michael Hamlyn \nWITH: Terence Stamp\, Hugo Weaving\, G
- uy Pearce\, Bill Hunter\n\nType: Screenings\n\nTwo drag queens and a trans
- gender woman drive across the Australian outback in a tour bus named Prisc
- illa\, in this wild road comedy that earned Lizzy Gardiner and Tim Chappel
- l Oscars for their imaginative costume designs. Terence Stamp gives an imp
- ressive change-of-pace performance as the world-weary Bernadette\, and he
- ’s matched by Hugo Weaving as the trio’s conflicted leader. Guy Pearce
-  delivers a breakout performance as the youngest of the group. Deftly mixi
- ng campy humor and genuine emotion amidst stunning locations\, Priscilla w
- as an international success and spawned a hit stage musical.\nPrint courte
- sy of the Academy Film Archive.
+ uy Pearce\, Bill Hunter\nPrint courtesy of the Academy Film Archive.\n\nTy
+ pe: Screenings\n\nTwo drag queens and a transgender woman drive across the
+  Australian outback in a tour bus named Priscilla\, in this wild road come
+ dy that earned Lizzy Gardiner and Tim Chappell Oscars for their imaginativ
+ e costume designs. Terence Stamp gives an impressive change-of-pace perfor
+ mance as the world-weary Bernadette\, and he’s matched by Hugo Weaving a
+ s the trio’s conflicted leader. Guy Pearce delivers a breakout performan
+ ce as the youngest of the group. Deftly mixing campy humor and genuine emo
+ tion amidst stunning locations\, Priscilla was an international success an
+ d spawned a hit stage musical.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/the-adventures-of-pri
  scilla-queen-of-the-desert-019fc8a9-66fc-e4d3-eba1-d926c379596d
@@ -655,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:Niagara
 DTSTART;TZID=America/Los_Angeles:20260911T143000
 DTEND;TZID=America/Los_Angeles:20260911T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc892-54a7-2ed5-6db4-e2725741f95c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, September 11\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -679,7 +653,7 @@ BEGIN:VEVENT
 SUMMARY:The Beguiled
 DTSTART;TZID=America/Los_Angeles:20260911T193000
 DTEND;TZID=America/Los_Angeles:20260911T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc89f-31e0-c442-3bb6-f8da32fc5b15@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, September 11\, 2026 at 7:30 pm\n\nLocation: Academy M
@@ -703,25 +677,25 @@ BEGIN:VEVENT
 SUMMARY:The Monster Squad in 35mm
 DTSTART;TZID=America/Los_Angeles:20260912T110000
 DTEND;TZID=America/Los_Angeles:20260912T121500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8af-c7c1-cc40-dcf5-37d5f34ff0cc@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, September 12\, 2026 at 11 am\n\nLocation: Academy M
  useum of Motion Pictures\n\nRuntime: 1h 22m\n\n1987 | 82 min. | USA | Colo
  r | Scope | English | Rated PG-13 | 35mm \nDIRECTED BY: Fred Dekker \nPRO
  DUCED BY: Jonathan A. Zimbert \nWRITTEN BY: Shane Black\, Fred Dekker \n
- WITH: Andre Gower\, Robby Kiger\, Stephen Macht\, Duncan Regehr\n\nType: S
- creenings\n\nSean Crenshaw (Andre Gower) is the leader of his school's mon
- ster club\, a group of monster- and horror film-loving pre-teens who get t
- he thrill of their lives when their favorite on-screen creatures show up i
- n their own backyard. As Dracula\, Wolf-Man\, Gill-Man\, and the Mummy joi
- n forces to steal a magical amulet and take over the world\, it is up to t
- hese plucky kids to use their knowledge of horror tropes to stop them. The
-  movie struggled to find an audience\, thanks in part to its newly created
-  PG-13 rating\, but it has achieved cult status among horror fans\, with m
- any citing it as the film that sparked their love for genre as children.\n
- Print courtesy of the Academy Film Archive.\nPlease note: This film contai
- ns the use of homophobic language.
+ WITH: Andre Gower\, Robby Kiger\, Stephen Macht\, Duncan Regehr \nPrint co
+ urtesy of the Academy Film Archive.\n\nType: Screenings\n\nSean Crenshaw (
+ Andre Gower) is the leader of his school's monster club\, a group of monst
+ er- and horror film-loving pre-teens who get the thrill of their lives whe
+ n their favorite on-screen creatures show up in their own backyard. As Dra
+ cula\, Wolf-Man\, Gill-Man\, and the Mummy join forces to steal a magical 
+ amulet and take over the world\, it is up to these plucky kids to use thei
+ r knowledge of horror tropes to stop them. The movie struggled to find an 
+ audience\, thanks in part to its newly created PG-13 rating\, but it has a
+ chieved cult status among horror fans\, with many citing it as the film th
+ at sparked their love for genre as children.\nPlease note: This film conta
+ ins the use of homophobic language.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/the-monster-squad-019
  fc8af-c7c1-cc40-dcf5-37d5f34ff0cc
@@ -730,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:Portrait of a Lady on Fire
 DTSTART;TZID=America/Los_Angeles:20260912T193000
 DTEND;TZID=America/Los_Angeles:20260912T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8a0-d524-8cb2-051d-d09e1e5c7580@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, September 12\, 2026 at 7:30 pm\n\nLocation: Academy
@@ -756,7 +730,7 @@ BEGIN:VEVENT
 SUMMARY:Black Narcissus
 DTSTART;TZID=America/Los_Angeles:20260913T140000
 DTEND;TZID=America/Los_Angeles:20260913T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8b6-0074-37d8-71f0-06229547163d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, September 13\, 2026 at 2 pm\n\nLocation: Academy Muse
@@ -780,7 +754,7 @@ BEGIN:VEVENT
 SUMMARY:Making Marie Antoinette Book Signing with Sofia Coppola
 DTSTART;TZID=America/Los_Angeles:20260913T160000
 DTEND;TZID=America/Los_Angeles:20260913T180000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fdd99-9e6f-bd6d-2361-838c573abcca@academymuseum.org
 CATEGORIES:Book Signings
 DESCRIPTION:Mark the release of Making Marie Antoinette with Academy Award
@@ -810,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:20th Anniversary of Marie Antoinette with Sofia Coppola
 DTSTART;TZID=America/Los_Angeles:20260913T183000
 DTEND;TZID=America/Los_Angeles:20260913T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8ba-df50-d2c5-e7fd-83e0160ed0fa@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: director Sofia Coppola and actor Kirsten Dunst\n\nS
@@ -843,62 +817,9 @@ URL:https://www.academymuseum.org/en/programs/detail/20th-anniversary-of-m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gentlemen Prefer Blondes
-DTSTART;TZID=America/Los_Angeles:20260914T143000
-DTEND;TZID=America/Los_Angeles:20260914T160000
-DTSTAMP:20260827T185422Z
-UID:019fc892-ebb8-bed3-64b2-c6b1cbd8712f@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Monday\, September 14\, 2026 at 2:30 pm\n\nLocation: Academy M
- useum of Motion Pictures\n\nRuntime: 1h 31m\n\n1953 | 91 min. | USA | Tech
- nicolor | English | Not Rated | DCP \nDIRECTED BY: Howard Hawks \nPRODUCE
- D BY: Sol C. Siegel \nWRITTEN BY: Charles Lederer \nWITH: Jane Russell\, M
- arilyn Monroe\, Charles Coburn\, Elliott Reid\n\nType: Screenings\n\nIn th
- is 1953 musical comedy\, adapted from Joseph Fields and Anita Loos’s sea
- ringly funny stage musical based on her 1925 novella\, showgirl Lorelei (M
- arilyn Monroe) is resplendent in beautiful gowns\, most notably in the pin
- k satin dress designed by Travilla during the now-classic number “Diamon
- ds Are a Girl’s Best Friend.” Lorelei is seen throughout the picture i
- n jewel tones and literal jewels\, carefully selected to play up the lush 
- Technicolor cinematography lensed by Harry J. Wild. Both effervescent and 
- timeless\, this witty gem showcases Monroe’s brilliant comic timing as w
- ell as her vocal chops. Premiering in the middle of the actress’s career
-  and released the same year as Niagara and How to Marry a Millionaire\, Ho
- ward Hawks’s film helped to plant Monroe in the hearts of the American p
- ublic\, making her one of the most famous people in the US.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/gentlemen-prefer-blon
- des-019fc892-ebb8-bed3-64b2-c6b1cbd8712f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Others in 4K
-DTSTART;TZID=America/Los_Angeles:20260914T193000
-DTEND;TZID=America/Los_Angeles:20260914T223000
-DTSTAMP:20260827T185422Z
-UID:019fc8a1-c131-9950-e0a1-628733d7c571@academymuseum.org
-CATEGORIES:Screenings
-DESCRIPTION:Monday\, September 14\, 2026 at 7:30 pm\n\nLocation: Academy M
- useum of Motion Pictures\n\nRuntime: 1h 44m\n\n2001 | 104 min | USA\, Spai
- n\, France | Color | English | Rated PG-13 | 4K DCP\nDIRECTED BY: Alejandr
- o Amenábar \nWRITTEN BY: Alejandro Amenábar \nPRODUCED BY: Fernando Bova
- ira\, José Luis Cuerda\, Sunmin Park \nWITH: Nicole Kidman\, Fionnula Fla
- nagan\, Christopher Eccleston\, Elaine Cassidy\n\nType: Screenings\n\nGrac
- e Stewart (Nicole Kidman) keeps the curtains drawn at all hours of the day
-  in her opulent manor to protect her children\, Anne and Nicholas\, from c
- rippling photosensitivity. When three travelers appear in search of work\,
-  Grace hires them to tend to the home and the children\, noting the previo
- us employees “vanished” just days ago. The arrival of the new workers 
- seems to trigger paranormal incidents throughout the home. Set in 1945 Jer
- sey\, United Kingdom\, this brooding psychological horror highlights the d
- epths of Kidman’s range and Amenábar’s imagination.
-LOCATION:Academy Museum of Motion Pictures
-URL:https://www.academymuseum.org/en/programs/detail/the-others-019fc8a1-c
- 131-9950-e0a1-628733d7c571
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gentlemen Prefer Blondes
 DTSTART;TZID=America/Los_Angeles:20260916T143000
 DTEND;TZID=America/Los_Angeles:20260916T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc893-5ef9-6556-1b7c-6a48b8cf70ac@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, September 16\, 2026 at 2:30 pm\n\nLocation: Academ
@@ -926,7 +847,7 @@ BEGIN:VEVENT
 SUMMARY:Emma in 35mm
 DTSTART;TZID=America/Los_Angeles:20260916T193000
 DTEND;TZID=America/Los_Angeles:20260916T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8aa-b2f6-34e4-0af9-8a7dffc5f782@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Music Branch \nFree for museum members\n\nWedn
@@ -934,14 +855,14 @@ DESCRIPTION:Selected by the Music Branch \nFree for museum members\n\nWedn
  on Pictures\n\nRuntime: 2h\n\n1996 | 120 min. | USA | Color | English | Ra
  ted PG | 35mm \nDIRECTED/WRITTEN BY: Douglas McGrath \nPRODUCED BY: Steven
   Haft\, Patrick Cassavetti \nWITH: Gwyneth Paltrow\, Toni Collette\, Alan 
- Cumming\, Ewan McGregor\n\nType: Screenings\n\nRachel Portman was the firs
- t woman to win an Academy Award for Music (Original Musical or Comedy Scor
- e) for Emma. An adaptation of Jane Austen’s novel\, this romantic comedy
-  stars Gwyneth Paltrow as the meddling but well-meaning heroine\, whose ma
- tchmaking aims cause confusion and heartache in her circles. The film was 
- also nominated for Ruth Myers’s costumes\, and Portman would go on to be
-  nominated two more times for her scores for The Cider House Rules (1999) 
- and Chocolat (2000).\nPrint courtesy of the Academy Film Archive.
+ Cumming\, Ewan McGregor\nPrint courtesy of the Academy Film Archive.\n\nTy
+ pe: Screenings\n\nRachel Portman was the first woman to win an Academy Awa
+ rd for Music (Original Musical or Comedy Score) for Emma. An adaptation of
+  Jane Austen’s novel\, this romantic comedy stars Gwyneth Paltrow as the
+  meddling but well-meaning heroine\, whose matchmaking aims cause confusio
+ n and heartache in her circles. The film was also nominated for Ruth Myers
+ ’s costumes\, and Portman would go on to be nominated two more times for
+  her scores for The Cider House Rules (1999) and Chocolat (2000).
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/emma-019fc8aa-b2f6-34
  e4-0af9-8a7dffc5f782
@@ -950,7 +871,7 @@ BEGIN:VEVENT
 SUMMARY:Community Conversation: Marilyn Monroe and Cultural Icons
 DTSTART;TZID=America/Los_Angeles:20260918T120000
 DTEND;TZID=America/Los_Angeles:20260918T130000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019ff713-a119-88e4-feac-6f06d0320a22@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Mariana Da Silva of El Cine and KC Fralick of Queer Film LA ex
@@ -972,7 +893,7 @@ BEGIN:VEVENT
 SUMMARY:Gentlemen Prefer Blondes
 DTSTART;TZID=America/Los_Angeles:20260918T143000
 DTEND;TZID=America/Los_Angeles:20260918T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc893-dbb5-1725-210b-e02f8ff03743@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, September 18\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -1000,7 +921,7 @@ BEGIN:VEVENT
 SUMMARY:50 Movie Nights Book Signing with Dave Karger
 DTSTART;TZID=America/Los_Angeles:20260918T173000
 DTEND;TZID=America/Los_Angeles:20260918T190000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fdd95-2f6b-38dd-09e7-8f1f80f8f1c6@academymuseum.org
 CATEGORIES:Book Signings,Conversations
 DESCRIPTION:Celebrate the release of 50 Movie Nights with Turner Classic M
@@ -1030,7 +951,7 @@ BEGIN:VEVENT
 SUMMARY:The King of Comedy with Dave Karger and Jason Bateman
 DTSTART;TZID=America/Los_Angeles:20260918T193000
 DTEND;TZID=America/Los_Angeles:20260918T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8bb-8c3d-b21c-0477-0aafd9055dc2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Turner Classic Movies host Dave Karger and actor Ja
@@ -1060,7 +981,7 @@ BEGIN:VEVENT
 SUMMARY:The Uncles in 16mm with Tacita Dean and Laurence Kardish
 DTSTART;TZID=America/Los_Angeles:20260918T200000
 DTEND;TZID=America/Los_Angeles:20260918T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8a3-dfee-4938-2a9a-b4e894a6e34d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: filmmaker Tacita Dean\, historian Laurence Kardish
@@ -1094,23 +1015,23 @@ BEGIN:VEVENT
 SUMMARY:Something Wicked This Way Comes in 35mm
 DTSTART;TZID=America/Los_Angeles:20260919T110000
 DTEND;TZID=America/Los_Angeles:20260919T121500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8b3-917c-69c6-df9f-edd6613947c8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, September 19\, 2026 at 11 am\n\nLocation: Academy M
  useum of Motion Pictures\n\nRuntime: 1h 35m\n\n1983 | 95 min. | USA | Colo
  r | English | Rated PG | 35mm \nDIRECTED BY: Jack Clayton \nPRODUCED BY:
   Peter Vincent Douglas \nWRITTEN BY: Ray Bradbury \nWITH: Vidal Peterson
- \, Shawn Carson\, Jason Robards\, Jonathan Pryce\n\nType: Screenings\n\nIn
-  a small\, boring town\, best friends Jim and Will eagerly await the excit
- ement of the yearly carnival. But after a different festival\, helmed by t
- he sinister Mr. Dark\, unexpectedly sets up overnight\, the town adults be
- gin to fall under his spell\, and the funfair reveals itself as a carnival
-  of terror. Disney funded the project\, based on Ray Bradbury’s short st
- ory “Black Ferris\,” in hopes of breaking free from its stereotype of 
- animated family films\; ultimately\, there were extensive edits and reshoo
- ts to create a more family-friendly film without losing too many of the th
- rills.\nPrint provided by The Walt Disney Company.
+ \, Shawn Carson\, Jason Robards\, Jonathan Pryce\nPrint provided by The Wa
+ lt Disney Company.\n\nType: Screenings\n\nIn a small\, boring town\, best 
+ friends Jim and Will eagerly await the excitement of the yearly carnival. 
+ But after a different festival\, helmed by the sinister Mr. Dark\, unexpec
+ tedly sets up overnight\, the town adults begin to fall under his spell\, 
+ and the funfair reveals itself as a carnival of terror. Disney funded the 
+ project\, based on Ray Bradbury’s short story “Black Ferris\,” in ho
+ pes of breaking free from its stereotype of animated family films\; ultima
+ tely\, there were extensive edits and reshoots to create a more family-fri
+ endly film without losing too many of the thrills.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/something-wicked-this
  -way-comes-019fc8b3-917c-69c6-df9f-edd6613947c8
@@ -1119,7 +1040,7 @@ BEGIN:VEVENT
 SUMMARY:Inside Screenwriting: LA Plays Itself with Larry Karaszewski
 DTSTART;TZID=America/Los_Angeles:20260919T140000
 DTEND;TZID=America/Los_Angeles:20260919T150000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fedd0-08c5-7a04-b5a5-6d6c290ab634@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Academy member Larry Karaszewski talks about his life as a Hol
@@ -1136,30 +1057,55 @@ URL:https://www.academymuseum.org/en/programs/detail/inside-screenwriting-
  4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Others in 4K
+DTSTART;TZID=America/Los_Angeles:20260919T193000
+DTEND;TZID=America/Los_Angeles:20260919T223000
+DTSTAMP:20260828T195603Z
+UID:019fc8a1-c131-9950-e0a1-628733d7c571@academymuseum.org
+CATEGORIES:Screenings
+DESCRIPTION:Saturday\, September 19\, 2026 at 7:30 pm\n\nLocation: Academy
+  Museum of Motion Pictures\n\nRuntime: 1h 44m\n\n2001 | 104 min | USA\, Sp
+ ain\, France | Color | English | Rated PG-13 | 4K DCP\nDIRECTED BY: Alejan
+ dro Amenábar \nWRITTEN BY: Alejandro Amenábar \nPRODUCED BY: Fernando Bo
+ vaira\, José Luis Cuerda\, Sunmin Park \nWITH: Nicole Kidman\, Fionnula F
+ lanagan\, Christopher Eccleston\, Elaine Cassidy\n\nType: Screenings\n\nGr
+ ace Stewart (Nicole Kidman) keeps the curtains drawn at all hours of the d
+ ay in her opulent manor to protect her children\, Anne and Nicholas\, from
+  crippling photosensitivity. When three travelers appear in search of work
+ \, Grace hires them to tend to the home and the children\, noting the prev
+ ious employees “vanished” just days ago. The arrival of the new worker
+ s seems to trigger paranormal incidents throughout the home. Set in 1945 J
+ ersey\, United Kingdom\, this brooding psychological horror highlights the
+  depths of Kidman’s range and Amenábar’s imagination.
+LOCATION:Academy Museum of Motion Pictures
+URL:https://www.academymuseum.org/en/programs/detail/the-others-019fc8a1-c
+ 131-9950-e0a1-628733d7c571
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gigi in 35mm
 DTSTART;TZID=America/Los_Angeles:20260920T140000
 DTEND;TZID=America/Los_Angeles:20260920T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8b6-7cf6-5a12-0544-6c813ed43ef3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, September 20\, 2026 at 2 pm\n\nLocation: Academy Muse
  um of Motion Pictures\n\nRuntime: 1h 56m\n\n1958 | 116 min. | USA | Color 
  | Scope | English | Rated G | 35mm \nDIRECTED BY: Vincente Minnelli \nWRIT
  TEN BY: Alan Jay Lerner \nPRODUCED BY: Arthur Freed \nWITH: Leslie Caron\,
-  Maurice Chevalier\, Louis Jourdan\, Hermione Gingold\n\nType: Screenings
- \n\nThis lavish\, widescreen musical from director Vincente Minnelli recei
- ved nine Oscar nominations and won in each of its categories\, including B
- est Picture and Directing. Minnelli’s An American in Paris (1951) discov
- ery Leslie Caron plays Gigi\, a young woman in turn-of-the-20th-century Pa
- ris who catches the eye of a charming womanizer (Louis Jourdan). The Oscar
- -winning screenplay by Alan Jay Lerner was based on the 1944 novella by Co
- lette\, and Lerner wrote the film’s original songs with his My Fair Lady
-  (1964) composer Frederick Loewe\, their score including such classics as 
- “I Remember It Well\,” “The Night They Invented Champagne\,” and t
- he Oscar-winning title song. Art directors William A. Horning and Preston 
- Ames and set decorators Henry Grace and Keogh Gleason won Oscars for their
-  eye-poppingly colorful recreation of the City of Light. \nNew print court
- esy of the Academy Film Archive.
+  Maurice Chevalier\, Louis Jourdan\, Hermione Gingold \nNew print courtesy
+  of the Academy Film Archive.\n\nType: Screenings\n\nThis lavish\, widescr
+ een musical from director Vincente Minnelli received nine Oscar nomination
+ s and won in each of its categories\, including Best Picture and Directing
+ . Minnelli’s An American in Paris (1951) discovery Leslie Caron plays Gi
+ gi\, a young woman in turn-of-the-20th-century Paris who catches the eye o
+ f a charming womanizer (Louis Jourdan). The Oscar-winning screenplay by Al
+ an Jay Lerner was based on the 1944 novella by Colette\, and Lerner wrote 
+ the film’s original songs with his My Fair Lady (1964) composer Frederic
+ k Loewe\, their score including such classics as “I Remember It Well\,
+ ” “The Night They Invented Champagne\,” and the Oscar-winning title 
+ song. Art directors William A. Horning and Preston Ames and set decorators
+  Henry Grace and Keogh Gleason won Oscars for their eye-poppingly colorful
+  recreation of the City of Light.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/gigi-019fc8b6-7cf6-5a
  12-0544-6c813ed43ef3
@@ -1168,24 +1114,24 @@ BEGIN:VEVENT
 SUMMARY:How to Marry a Millionaire
 DTSTART;TZID=America/Los_Angeles:20260921T143000
 DTEND;TZID=America/Los_Angeles:20260921T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc894-7141-e330-b73d-4a62f069bd8e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, September 21\, 2026 at 2:30 pm\n\nLocation: Academy M
  useum of Motion Pictures\n\nRuntime: 1h 35m\n\n1953 | 95 min | USA | Techn
- icolor | English | Not Rated | DCP \nDIRECTED BY: Jean Negulesco \nPRODUC
- ED BY: Nunnally Johnson \nWRITTEN BY: Nunnally Johnson \nWITH: Betty Grabl
- e\, Marilyn Monroe\, Lauren Bacall\, David Wayne\n\nType: Screenings\n\nSc
- hatze\, Pola\, and Loco (Lauren Bacall\, Marilyn Monroe\, Betty Grable) ar
- e Manhattan models on a mission to marry rich husbands. Although they set 
- their sights on Vanderbilts and Rockefellers\, their plans go awry when th
- ey become attracted to men who look to be penniless. How to Marry a Millio
- naire was released at the end of Monroe’s breakout year\, having starred
-  in Gentlemen Prefer Blondes and Niagara in 1953. The film is notable as t
- he first to be completed in CinemaScope\, and Monroe had such broad appeal
-  that 20th Century-Fox used her to advertise this new widescreen format: a
-  slogan above an image of Marilyn claimed she was “Big as life and a mil
- lion times more fun in Cinemascope!”
+ icolor | Scope | English | Not Rated | DCP \nDIRECTED BY: Jean Negulesco 
+ \nPRODUCED BY: Nunnally Johnson \nWRITTEN BY: Nunnally Johnson \nWITH: Bet
+ ty Grable\, Marilyn Monroe\, Lauren Bacall\, David Wayne\n\nType: Screenin
+ gs\n\nSchatze\, Pola\, and Loco (Lauren Bacall\, Marilyn Monroe\, Betty Gr
+ able) are Manhattan models on a mission to marry rich husbands. Although t
+ hey set their sights on Vanderbilts and Rockefellers\, their plans go awry
+  when they become attracted to men who look to be penniless. How to Marry 
+ a Millionaire was released at the end of Monroe’s breakout year\, having
+  starred in Gentlemen Prefer Blondes and Niagara in 1953. The film is nota
+ ble as the first to be completed in CinemaScope\, and Monroe had such broa
+ d appeal that 20th Century-Fox used her to advertise this new widescreen f
+ ormat: a slogan above an image of Marilyn claimed she was “Big as life a
+ nd a million times more fun in Cinemascope!”
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/how-to-marry-a-millio
  naire-019fc894-7141-e330-b73d-4a62f069bd8e
@@ -1194,24 +1140,24 @@ BEGIN:VEVENT
 SUMMARY:How to Marry a Millionaire
 DTSTART;TZID=America/Los_Angeles:20260923T143000
 DTEND;TZID=America/Los_Angeles:20260923T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc894-e3d2-611a-9e68-2a9d483ca68a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, September 23\, 2026 at 2:30 pm\n\nLocation: Academ
  y Museum of Motion Pictures\n\nRuntime: 1h 35m\n\n1953 | 95 min | USA | Te
- chnicolor | English | Not Rated | DCP \nDIRECTED BY: Jean Negulesco \nPRO
- DUCED BY: Nunnally Johnson \nWRITTEN BY: Nunnally Johnson \nWITH: Betty Gr
- able\, Marilyn Monroe\, Lauren Bacall\, David Wayne\n\nType: Screenings\n
- \nSchatze\, Pola\, and Loco (Lauren Bacall\, Marilyn Monroe\, Betty Grable
- ) are Manhattan models on a mission to marry rich husbands. Although they 
- set their sights on Vanderbilts and Rockefellers\, their plans go awry whe
- n they become attracted to men who look to be penniless. How to Marry a Mi
- llionaire was released at the end of Monroe’s breakout year\, having sta
- rred in Gentlemen Prefer Blondes and Niagara in 1953. The film is notable 
- as the first to be completed in CinemaScope\, and Monroe had such broad ap
- peal that 20th Century-Fox used her to advertise this new widescreen forma
- t: a slogan above an image of Marilyn claimed she was “Big as life and a
-  million times more fun in Cinemascope!”
+ chnicolor | Scope | English | Not Rated | DCP \nDIRECTED BY: Jean Negulesc
+ o \nPRODUCED BY: Nunnally Johnson \nWRITTEN BY: Nunnally Johnson \nWITH: 
+ Betty Grable\, Marilyn Monroe\, Lauren Bacall\, David Wayne\n\nType: Scree
+ nings\n\nSchatze\, Pola\, and Loco (Lauren Bacall\, Marilyn Monroe\, Betty
+  Grable) are Manhattan models on a mission to marry rich husbands. Althoug
+ h they set their sights on Vanderbilts and Rockefellers\, their plans go a
+ wry when they become attracted to men who look to be penniless. How to Mar
+ ry a Millionaire was released at the end of Monroe’s breakout year\, hav
+ ing starred in Gentlemen Prefer Blondes and Niagara in 1953. The film is n
+ otable as the first to be completed in CinemaScope\, and Monroe had such b
+ road appeal that 20th Century-Fox used her to advertise this new widescree
+ n format: a slogan above an image of Marilyn claimed she was “Big as lif
+ e and a million times more fun in Cinemascope!”
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/how-to-marry-a-millio
  naire-019fc894-e3d2-611a-9e68-2a9d483ca68a
@@ -1220,7 +1166,7 @@ BEGIN:VEVENT
 SUMMARY:Far from Heaven in 35mm
 DTSTART;TZID=America/Los_Angeles:20260923T193000
 DTEND;TZID=America/Los_Angeles:20260923T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8ab-593d-505e-89af-09d3a09dd244@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: producer Brad Simpson and Academy Governor Effie T.
@@ -1229,19 +1175,19 @@ DESCRIPTION:In person: producer Brad Simpson and Academy Governor Effie T.
  h 47m\n\n2002 | 107 min. | USA | Color | English | Rated PG-13 | 35mm \nDI
  RECTED/WRITTEN BY: Todd Haynes \nPRODUCED BY: Christine Vachon\, Jody Patt
  on \nWITH: Julianne Moore\, Dennis Quaid\, Dennis Haysbert\, Patricia Clar
- kson\n\nType: Screenings\n\nA suburban housewife discovers her husband has
-  a secret life\, only to find herself becoming emotionally involved with a
- nother man\, in writer-director Todd Haynes’s sincere and expertly craft
- ed homage to the 1950s melodramas of Douglas Sirk. Best Actress nominee Ju
- lianne Moore gives a perfectly pitched lead performance\, with strong supp
- ort from Dennis Quaid\, Dennis Haysbert\, Patricia Clarkson and Viola Davi
- s. The film also received nominations for Haynes’s sensitive screenplay
- \, Edward Lachman’s autumnal cinematography\, and the gorgeously old-fas
- hioned score by Elmer Bernstein. One of the film’s producers is Haynes
- ’s longtime collaborator Christine Vachon\, one of this year’s Governo
- rs Awards winners (with longtime filmmaking partner Pamela Koffler) for he
- r remarkable and groundbreaking career.\nPrint courtesy of the Academy Fil
- m Archive.
+ kson \nPrint courtesy of the Academy Film Archive.\n\nType: Screenings\n\n
+ A suburban housewife discovers her husband has a secret life\, only to fin
+ d herself becoming emotionally involved with another man\, in writer-direc
+ tor Todd Haynes’s sincere and expertly crafted homage to the 1950s melod
+ ramas of Douglas Sirk. Best Actress nominee Julianne Moore gives a perfect
+ ly pitched lead performance\, with strong support from Dennis Quaid\, Denn
+ is Haysbert\, Patricia Clarkson and Viola Davis. The film also received no
+ minations for Haynes’s sensitive screenplay\, Edward Lachman’s autumna
+ l cinematography\, and the gorgeously old-fashioned score by Elmer Bernste
+ in. One of the film’s producers is Haynes’s longtime collaborator Chri
+ stine Vachon\, one of this year’s Governors Awards winners (with longtim
+ e filmmaking partner Pamela Koffler) for her remarkable and groundbreaking
+  career.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/far-from-heaven-019fc
  8ab-593d-505e-89af-09d3a09dd244
@@ -1250,7 +1196,7 @@ BEGIN:VEVENT
 SUMMARY:Gallery Spotlight: Dissident Cinema and Bong Joon Ho
 DTSTART;TZID=America/Los_Angeles:20260925T120000
 DTEND;TZID=America/Los_Angeles:20260925T130000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019ff303-33b4-2e43-7aaf-7ea259c6d2ad@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Author Karen Han appears at the Academy Museum to deliver rare
@@ -1274,24 +1220,24 @@ BEGIN:VEVENT
 SUMMARY:How to Marry a Millionaire
 DTSTART;TZID=America/Los_Angeles:20260925T143000
 DTEND;TZID=America/Los_Angeles:20260925T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc895-6200-845e-741e-c380b3db4582@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, September 25\, 2026 at 2:30 pm\n\nLocation: Academy M
  useum of Motion Pictures\n\nRuntime: 1h 35m\n\n1953 | 95 min | USA | Techn
- icolor | English | Not Rated | DCP \nDIRECTED BY: Jean Negulesco \nPRODUC
- ED BY: Nunnally Johnson \nWRITTEN BY: Nunnally Johnson \nWITH: Betty Grabl
- e\, Marilyn Monroe\, Lauren Bacall\, David Wayne\n\nType: Screenings\n\nSc
- hatze\, Pola\, and Loco (Lauren Bacall\, Marilyn Monroe\, Betty Grable) ar
- e Manhattan models on a mission to marry rich husbands. Although they set 
- their sights on Vanderbilts and Rockefellers\, their plans go awry when th
- ey become attracted to men who look to be penniless. How to Marry a Millio
- naire was released at the end of Monroe’s breakout year\, having starred
-  in Gentlemen Prefer Blondes and Niagara in 1953. The film is notable as t
- he first to be completed in CinemaScope\, and Monroe had such broad appeal
-  that 20th Century-Fox used her to advertise this new widescreen format: a
-  slogan above an image of Marilyn claimed she was “Big as life and a mil
- lion times more fun in Cinemascope!”
+ icolor | Scope | English | Not Rated | DCP \nDIRECTED BY: Jean Negulesco 
+ \nPRODUCED BY: Nunnally Johnson \nWRITTEN BY: Nunnally Johnson \nWITH: Bet
+ ty Grable\, Marilyn Monroe\, Lauren Bacall\, David Wayne\n\nType: Screenin
+ gs\n\nSchatze\, Pola\, and Loco (Lauren Bacall\, Marilyn Monroe\, Betty Gr
+ able) are Manhattan models on a mission to marry rich husbands. Although t
+ hey set their sights on Vanderbilts and Rockefellers\, their plans go awry
+  when they become attracted to men who look to be penniless. How to Marry 
+ a Millionaire was released at the end of Monroe’s breakout year\, having
+  starred in Gentlemen Prefer Blondes and Niagara in 1953. The film is nota
+ ble as the first to be completed in CinemaScope\, and Monroe had such broa
+ d appeal that 20th Century-Fox used her to advertise this new widescreen f
+ ormat: a slogan above an image of Marilyn claimed she was “Big as life a
+ nd a million times more fun in Cinemascope!”
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/how-to-marry-a-millio
  naire-019fc895-6200-845e-741e-c380b3db4582
@@ -1300,7 +1246,7 @@ BEGIN:VEVENT
 SUMMARY:Abbott and Costello Meet Frankenstein
 DTSTART;TZID=America/Los_Angeles:20260926T110000
 DTEND;TZID=America/Los_Angeles:20260926T121500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc898-4964-4e59-8126-55aef8ca9d4b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible Screening\n\nSaturday\, September 26\, 2026 at 11 a
@@ -1330,7 +1276,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween with John Carpenter
 DTSTART;TZID=America/Los_Angeles:20260926T193000
 DTEND;TZID=America/Los_Angeles:20260926T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8bc-e468-3bc5-4967-67324b2f8ec4@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, September 26\, 2026 at 7:30 pm\n\nLocation: Academy
@@ -1358,7 +1304,7 @@ BEGIN:VEVENT
 SUMMARY:Special Effects in Horror with Tom Bellissimo
 DTSTART;TZID=America/Los_Angeles:20260927T130000
 DTEND;TZID=America/Los_Angeles:20260927T140000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019ff30c-48e0-4b61-5a86-0f2d2c9c23c8@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Frightfully talented special effects supervisor Tom Bellissimo
@@ -1379,7 +1325,7 @@ BEGIN:VEVENT
 SUMMARY:Doctor Zhivago
 DTSTART;TZID=America/Los_Angeles:20260927T140000
 DTEND;TZID=America/Los_Angeles:20260927T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8b6-eb8f-e390-20b3-65c983b6d891@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, September 27\, 2026 at 2 pm\n\nLocation: Academy Muse
@@ -1404,7 +1350,7 @@ BEGIN:VEVENT
 SUMMARY:They Live with John Carpenter
 DTSTART;TZID=America/Los_Angeles:20260927T193000
 DTEND;TZID=America/Los_Angeles:20260927T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8bd-7eb2-9037-e9c7-c5ede38fe138@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, September 27\, 2026 at 7:30 pm\n\nLocation: Academy M
@@ -1431,21 +1377,21 @@ BEGIN:VEVENT
 SUMMARY:River of No Return
 DTSTART;TZID=America/Los_Angeles:20260928T143000
 DTEND;TZID=America/Los_Angeles:20260928T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc896-414a-51ec-2ce7-fc2577e83ef5@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, September 28\, 2026 at 2:30 pm\n\nLocation: Academy M
  useum of Motion Pictures\n\nRuntime: 1h 31m\n\n1954 | 91 min | USA | Techn
- icolor | English | Not Rated | DCP \nDIRECTED BY: Otto Preminger \nPRODUCE
- D BY: Stanley Rubin \nWRITTEN BY: Frank Fenton \nWITH: Robert Mitchum\, Ma
- rilyn Monroe\, Rory Calhoun\, Tommy Rettig\n\nType: Screenings\n\nMarilyn 
- Monroe’s appearance in Western genre films required designer Travilla to
-  create costumes ranging from saloon-style gowns to casual denim looks. Mo
- nroe wanted her character\, Kay—a kind-hearted saloon singer torn betwee
- n an ex-convict (Robert Mitchum) and her troubled fiancé (Rory Calhoun)
- —to have a natural feel. Her acting coach\, Natasha Lytess\, and directo
- r Otto Preminger clashed over whether Monroe should use her typical breath
- y voice\, with the studio backing Monroe’s decision to forgo it.
+ icolor | Scope | English | Not Rated | DCP \nDIRECTED BY: Otto Preminger 
+ \nPRODUCED BY: Stanley Rubin \nWRITTEN BY: Frank Fenton \nWITH: Robert Mit
+ chum\, Marilyn Monroe\, Rory Calhoun\, Tommy Rettig\n\nType: Screenings\n
+ \nMarilyn Monroe’s appearance in Western genre films required designer T
+ ravilla to create costumes ranging from saloon-style gowns to casual denim
+  looks. Monroe wanted her character\, Kay—a kind-hearted saloon singer t
+ orn between an ex-convict (Robert Mitchum) and her troubled fiancé (Rory 
+ Calhoun)—to have a natural feel. Her acting coach\, Natasha Lytess\, and
+  director Otto Preminger clashed over whether Monroe should use her typica
+ l breathy voice\, with the studio backing Monroe’s decision to forgo it.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/river-of-no-return-01
  9fc896-414a-51ec-2ce7-fc2577e83ef5
@@ -1454,7 +1400,7 @@ BEGIN:VEVENT
 SUMMARY:Assault on Precinct 13 with John Carpenter
 DTSTART;TZID=America/Los_Angeles:20260928T193000
 DTEND;TZID=America/Los_Angeles:20260928T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8be-a43f-3889-be9f-d1e3d95ec179@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, September 28\, 2026 at 7:30 pm\n\nLocation: Academy M
@@ -1477,21 +1423,22 @@ BEGIN:VEVENT
 SUMMARY:River of No Return
 DTSTART;TZID=America/Los_Angeles:20260930T143000
 DTEND;TZID=America/Los_Angeles:20260930T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc896-c400-a0d5-6652-e90d5dcf9ec9@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, September 30\, 2026 at 2:30 pm\n\nLocation: Academ
  y Museum of Motion Pictures\n\nRuntime: 1h 31m\n\n1954 | 91 min | USA | Te
- chnicolor | English | Not Rated | DCP \nDIRECTED BY: Otto Preminger \nPROD
- UCED BY: Stanley Rubin \nWRITTEN BY: Frank Fenton \nWITH: Robert Mitchum\,
-  Marilyn Monroe\, Rory Calhoun\, Tommy Rettig\n\nType: Screenings\n\nMaril
- yn Monroe’s appearance in Western genre films required designer Travilla
-  to create costumes ranging from saloon-style gowns to casual denim looks.
-  Monroe wanted her character\, Kay—a kind-hearted saloon singer torn bet
- ween an ex-convict (Robert Mitchum) and her troubled fiancé (Rory Calhoun
- )—to have a natural feel. Her acting coach\, Natasha Lytess\, and direct
- or Otto Preminger clashed over whether Monroe should use her typical breat
- hy voice\, with the studio backing Monroe’s decision to forgo it.
+ chnicolor | Scope | English | Not Rated | DCP \nDIRECTED BY: Otto Preminge
+ r \nPRODUCED BY: Stanley Rubin \nWRITTEN BY: Frank Fenton \nWITH: Robert M
+ itchum\, Marilyn Monroe\, Rory Calhoun\, Tommy Rettig\n\nType: Screenings
+ \n\nMarilyn Monroe’s appearance in Western genre films required designer
+  Travilla to create costumes ranging from saloon-style gowns to casual den
+ im looks. Monroe wanted her character\, Kay—a kind-hearted saloon singer
+  torn between an ex-convict (Robert Mitchum) and her troubled fiancé (Ror
+ y Calhoun)—to have a natural feel. Her acting coach\, Natasha Lytess\, a
+ nd director Otto Preminger clashed over whether Monroe should use her typi
+ cal breathy voice\, with the studio backing Monroe’s decision to forgo i
+ t.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/river-of-no-return-01
  9fc896-c400-a0d5-6652-e90d5dcf9ec9
@@ -1500,7 +1447,7 @@ BEGIN:VEVENT
 SUMMARY:Apocalypse Now: The Final Cut
 DTSTART;TZID=America/Los_Angeles:20260930T193000
 DTEND;TZID=America/Los_Angeles:20260930T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fc8ac-74f2-14e8-a9ff-c4e36600841a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: production manager Barrie Osbourne and James Mockos
@@ -1528,7 +1475,7 @@ BEGIN:VEVENT
 SUMMARY:Pan's Labyrinth in 3D with Guillermo del Toro
 DTSTART;TZID=America/Los_Angeles:20261001T193000
 DTEND;TZID=America/Los_Angeles:20261001T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce49-46cc-5458-af8f-22bc6f739bf3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:North American premiere of the 3D version \nIn person: writer/
@@ -1558,21 +1505,21 @@ BEGIN:VEVENT
 SUMMARY:River of No Return
 DTSTART;TZID=America/Los_Angeles:20261002T143000
 DTEND;TZID=America/Los_Angeles:20261002T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce1f-f5ff-1ff5-897d-5d21a8ae54f2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, October 2\, 2026 at 2:30 pm\n\nLocation: Academy Muse
  um of Motion Pictures\n\nRuntime: 1h 31m\n\n1954 | 91 min | USA | Technico
- lor | English | Not Rated | DCP \nDIRECTED BY: Otto Preminger \nPRODUCED B
- Y: Stanley Rubin \nWRITTEN BY: Frank Fenton \nWITH: Robert Mitchum\, Maril
- yn Monroe\, Rory Calhoun\, Tommy Rettig\n\nType: Screenings\n\nMarilyn Mon
- roe’s appearance in Western genre films required designer Travilla to cr
- eate costumes ranging from saloon-style gowns to casual denim looks. Monro
- e wanted her character\, Kay—a kind-hearted saloon singer torn between a
- n ex-convict (Robert Mitchum) and her troubled fiancé (Rory Calhoun)—to
-  have a natural feel. Her acting coach\, Natasha Lytess\, and director Ott
- o Preminger clashed over whether Monroe should use her typical breathy voi
- ce\, with the studio backing Monroe’s decision to forgo it.
+ lor | Scope | English | Not Rated | DCP \nDIRECTED BY: Otto Preminger \nPR
+ ODUCED BY: Stanley Rubin \nWRITTEN BY: Frank Fenton \nWITH: Robert Mitchum
+ \, Marilyn Monroe\, Rory Calhoun\, Tommy Rettig\n\nType: Screenings\n\nMar
+ ilyn Monroe’s appearance in Western genre films required designer Travil
+ la to create costumes ranging from saloon-style gowns to casual denim look
+ s. Monroe wanted her character\, Kay—a kind-hearted saloon singer torn b
+ etween an ex-convict (Robert Mitchum) and her troubled fiancé (Rory Calho
+ un)—to have a natural feel. Her acting coach\, Natasha Lytess\, and dire
+ ctor Otto Preminger clashed over whether Monroe should use her typical bre
+ athy voice\, with the studio backing Monroe’s decision to forgo it.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/river-of-no-return-01
  9fce1f-f5ff-1ff5-897d-5d21a8ae54f2
@@ -1581,7 +1528,7 @@ BEGIN:VEVENT
 SUMMARY:Hunt for the Wilderpeople with Taika Waititi
 DTSTART;TZID=America/Los_Angeles:20261002T193000
 DTEND;TZID=America/Los_Angeles:20261002T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce4c-afca-9541-d990-7183a7ce07ef@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:A tribute to Sam Neill \nIn person: director Taika Waititi\n\n
@@ -1613,7 +1560,7 @@ BEGIN:VEVENT
 SUMMARY:Hocus Pocus
 DTSTART;TZID=America/Los_Angeles:20261003T110000
 DTEND;TZID=America/Los_Angeles:20261003T121500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce43-4a3f-fae7-4e44-5e86f2020350@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, October 3\, 2026 at 11 am\n\nLocation: Academy Muse
@@ -1640,7 +1587,7 @@ BEGIN:VEVENT
 SUMMARY:Inside Barbie to Anna Karenina: Production Design with Jan Pascale
 DTSTART;TZID=America/Los_Angeles:20261003T140000
 DTEND;TZID=America/Los_Angeles:20261003T150000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fedcc-b133-cd1f-84b0-1e9e3a37e7b7@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Bid farewell to Barbie to Anna Karenina: The Cinematic Worlds 
@@ -1662,7 +1609,7 @@ SUMMARY:Escape From New York in 4K and Escape from LA presented by John Ca
  rpenter and Kurt Russell
 DTSTART;TZID=America/Los_Angeles:20261003T183000
 DTEND;TZID=America/Los_Angeles:20261003T213000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcda3-39cc-7bc2-d01c-a3e6ec18e6e9@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, October 3\, 2026 at 6:30 pm\n\nLocation: Academy Mu
@@ -1690,7 +1637,7 @@ BEGIN:VEVENT
 SUMMARY:Cabaret
 DTSTART;TZID=America/Los_Angeles:20261004T140000
 DTEND;TZID=America/Los_Angeles:20261004T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce45-9a13-42b2-5717-e48163a64c67@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, October 4\, 2026 at 2 pm\n\nLocation: Academy Museum 
@@ -1721,7 +1668,7 @@ BEGIN:VEVENT
 SUMMARY:The Thing in 4K
 DTSTART;TZID=America/Los_Angeles:20261004T183000
 DTEND;TZID=America/Los_Angeles:20261004T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcda7-1449-ab44-0006-af9e9afec03e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, October 4\, 2026 at 6:30 pm\n\nLocation: Academy Muse
@@ -1749,7 +1696,7 @@ BEGIN:VEVENT
 SUMMARY:There’s No Business Like Show Business
 DTSTART;TZID=America/Los_Angeles:20261005T143000
 DTEND;TZID=America/Los_Angeles:20261005T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce20-c52d-80ff-535a-88bc053ac702@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, October 5\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -1774,7 +1721,7 @@ BEGIN:VEVENT
 SUMMARY:Resurrection in 4K with Ellen Burstyn
 DTSTART;TZID=America/Los_Angeles:20261005T193000
 DTEND;TZID=America/Los_Angeles:20261005T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce4f-6735-e9e2-7f81-f98161be92de@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:4K restoration world premiere \nIn person: Ellen Burstyn\n\nMo
@@ -1803,7 +1750,7 @@ BEGIN:VEVENT
 SUMMARY:There’s No Business Like Show Business
 DTSTART;TZID=America/Los_Angeles:20261007T143000
 DTEND;TZID=America/Los_Angeles:20261007T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce21-4b72-f70e-fd5c-ed37d22f368d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, October 7\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -1828,7 +1775,7 @@ BEGIN:VEVENT
 SUMMARY:Stalker
 DTSTART;TZID=America/Los_Angeles:20261007T193000
 DTEND;TZID=America/Los_Angeles:20261007T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce29-bd11-31bd-9f3e-486fb3077abb@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Production Design Branch\n\nWednesday\, Octobe
@@ -1854,7 +1801,7 @@ BEGIN:VEVENT
 SUMMARY:Big Trouble in Little China
 DTSTART;TZID=America/Los_Angeles:20261008T193000
 DTEND;TZID=America/Los_Angeles:20261008T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcdac-482d-7d90-7fe4-d84bcfe95fe6@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, October 8\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -1880,7 +1827,7 @@ BEGIN:VEVENT
 SUMMARY:There’s No Business Like Show Business
 DTSTART;TZID=America/Los_Angeles:20261009T143000
 DTEND;TZID=America/Los_Angeles:20261009T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce21-c0ea-edc0-5900-434e9905ca52@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, October 9\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -1905,7 +1852,7 @@ BEGIN:VEVENT
 SUMMARY:The Fog in 4K
 DTSTART;TZID=America/Los_Angeles:20261009T193000
 DTEND;TZID=America/Los_Angeles:20261009T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcdae-e077-355c-8056-cd70e34aefc8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, October 9\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -1928,7 +1875,7 @@ BEGIN:VEVENT
 SUMMARY:The Little Vampire in 35mm
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261010T121500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce43-b9a7-6acf-46c8-25fdba2cb0c4@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, October 10\, 2026 at 11 am\n\nLocation: Academy Mus
@@ -1954,7 +1901,7 @@ BEGIN:VEVENT
 SUMMARY:Get on the Bus 30th Anniversary Screening in 4K
 DTSTART;TZID=America/Los_Angeles:20261010T150000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce7d-e21b-f9de-ccf8-cfa1d672c55b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Reuben Cannon\, Bill Borden\, Reggie Bythewood\, As
@@ -1986,7 +1933,7 @@ BEGIN:VEVENT
 SUMMARY:Aliens in 70mm
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce46-5898-ade3-4872-08b52c0324a2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, October 11\, 2026 at 2 pm\n\nLocation: Academy Museum
@@ -1994,19 +1941,19 @@ DESCRIPTION:Sunday\, October 11\, 2026 at 2 pm\n\nLocation: Academy Museum
   | English | Rated R | 70mm \nDIRECTED/WRITTEN BY: James Cameron \nSTORY B
  Y: James Cameron\, David Giler\, Walter Hill \nPRODUCED BY: Gale Anne Hurd
   \nWITH: Sigourney Weaver\, Michael Biehn\, Paul Reiser\, Lance Henriksen
- \n\nType: Screenings\n\nEllen Ripley\, the only survivor of the commercial
-  spaceship Nostromo\, is awakened from a half-century of suspended animati
- on only to find herself returning to the last place she ever wanted to go
- — the planet where she first encountered the alien that slaughtered her 
- crewmates. Writer-director James Cameron’s action-packed continuation of
-  Ridley Scott’s 1979 sci-fi horror classic won Oscars for its sound effe
- cts editing and visual effects and received nominations for its film editi
- ng\, sound\, James Horner’s tense score\, and Sigourney Weaver’s steel
- y yet vulnerable performance as Ripley. The art direction of production de
- signer Peter Lamont and set decorator Crispian Sallis also garnered a nomi
- nation\, making a seamless visual connection with the original film while 
- creating a variety of imaginative yet utterly convincing new designs.\nPri
- nt provided by The Walt Disney Company.
+ \nPrint provided by The Walt Disney Company.\n\nType: Screenings\n\nEllen 
+ Ripley\, the only survivor of the commercial spaceship Nostromo\, is awake
+ ned from a half-century of suspended animation only to find herself return
+ ing to the last place she ever wanted to go— the planet where she first 
+ encountered the alien that slaughtered her crewmates. Writer-director Jame
+ s Cameron’s action-packed continuation of Ridley Scott’s 1979 sci-fi h
+ orror classic won Oscars for its sound effects editing and visual effects 
+ and received nominations for its film editing\, sound\, James Horner’s t
+ ense score\, and Sigourney Weaver’s steely yet vulnerable performance as
+  Ripley. The art direction of production designer Peter Lamont and set dec
+ orator Crispian Sallis also garnered a nomination\, making a seamless visu
+ al connection with the original film while creating a variety of imaginati
+ ve yet utterly convincing new designs.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/aliens-019fce46-5898-
  ade3-4872-08b52c0324a2
@@ -2015,7 +1962,7 @@ BEGIN:VEVENT
 SUMMARY:Prince of Darkness in 35mm
 DTSTART;TZID=America/Los_Angeles:20261011T193000
 DTEND;TZID=America/Los_Angeles:20261011T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcdb0-0fc6-c6cb-200b-a4956125c273@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, October 11\, 2026 at 7:30 pm\n\nLocation: Academy Mus
@@ -2039,7 +1986,7 @@ BEGIN:VEVENT
 SUMMARY:The Seven Year Itch
 DTSTART;TZID=America/Los_Angeles:20261019T143000
 DTEND;TZID=America/Los_Angeles:20261019T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce23-41b9-6b5f-6f14-ff1a281254c8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, October 19\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -2064,7 +2011,7 @@ BEGIN:VEVENT
 SUMMARY:In the Mouth of Madness in 4K
 DTSTART;TZID=America/Los_Angeles:20261019T193000
 DTEND;TZID=America/Los_Angeles:20261019T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcdb6-5fab-378b-4f89-99a1fa5dba6e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, October 19\, 2026 at 7:30 pm\n\nLocation: Academy Mus
@@ -2090,7 +2037,7 @@ BEGIN:VEVENT
 SUMMARY:The Seven Year Itch
 DTSTART;TZID=America/Los_Angeles:20261021T143000
 DTEND;TZID=America/Los_Angeles:20261021T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce23-b6d4-30f1-f929-524f24ec6cf3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, October 21\, 2026 at 2:30 pm\n\nLocation: Academy 
@@ -2115,7 +2062,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening of Short Films by Women Directors
 DTSTART;TZID=America/Los_Angeles:20261021T193000
 DTEND;TZID=America/Los_Angeles:20261021T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce2d-087e-1067-868a-6806c769079d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Short Films Branch \nFree for museum members\n
@@ -2162,7 +2109,7 @@ BEGIN:VEVENT
 SUMMARY:Dark Star with Captain Voyeur
 DTSTART;TZID=America/Los_Angeles:20261022T193000
 DTEND;TZID=America/Los_Angeles:20261022T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcdcc-e90f-643a-99a9-df2b6043372d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, October 22\, 2026 at 7:30 pm\n\nLocation: Academy M
@@ -2184,7 +2131,7 @@ BEGIN:VEVENT
 SUMMARY:The Seven Year Itch
 DTSTART;TZID=America/Los_Angeles:20261023T143000
 DTEND;TZID=America/Los_Angeles:20261023T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce24-34bf-21e7-5c70-d4850b9b0ae0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, October 23\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -2209,7 +2156,7 @@ BEGIN:VEVENT
 SUMMARY:Vampires in 4K with Memoirs of an Invisible Man in 35mm
 DTSTART;TZID=America/Los_Angeles:20261023T193000
 DTEND;TZID=America/Los_Angeles:20261023T213000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcdd2-04c0-3ce5-734d-cf58b1fb1d61@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, October 23\, 2026 at 7:30 pm\n\nLocation: Academy Mus
@@ -2235,7 +2182,7 @@ BEGIN:VEVENT
 SUMMARY:Monster Mash
 DTSTART;TZID=America/Los_Angeles:20261024T110000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019f1fdb-7bb1-0d3a-96fc-ec6cc22ce4f2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Calling all creatures of the night: join the Academy Museum fo
@@ -2291,7 +2238,7 @@ BEGIN:VEVENT
 SUMMARY:Hotel Transylvania
 DTSTART;TZID=America/Los_Angeles:20261024T110000
 DTEND;TZID=America/Los_Angeles:20261024T123000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce81-5d86-638d-b7d7-5394af35897e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, October 24\, 2026 at 11 am\n\nLocation: Academy Mus
@@ -2317,7 +2264,7 @@ BEGIN:VEVENT
 SUMMARY:Blade in 4K
 DTSTART;TZID=America/Los_Angeles:20261024T143000
 DTEND;TZID=America/Los_Angeles:20261024T163000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce83-6b84-bb23-0a9e-f1f7b8d009b8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, October 24\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -2343,7 +2290,7 @@ BEGIN:VEVENT
 SUMMARY:Horror of Dracula in 4K
 DTSTART;TZID=America/Los_Angeles:20261024T193000
 DTEND;TZID=America/Los_Angeles:20261024T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce86-2243-5854-5276-e69b16a7e623@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:US 4K restoration premiere\n\nSaturday\, October 24\, 2026 at 
@@ -2370,27 +2317,27 @@ BEGIN:VEVENT
 SUMMARY:Men in Black in 35mm
 DTSTART;TZID=America/Los_Angeles:20261025T140000
 DTEND;TZID=America/Los_Angeles:20261025T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce46-c5ce-0889-bd76-0e3266b76f15@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, October 25\, 2026 at 2 pm\n\nLocation: Academy Museum
   of Motion Pictures\n\nRuntime: 1h 38m\n\n1997 | 98 min. | USA | Color | E
  nglish | Rated PG-13 | 35mm \nDIRECTED BY: Barry Sonnenfeld \nWRITTEN BY:
   Ed Solomon \nPRODUCED BY: Walter F. Parkes\, Laurie MacDonald \nWITH: Tom
- my Lee Jones\, Will Smith\, Linda Fiorentino\, Vincent D’Onofrio\n\nType
- : Screenings\n\nA New York police officer is recruited into a secret gover
- nment organization that helps hide the existence of extraterrestrial visit
- ors from the public\, and teams up with a more experienced operative to tr
- ack down a malicious alien that has taken over a human host. Tommy Lee Jon
- es and Will Smith make an unexpectedly ideal mismatched pair of heroes\, l
- ater reuniting for two sequels\, and are supported by witty performances f
- rom Linda Fiorentino\, Rip Torn\, and a physical tour-de-force from Vincen
- t D’Onofrio as the possessed farmer. Rick Baker and David LeRoy Anderson
-  won Oscars for their imaginative alien makeup designs\; Danny Elfman was 
- nominated for his lively score\; and production designer Bo Welch and set 
- decorator Cheryl Carasik were nominated for the film’s art direction\, w
- hich deftly combined retro-futurist sets and authentic New York locations.
- \nPrint courtesy of the Academy Film Archive.
+ my Lee Jones\, Will Smith\, Linda Fiorentino\, Vincent D’Onofrio\nPrint 
+ courtesy of the Academy Film Archive.\n\nType: Screenings\n\nA New York po
+ lice officer is recruited into a secret government organization that helps
+  hide the existence of extraterrestrial visitors from the public\, and tea
+ ms up with a more experienced operative to track down a malicious alien th
+ at has taken over a human host. Tommy Lee Jones and Will Smith make an une
+ xpectedly ideal mismatched pair of heroes\, later reuniting for two sequel
+ s\, and are supported by witty performances from Linda Fiorentino\, Rip To
+ rn\, and a physical tour-de-force from Vincent D’Onofrio as the possesse
+ d farmer. Rick Baker and David LeRoy Anderson won Oscars for their imagina
+ tive alien makeup designs\; Danny Elfman was nominated for his lively scor
+ e\; and production designer Bo Welch and set decorator Cheryl Carasik were
+  nominated for the film’s art direction\, which deftly combined retro-fu
+ turist sets and authentic New York locations.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/men-in-black-019fce46
  -c5ce-0889-bd76-0e3266b76f15
@@ -2399,7 +2346,7 @@ BEGIN:VEVENT
 SUMMARY:Christine
 DTSTART;TZID=America/Los_Angeles:20261025T183000
 DTEND;TZID=America/Los_Angeles:20261025T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce1e-0dad-beb1-27fe-7e0bb544d83a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, October 25\, 2026 at 6:30 pm\n\nLocation: Academy Mus
@@ -2424,7 +2371,7 @@ BEGIN:VEVENT
 SUMMARY:They Live by Night in 35mm with Nathan Gelgud and A. S. Hamrah
 DTSTART;TZID=America/Los_Angeles:20261026T193000
 DTEND;TZID=America/Los_Angeles:20261026T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce87-a827-bf83-b8a9-0fc6ac7bc84d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: cartoonist Nathan Gelgud and critic A. S. Hamrah\n
@@ -2462,7 +2409,7 @@ BEGIN:VEVENT
 SUMMARY:Road to Perdition in 35mm
 DTSTART;TZID=America/Los_Angeles:20261028T193000
 DTEND;TZID=America/Los_Angeles:20261028T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce2f-801e-c756-e852-6f258f23222f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Sound Branch\n\nWednesday\, October 28\, 2026 
@@ -2470,18 +2417,18 @@ DESCRIPTION:Selected by the Sound Branch\n\nWednesday\, October 28\, 2026
  7m\n\n2002 | 117 min. | USA | Color | Scope | English | Rated R | 35mm \nD
  IRECTED BY: Sam Mendes \nPRODUCED BY: Richard D. Zanuck\, Dean Zanuck\, Sa
  m Mendes \nWRITTEN BY: David Self \nWITH: Tom Hanks\, Paul Newman\, Jude L
- aw\, Jennifer Jason Leigh\n\nType: Screenings\n\nDirector Sam Mendes’s n
- ext film after his 1999 Best Picture winner American Beauty is a somber an
- d gorgeously crafted gangster drama\, based on a graphic novel series by M
- ax Allan Collins and Richard Piers Rayner. Tom Hanks plays Michael Sulliva
- n\, a loving father and stoic enforcer for an Irish-American crime family 
- (led by supporting actor nominee Paul Newman)\, who must flee with his you
- ng son. Conrad L. Hall won a posthumous Oscar for his dark\, moody cinemat
- ography\, and the film was also nominated for its art direction (Dennis Ga
- ssner\, Nancy Haigh)\, Thomas Newman’s moving score\, and the atmospheri
- c contributions of supervising sound editor Scott A. Hecker and sound mixe
- rs Scott Millan\, Bob Beemer and John Patrick Pritchett.\nPrint courtesy o
- f the Academy Film Archive.
+ aw\, Jennifer Jason Leigh\nPrint courtesy of the Academy Film Archive.\n\n
+ Type: Screenings\n\nDirector Sam Mendes’s next film after his 1999 Best 
+ Picture winner American Beauty is a somber and gorgeously crafted gangster
+  drama\, based on a graphic novel series by Max Allan Collins and Richard 
+ Piers Rayner. Tom Hanks plays Michael Sullivan\, a loving father and stoic
+  enforcer for an Irish-American crime family (led by supporting actor nomi
+ nee Paul Newman)\, who must flee with his young son. Conrad L. Hall won a 
+ posthumous Oscar for his dark\, moody cinematography\, and the film was al
+ so nominated for its art direction (Dennis Gassner\, Nancy Haigh)\, Thomas
+  Newman’s moving score\, and the atmospheric contributions of supervisin
+ g sound editor Scott A. Hecker and sound mixers Scott Millan\, Bob Beemer 
+ and John Patrick Pritchett.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/road-to-perdition-019
  fce2f-801e-c756-e852-6f258f23222f
@@ -2490,7 +2437,7 @@ BEGIN:VEVENT
 SUMMARY:Decision to Leave (헤어질 결심) with Park Hae-il
 DTSTART;TZID=America/Los_Angeles:20261029T193000
 DTEND;TZID=America/Los_Angeles:20261029T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce27-6a63-4b4d-9352-4a2c3fd9026e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actor Park Hae-il\n\nThursday\, October 29\, 2026 a
@@ -2518,7 +2465,7 @@ BEGIN:VEVENT
 SUMMARY:Hansan: Rising Dragon (한산: 용의 출현) with Park Hae-il
 DTSTART;TZID=America/Los_Angeles:20261030T193000
 DTEND;TZID=America/Los_Angeles:20261030T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce28-77e9-867e-b116-4fbf49e1a102@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actor Park Hae-il\n\nFriday\, October 30\, 2026 at 
@@ -2546,7 +2493,7 @@ BEGIN:VEVENT
 SUMMARY:The Witches
 DTSTART;TZID=America/Los_Angeles:20261031T110000
 DTEND;TZID=America/Los_Angeles:20261031T121500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce44-08a6-7d94-e7af-9bf92c6bcc07@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, October 31\, 2026 at 11 am
@@ -2576,7 +2523,7 @@ BEGIN:VEVENT
 SUMMARY:Museum After Dark
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T224500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019f240a-2c67-7918-db74-8932990ed413@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Celebrate Halloween at the Academy Museum with a goth-themed a
@@ -2615,7 +2562,7 @@ BEGIN:VEVENT
 SUMMARY:30th Anniversary of The Craft
 DTSTART;TZID=America/Los_Angeles:20261031T220000
 DTEND;TZID=America/Los_Angeles:20261031T234500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce89-65f1-d75b-7550-d6d55b63dd80@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actors Robin Tunney and Rachel True\n\nSaturday\, O
@@ -2644,7 +2591,7 @@ BEGIN:VEVENT
 SUMMARY:Gosford Park in 35mm
 DTSTART;TZID=America/Los_Angeles:20261101T140000
 DTEND;TZID=America/Los_Angeles:20261101T153000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce7e-7fc4-7444-13d8-f903af546e07@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 1\, 2026 at 2 pm\n\nLocation: Academy Museum
@@ -2652,18 +2599,18 @@ DESCRIPTION:Sunday\, November 1\, 2026 at 2 pm\n\nLocation: Academy Museum
  aly/UK | Color | Scope | English | Rated R | 35mm \nDIRECTED BY: Robert Al
  tman \nWRITTEN BY: Julian Fellowes \nPRODUCED BY: Robert Altman\, Bob Bala
  ban\, David Levy \nWITH: Eileen Atkins\, Bob Balaban\, Charles Dance\, Ste
- phen Fry\n\nType: Screenings\n\nA weekend party at an English mansion in t
- he 1930s leads to murder in this seriocomic whodunit\, with Robert Altman 
- directing an all-star cast. The Oscar-winning screenplay came via Julian F
- ellowes\, who later explored the same milieu for Downton Abbey. The remark
- able transatlantic cast includes Alan Bates\, Bob Balaban (who also produc
- ed and came up with the story idea with Altman)\, Clive Owen\, Kristin Sco
- tt Thomas\, Emily Watson\, and Helen Mirren and Maggie Smith\, who were bo
- th nominated for their performances. The film’s seven nominations includ
- e Best Picture\, Directing\, and Art Direction\, with production designer 
- Stephen Altman and set decorator Anna Pinnock mixing authentic English man
- sions and soundstage sets to evoke the glamour and class divisions of the 
- era.\nPrint courtesy of the Academy Film Archive.
+ phen Fry\nPrint courtesy of the Academy Film Archive.\n\nType: Screenings
+ \n\nA weekend party at an English mansion in the 1930s leads to murder in 
+ this seriocomic whodunit\, with Robert Altman directing an all-star cast. 
+ The Oscar-winning screenplay came via Julian Fellowes\, who later explored
+  the same milieu for Downton Abbey. The remarkable transatlantic cast incl
+ udes Alan Bates\, Bob Balaban (who also produced and came up with the stor
+ y idea with Altman)\, Clive Owen\, Kristin Scott Thomas\, Emily Watson\, a
+ nd Helen Mirren and Maggie Smith\, who were both nominated for their perfo
+ rmances. The film’s seven nominations include Best Picture\, Directing\,
+  and Art Direction\, with production designer Stephen Altman and set decor
+ ator Anna Pinnock mixing authentic English mansions and soundstage sets to
+  evoke the glamour and class divisions of the era.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/gosford-park-019fce7e
  -7fc4-7444-13d8-f903af546e07
@@ -2672,7 +2619,7 @@ BEGIN:VEVENT
 SUMMARY:Eungyo (은교) with Park Hae-il
 DTSTART;TZID=America/Los_Angeles:20261101T183000
 DTEND;TZID=America/Los_Angeles:20261101T193000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce81-14e6-a44b-f9a8-1dbc9ce699f2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actor Park Hae-il\n\nSunday\, November 1\, 2026 at 
@@ -2700,7 +2647,7 @@ SUMMARY:F. W. Murnau’s Faust at 100 with a live score by Julianna Barwic
  k
 DTSTART;TZID=America/Los_Angeles:20261101T190000
 DTEND;TZID=America/Los_Angeles:20261101T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce83-299b-ab7d-c1f2-b65b04058a41@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 1\, 2026 at 7 pm\n\nLocation: Academy Museum
@@ -2734,7 +2681,7 @@ BEGIN:VEVENT
 SUMMARY:Bus Stop
 DTSTART;TZID=America/Los_Angeles:20261102T143000
 DTEND;TZID=America/Los_Angeles:20261102T153000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce85-2ae5-dbb1-521b-f5d7bef18de9@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 2\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -2758,7 +2705,7 @@ BEGIN:VEVENT
 SUMMARY:Arrival: A Conversation with Denis Villeneuve and Dr. Nina Beguš
 DTSTART;TZID=America/Los_Angeles:20261102T193000
 DTEND;TZID=America/Los_Angeles:20261102T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019ff719-cda6-18c3-2355-e69ab8eb784c@academymuseum.org
 CATEGORIES:Conversations,Screenings
 DESCRIPTION:In person: director Denis Villeneuve and Dr. Nina Beguš\n\nMo
@@ -2810,7 +2757,7 @@ BEGIN:VEVENT
 SUMMARY:The Last Princess (덕혜옹주)
 DTSTART;TZID=America/Los_Angeles:20261102T200000
 DTEND;TZID=America/Los_Angeles:20261102T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce87-f9d1-0202-9756-8f2e3a175c8f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 2\, 2026 at 8 pm\n\nLocation: Academy Museum
@@ -2835,7 +2782,7 @@ BEGIN:VEVENT
 SUMMARY:Bus Stop
 DTSTART;TZID=America/Los_Angeles:20261104T143000
 DTEND;TZID=America/Los_Angeles:20261104T153000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce88-e357-e8fd-72e4-a308a92bb3c5@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, November 4\, 2026 at 2:30 pm\n\nLocation: Academy 
@@ -2860,7 +2807,7 @@ SUMMARY:My Dad Is 100 Years Old with Rome\, Open City presented by Isabell
  a Rossellini
 DTSTART;TZID=America/Los_Angeles:20261104T193000
 DTEND;TZID=America/Los_Angeles:20261104T213000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce8c-8328-1ce4-64d2-ca0302f3fadb@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Isabella Rossellini\n\nWednesday\, November 4\, 202
@@ -2883,7 +2830,7 @@ BEGIN:VEVENT
 SUMMARY:Memories of Murder (살인의 추억) in 4K
 DTSTART;TZID=America/Los_Angeles:20261104T200000
 DTEND;TZID=America/Los_Angeles:20261104T210000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce98-88b8-c32d-e44b-c505ede880cb@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, November 4\, 2026 at 8 pm\n\nLocation: Academy Mus
@@ -2909,7 +2856,7 @@ SUMMARY:Viva Ingrid! with Journey to Italy presented by Isabella Rossellin
  i
 DTSTART;TZID=America/Los_Angeles:20261105T193000
 DTEND;TZID=America/Los_Angeles:20261105T213000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce99-bdc4-db1d-1a14-a7095eb4691e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Isabella Rossellini\n\nThursday\, November 5\, 2026
@@ -2929,7 +2876,7 @@ BEGIN:VEVENT
 SUMMARY:Bus Stop
 DTSTART;TZID=America/Los_Angeles:20261106T143000
 DTEND;TZID=America/Los_Angeles:20261106T153000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce9b-3543-75bc-8dfc-3a8a0ddcd00c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, November 6\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -2953,7 +2900,7 @@ BEGIN:VEVENT
 SUMMARY:The Haunted Mansion
 DTSTART;TZID=America/Los_Angeles:20261107T110000
 DTEND;TZID=America/Los_Angeles:20261107T121500
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce9c-5db0-34c6-1956-cdcf167842e5@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 7\, 2026 at 11 am\n\nLocation: Academy Mus
@@ -2978,7 +2925,7 @@ BEGIN:VEVENT
 SUMMARY:Rossellini Through His Own Eyes (Rossellini visto da Rossellini)
 DTSTART;TZID=America/Los_Angeles:20261107T143000
 DTEND;TZID=America/Los_Angeles:20261107T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce9d-9e8e-1db2-660d-0c4d5016dd79@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 7\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -3002,7 +2949,7 @@ BEGIN:VEVENT
 SUMMARY:Rome\, Open City (Roma città aperta) in 35mm
 DTSTART;TZID=America/Los_Angeles:20261107T193000
 DTEND;TZID=America/Los_Angeles:20261107T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fce9e-c52e-1ee3-a07b-2484acf4e5f2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 7\, 2026 at 7:30 pm\n\nLocation: Academy M
@@ -3030,28 +2977,28 @@ BEGIN:VEVENT
 SUMMARY:Chicago in 35mm
 DTSTART;TZID=America/Los_Angeles:20261108T140000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcea0-a79c-07fd-95cf-01f9e0b0b58b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 8\, 2026 at 2 pm\n\nLocation: Academy Museum
   of Motion Pictures\n\nRuntime: 1h 53m\n\n2002 | 113 min. | USA/Canada | C
  olor | English | Rated PG-13 | 35mm \nDIRECTED BY: Rob Marshall \nWRITTEN 
  BY: Bill Condon \nPRODUCED BY: Martin Richards \nWITH: Renée Zellweger\, 
- Catherine Zeta-Jones\, Richard Gere\, Queen Latifah\n\nType: Screenings\n
- \nWannabe celeb Roxie Hart murders her lover and is sent to jail\, only to
-  discover that a tabloid scandal may be her best route to true stardom in 
- this stylish and lively version of the stage musical. Rob Marshall\, makin
- g his feature directing debut\, pays due homage to the distinctive style o
- f Bob Fosse’s original Broadway production while bringing his own energe
- tic approach to the material\, which features such classic Kander and Ebb 
- songs as “All That Jazz\,” “Cell Block Tango\,” and “Mister Cell
- ophane.” The first movie musical to win Best Picture in the 34 years sin
- ce Oliver! (1968)\, it received 13 nominations and also won for Costume De
- sign\, Film Editing\, Sound\, Catherine Zeta-Jones’s commanding performa
- nce as Roxie’s frenemy Velma Kelly. Production designer John Myhre and s
- et decorator Gordon Sim also won for their Art Direction\, featuring just 
- the right blend of fantasy and reality.\nPrint courtesy of the Academy Fil
- m Archive.
+ Catherine Zeta-Jones\, Richard Gere\, Queen Latifah\nPrint courtesy of the
+  Academy Film Archive.\n\nType: Screenings\n\nWannabe celeb Roxie Hart mur
+ ders her lover and is sent to jail\, only to discover that a tabloid scand
+ al may be her best route to true stardom in this stylish and lively versio
+ n of the stage musical. Rob Marshall\, making his feature directing debut
+ \, pays due homage to the distinctive style of Bob Fosse’s original Broa
+ dway production while bringing his own energetic approach to the material
+ \, which features such classic Kander and Ebb songs as “All That Jazz\,
+ ” “Cell Block Tango\,” and “Mister Cellophane.” The first movie 
+ musical to win Best Picture in the 34 years since Oliver! (1968)\, it rece
+ ived 13 nominations and also won for Costume Design\, Film Editing\, Sound
+ \, Catherine Zeta-Jones’s commanding performance as Roxie’s frenemy Ve
+ lma Kelly. Production designer John Myhre and set decorator Gordon Sim als
+ o won for their Art Direction\, featuring just the right blend of fantasy 
+ and reality.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/chicago-019fcea0-a79c
  -07fd-95cf-01f9e0b0b58b
@@ -3060,7 +3007,7 @@ BEGIN:VEVENT
 SUMMARY:Waikiki Brothers (와이키키 브라더스)
 DTSTART;TZID=America/Los_Angeles:20261108T183000
 DTEND;TZID=America/Los_Angeles:20261108T213000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceaa-0d8c-29c6-78fd-3da5a274eff0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 8\, 2026 at 6:30 pm\n\nLocation: Academy Mus
@@ -3087,7 +3034,7 @@ BEGIN:VEVENT
 SUMMARY:Some Like It Hot in 4K
 DTSTART;TZID=America/Los_Angeles:20261109T143000
 DTEND;TZID=America/Los_Angeles:20261109T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcea2-e597-ea37-537e-ba990f989094@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 9\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -3112,7 +3059,7 @@ BEGIN:VEVENT
 SUMMARY:Moss (이끼)
 DTSTART;TZID=America/Los_Angeles:20261109T193000
 DTEND;TZID=America/Los_Angeles:20261109T210000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcea5-0914-56f5-74e2-969a3339a5ec@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 9\, 2026 at 7:30 pm\n\nLocation: Academy Mus
@@ -3134,7 +3081,7 @@ BEGIN:VEVENT
 SUMMARY:Some Like It Hot in 4K
 DTSTART;TZID=America/Los_Angeles:20261111T143000
 DTEND;TZID=America/Los_Angeles:20261111T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcea3-63d6-402d-d4df-8d5f6eceed43@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, November 11\, 2026 at 2:30 pm\n\nLocation: Academy
@@ -3159,7 +3106,7 @@ BEGIN:VEVENT
 SUMMARY:War for the Planet of the Apes
 DTSTART;TZID=America/Los_Angeles:20261111T193000
 DTEND;TZID=America/Los_Angeles:20261111T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcea6-3bd2-a751-b0ce-f79d4ffa1e83@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Visual Effects Branch\n\nWednesday\, November 
@@ -3184,7 +3131,7 @@ BEGIN:VEVENT
 SUMMARY:Some Like It Hot in 4K
 DTSTART;TZID=America/Los_Angeles:20261113T143000
 DTEND;TZID=America/Los_Angeles:20261113T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcea3-ccaa-c2d2-ff8b-84cf0163a319@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, November 13\, 2026 at 2:30 pm\n\nLocation: Academy Mu
@@ -3209,7 +3156,7 @@ BEGIN:VEVENT
 SUMMARY:In Focus: Queer for Fear Live!
 DTSTART;TZID=America/Los_Angeles:20261113T160000
 DTEND;TZID=America/Los_Angeles:20261113T180000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fdd24-5d9c-9faa-8ac4-dd2a684b07a3@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Drag legend Peaches Christ and scholar Dr. Heather O. Petrocel
@@ -3232,7 +3179,7 @@ BEGIN:VEVENT
 SUMMARY:Black Fire with Kevin Jerome Everson and Claudrena N. Harold
 DTSTART;TZID=America/Los_Angeles:20261113T193000
 DTEND;TZID=America/Los_Angeles:20261113T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcea8-1372-4e4b-7da1-c6c524c438f6@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: filmmakers Kevin Jerome Everson and Claudrena N. Ha
@@ -3275,7 +3222,7 @@ BEGIN:VEVENT
 SUMMARY:Frankenweenie in 35mm
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T123000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcea8-e8f6-6d3e-76aa-b9ad54f74461@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 14\, 2026 at 11 am\n\nLocation: Academy Mu
@@ -3302,27 +3249,27 @@ BEGIN:VEVENT
 SUMMARY:Jealousy Is My Middle Name (질투는 나의 힘)  in 35mm
 DTSTART;TZID=America/Los_Angeles:20261114T183000
 DTEND;TZID=America/Los_Angeles:20261114T200000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcea1-c7b8-b5d6-b554-26b3946dfe22@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 14\, 2026 at 6:30 pm\n\nLocation: Academy 
  Museum of Motion Pictures\n\nRuntime: 2h 5m\n\n2002 | 125 min | South Kore
  a | Korean | Not Rated | 35mm\nDIRECTED/WRITTEN BY: Park Chan-ok \nPRODUC
  ED BY: Kim Gwang-su\, Shin Chang-gil \nWITH: Park Hae-il\, Moon Sung-geun
- \, Bae Jong-ok\, Seo Young-hee\n\nType: Screenings\n\nPark Hae-il plays Le
- e Won-sang\, the hero of Park Chan-ok’s debut feature\, in his second bi
- g-screen appearance. Lee is a 27-year-old graduate student in literature\,
-  finishing up his thesis before he leaves for London. When he starts writi
- ng an article for a magazine as a favor\, he realizes that the head editor
- \, Han Yun-shik\, is the reason his girlfriend left him. Lee’s complicat
- ed feelings toward Han\, a mixture of admiration and jealousy\, brings mor
- e confusion when he is introduced to a mesmerizing photographer\, Park Sun
- g-yeon\, a cool\, down-to-earth woman who is also having an affair with Ha
- n. Calm on the surface but roiling underneath\, the story explores human e
- motions in a macro lens\, excavating endless variables that shape characte
- rs while they struggle to stay composed. Park’s undefinable approach to 
- Lee allows his character’s purity and honesty to roam free. \nPrint cour
- tesy of Korean Film Archive.
+ \, Bae Jong-ok\, Seo Young-hee \nPrint courtesy of Korean Film Archive.\n
+ \nType: Screenings\n\nPark Hae-il plays Lee Won-sang\, the hero of Park Ch
+ an-ok’s debut feature\, in his second big-screen appearance. Lee is a 27
+ -year-old graduate student in literature\, finishing up his thesis before 
+ he leaves for London. When he starts writing an article for a magazine as 
+ a favor\, he realizes that the head editor\, Han Yun-shik\, is the reason 
+ his girlfriend left him. Lee’s complicated feelings toward Han\, a mixtu
+ re of admiration and jealousy\, brings more confusion when he is introduce
+ d to a mesmerizing photographer\, Park Sung-yeon\, a cool\, down-to-earth 
+ woman who is also having an affair with Han. Calm on the surface but roili
+ ng underneath\, the story explores human emotions in a macro lens\, excava
+ ting endless variables that shape characters while they struggle to stay c
+ omposed. Park’s undefinable approach to Lee allows his character’s pur
+ ity and honesty to roam free.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/jealousy-019fcea1-c7b
  8-b5d6-b554-26b3946dfe22
@@ -3331,7 +3278,7 @@ BEGIN:VEVENT
 SUMMARY:The Grand Budapest Hotel in 35mm
 DTSTART;TZID=America/Los_Angeles:20261115T140000
 DTEND;TZID=America/Los_Angeles:20261115T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcead-4761-2c05-b6ca-afca843ad169@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 15\, 2026 at 2 pm\n\nLocation: Academy Museu
@@ -3339,20 +3286,20 @@ DESCRIPTION:Sunday\, November 15\, 2026 at 2 pm\n\nLocation: Academy Museu
  Color | Scope | English\, French\, German | Rated R | 35mm\nDIRECTED/WRITT
  EN BY: Wes Anderson \nSTORY BY: Wes Anderson\, Hugo Guinness \nPRODUCED BY
  : Wes Anderson\, Scott Rudin\, Steven Rales\, Jeremy Dawson \nWITH: Ralph 
- Fiennes\, F. Murray Abraham\, Edward Norton\, Tony Revolori\n\nType: Scree
- nings\n\nWriter-director Wes Anderson was inspired by Austrian novelist St
- efan Zweig (1881-1942) for his seriocomic and visually dazzling story abou
- t a posh resort\, its vain concierge (Ralph Fiennes in a peerless comic pe
- rformance) and a young lobby boy (Tony Revolori). Anderson directed an all
- -star international cast and brought his distinctive visual sensibilities 
- to his original story (written with Hugo Guinness)\, set in a fictional Eu
- ropean country on the eve of war. The film received nine nominations inclu
- ding Best Picture and won Oscars for Alexandre Desplat’s effervescent sc
- ore\, Milena Canonero’s costume design\, the makeup and hair creations o
- f Frances Hannon and Mark Coulier\, and the production design of Adam Stoc
- khausen and his set decorator\, Anna Pinnock\, who transformed a vacant Ge
- rman department store into the eponymous hotel.\nPrint courtesy of the Aca
- demy Film Archive.
+ Fiennes\, F. Murray Abraham\, Edward Norton\, Tony Revolori \nPrint courte
+ sy of the Academy Film Archive.\n\nType: Screenings\n\nWriter-director Wes
+  Anderson was inspired by Austrian novelist Stefan Zweig (1881-1942) for h
+ is seriocomic and visually dazzling story about a posh resort\, its vain c
+ oncierge (Ralph Fiennes in a peerless comic performance) and a young lobby
+  boy (Tony Revolori). Anderson directed an all-star international cast and
+  brought his distinctive visual sensibilities to his original story (writt
+ en with Hugo Guinness)\, set in a fictional European country on the eve of
+  war. The film received nine nominations including Best Picture and won Os
+ cars for Alexandre Desplat’s effervescent score\, Milena Canonero’s co
+ stume design\, the makeup and hair creations of Frances Hannon and Mark Co
+ ulier\, and the production design of Adam Stockhausen and his set decorato
+ r\, Anna Pinnock\, who transformed a vacant German department store into t
+ he eponymous hotel.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/the-grand-budapest-ho
  tel-019fcead-4761-2c05-b6ca-afca843ad169
@@ -3361,7 +3308,7 @@ BEGIN:VEVENT
 SUMMARY:Paisàn in 35mm
 DTSTART;TZID=America/Los_Angeles:20261115T143000
 DTEND;TZID=America/Los_Angeles:20261115T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceae-f096-eafc-82d4-f45ed5f0628e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 15\, 2026 at 2:30 pm\n\nLocation: Academy Mu
@@ -3388,7 +3335,7 @@ BEGIN:VEVENT
 SUMMARY:Germany Year Zero (Germania anno zero) in 35mm
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T203000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb0-6341-861a-27b3-b8a22f7f663a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 15\, 2026 at 7 pm\n\nLocation: Academy Museu
@@ -3417,7 +3364,7 @@ BEGIN:VEVENT
 SUMMARY:The Misfits in 4K
 DTSTART;TZID=America/Los_Angeles:20261116T143000
 DTEND;TZID=America/Los_Angeles:20261116T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb1-50e8-5b11-dffc-d44ae7c0f6e1@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 16\, 2026 at 2:30 pm\n\nLocation: Academy Mu
@@ -3443,7 +3390,7 @@ BEGIN:VEVENT
 SUMMARY:L’amore in 35mm
 DTSTART;TZID=America/Los_Angeles:20261116T193000
 DTEND;TZID=America/Los_Angeles:20261116T203000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb4-23c7-f820-6cf6-bf395ffa1298@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 16\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -3471,7 +3418,7 @@ BEGIN:VEVENT
 SUMMARY:The Getaway in 35mm
 DTSTART;TZID=America/Los_Angeles:20261118T193000
 DTEND;TZID=America/Los_Angeles:20261118T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb5-074b-2299-31fc-5113d9814f93@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Writers Branch \nFree for museum members\n\nWe
@@ -3479,14 +3426,14 @@ DESCRIPTION:Selected by the Writers Branch \nFree for museum members\n\nWe
  ion Pictures\n\nRuntime: 2h 2m\n\n1972 | 122 min. | USA | Color | Scope | 
  English | Rated PG | 35mm \nDIRECTED BY: Sam Peckinpah \nPRODUCED BY: Davi
  d Foster\, Mitchell Brower \nWRITTEN BY: Walter Hill \nWITH: Steve McQueen
- \, Ali MacGraw\, Ben Johnson\, Sally Struthers\n\nType: Screenings\n\n“D
- oc” McCoy (Steve McQueen) is unexpectedly freed from a lengthy prison se
- ntence to take part in a bank robbery\, but there may be no one he can tru
- st\, not even his seemingly loyal wife (Ali MacGraw). For one of his first
-  produced screenplays\, Walter Hill adapted one of noir master Jim Thompso
- n’s darkest novels into a more light-hearted but still cynical romantic 
- thriller\, with director Sam Peckinpah staging the film’s action sequenc
- es with his usual vividness.\nPrint courtesy of the Academy Film Archive.
+ \, Ali MacGraw\, Ben Johnson\, Sally Struthers\nPrint courtesy of the Acad
+ emy Film Archive.\n\nType: Screenings\n\n“Doc” McCoy (Steve McQueen) i
+ s unexpectedly freed from a lengthy prison sentence to take part in a bank
+  robbery\, but there may be no one he can trust\, not even his seemingly l
+ oyal wife (Ali MacGraw). For one of his first produced screenplays\, Walte
+ r Hill adapted one of noir master Jim Thompson’s darkest novels into a m
+ ore light-hearted but still cynical romantic thriller\, with director Sam 
+ Peckinpah staging the film’s action sequences with his usual vividness.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/the-getaway-019fceb5-
  074b-2299-31fc-5113d9814f93
@@ -3495,7 +3442,7 @@ BEGIN:VEVENT
 SUMMARY:50th Anniversary of Carrie with Sissy Spacek
 DTSTART;TZID=America/Los_Angeles:20261119T193000
 DTEND;TZID=America/Los_Angeles:20261119T213000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019efac4-788f-5c34-1b3d-6cf7811d1697@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Sissy Spacek\n\nThursday\, November 19\, 2026 at 7:
@@ -3524,24 +3471,24 @@ BEGIN:VEVENT
 SUMMARY:The Misfits in 4K
 DTSTART;TZID=America/Los_Angeles:20261120T143000
 DTEND;TZID=America/Los_Angeles:20261120T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb2-2191-b9ef-b1b8-e8bd741c5187@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, November 20\, 2026 at 2:30 pm\n\nLocation: Academy Mu
  seum of Motion Pictures\n\nRuntime: 2h 5m\n\n1961 | 125 min | USA | Black-
  and-White | English | Not Rated | 4K DCP \nDIRECTED BY: John Huston \nPROD
  UCED BY: Frank E. Taylor \nWRITTEN BY: Arthur Miller \nWITH: Clark Gable\,
-  Marilyn Monroe\, Montgomery Clift\, Thelma Ritter\n\nType: Screenings\n\n
- Penned by Arthur Miller\, this contemporary Western centers on the recentl
- y divorced Roslyn (Marilyn Monroe) and her relationship with an aging form
- er cowboy\, Gay (Clark Gable)\, who now survives by rounding up wild musta
- ngs to sell them to a slaughterhouse. Considered a commercial failure at t
- he time of its original release\, the film has since been regarded as a cl
- assic by critics and audiences\, perhaps notably because it was the final 
- completed film of both Gable and Monroe\, and a fitting bookend to Monroe
- ’s career—she credited Huston for her first big break in his The Aspha
- lt Jungle (1950).\nRestored by the Academy Film Archive and The Film Found
- ation. Restoration funding provided by the Hobson/Lucas Family Foundation.
+  Marilyn Monroe\, Montgomery Clift\, Thelma Ritter\nRestored by the Academ
+ y Film Archive and The Film Foundation. Restoration funding provided by th
+ e Hobson/Lucas Family Foundation.\n\nType: Screenings\n\nPenned by Arthur 
+ Miller\, this contemporary Western centers on the recently divorced Roslyn
+  (Marilyn Monroe) and her relationship with an aging former cowboy\, Gay (
+ Clark Gable)\, who now survives by rounding up wild mustangs to sell them 
+ to a slaughterhouse. Considered a commercial failure at the time of its or
+ iginal release\, the film has since been regarded as a classic by critics 
+ and audiences\, perhaps notably because it was the final completed film of
+  both Gable and Monroe\, and a fitting bookend to Monroe’s career—she 
+ credited Huston for her first big break in his The Asphalt Jungle (1950).
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/the-misfits-019fceb2-
  2191-b9ef-b1b8-e8bd741c5187
@@ -3550,7 +3497,7 @@ BEGIN:VEVENT
 SUMMARY:Journey to Italy (Viaggio in Italia) in 4K
 DTSTART;TZID=America/Los_Angeles:20261120T193000
 DTEND;TZID=America/Los_Angeles:20261120T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb5-ef5d-bf8f-6798-bb9bfde1aafd@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:US restoration premiere\n\nFriday\, November 20\, 2026 at 7:30
@@ -3577,7 +3524,7 @@ BEGIN:VEVENT
 SUMMARY:Wendell & Wild
 DTSTART;TZID=America/Los_Angeles:20261121T110000
 DTEND;TZID=America/Los_Angeles:20261121T123000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb6-94fe-1960-94f0-62fd5b1b66a0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 21\, 2026 at 11 am\n\nLocation: Academy Mu
@@ -3605,24 +3552,24 @@ BEGIN:VEVENT
 SUMMARY:The Misfits in 4K
 DTSTART;TZID=America/Los_Angeles:20261121T143000
 DTEND;TZID=America/Los_Angeles:20261121T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb2-f294-8b76-65ba-9dfb991f3ebc@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 21\, 2026 at 2:30 pm\n\nLocation: Academy 
  Museum of Motion Pictures\n\nRuntime: 2h 5m\n\n1961 | 125 min | USA | Blac
  k-and-White | English | Not Rated | 4K DCP \nDIRECTED BY: John Huston \nPR
  ODUCED BY: Frank E. Taylor \nWRITTEN BY: Arthur Miller \nWITH: Clark Gable
- \, Marilyn Monroe\, Montgomery Clift\, Thelma Ritter\n\nType: Screenings\n
- \nPenned by Arthur Miller\, this contemporary Western centers on the recen
- tly divorced Roslyn (Marilyn Monroe) and her relationship with an aging fo
- rmer cowboy\, Gay (Clark Gable)\, who now survives by rounding up wild mus
- tangs to sell them to a slaughterhouse. Considered a commercial failure at
-  the time of its original release\, the film has since been regarded as a 
- classic by critics and audiences\, perhaps notably because it was the fina
- l completed film of both Gable and Monroe\, and a fitting bookend to Monro
- e’s career—she credited Huston for her first big break in his The Asph
- alt Jungle (1950).\nRestored by the Academy Film Archive and The Film Foun
- dation. Restoration funding provided by the Hobson/Lucas Family Foundation
+ \, Marilyn Monroe\, Montgomery Clift\, Thelma Ritter\nRestored by the Acad
+ emy Film Archive and The Film Foundation. Restoration funding provided by 
+ the Hobson/Lucas Family Foundation.\n\nType: Screenings\n\nPenned by Arthu
+ r Miller\, this contemporary Western centers on the recently divorced Rosl
+ yn (Marilyn Monroe) and her relationship with an aging former cowboy\, Gay
+  (Clark Gable)\, who now survives by rounding up wild mustangs to sell the
+ m to a slaughterhouse. Considered a commercial failure at the time of its 
+ original release\, the film has since been regarded as a classic by critic
+ s and audiences\, perhaps notably because it was the final completed film 
+ of both Gable and Monroe\, and a fitting bookend to Monroe’s career—sh
+ e credited Huston for her first big break in his The Asphalt Jungle (1950)
  .
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/the-misfits-019fceb2-
@@ -3632,7 +3579,7 @@ BEGIN:VEVENT
 SUMMARY:Stromboli in 35mm
 DTSTART;TZID=America/Los_Angeles:20261121T193000
 DTEND;TZID=America/Los_Angeles:20261121T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb7-6427-55b4-002f-045e576614b8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 21\, 2026 at 7:30 pm\n\nLocation: Academy 
@@ -3660,7 +3607,7 @@ BEGIN:VEVENT
 SUMMARY:The Favourite
 DTSTART;TZID=America/Los_Angeles:20261122T140000
 DTEND;TZID=America/Los_Angeles:20261122T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb8-441b-b5b9-ada8-4e32ba7253fa@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 22\, 2026 at 2 pm\n\nLocation: Academy Museu
@@ -3688,7 +3635,7 @@ BEGIN:VEVENT
 SUMMARY:The Flowers of St. Francis (Francesco\, giullare di Dio) in 35mm
 DTSTART;TZID=America/Los_Angeles:20261122T183000
 DTEND;TZID=America/Los_Angeles:20261122T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb9-32b4-32a5-5370-e7362e42607c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 22\, 2026 at 6:30 pm\n\nLocation: Academy Mu
@@ -3714,7 +3661,7 @@ SUMMARY:The Machine That Kills Bad People (La macchina ammazzacattivi) in
   35mm
 DTSTART;TZID=America/Los_Angeles:20261123T193000
 DTEND;TZID=America/Los_Angeles:20261123T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceb9-ef3b-238d-3db7-1f2c9aee90e9@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 23\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -3741,7 +3688,7 @@ BEGIN:VEVENT
 SUMMARY:Gremlins
 DTSTART;TZID=America/Los_Angeles:20261128T110000
 DTEND;TZID=America/Los_Angeles:20261128T123000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fceba-f20a-417b-ed3c-bd5163cf63fa@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, November 28\, 2026 at 11 am
@@ -3772,7 +3719,7 @@ BEGIN:VEVENT
 SUMMARY:Europe ’51
 DTSTART;TZID=America/Los_Angeles:20261128T193000
 DTEND;TZID=America/Los_Angeles:20261128T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcebb-d046-d251-bb9d-d238cf827fbb@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 28\, 2026 at 7:30 pm\n\nLocation: Academy 
@@ -3802,7 +3749,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Time… in Hollywood in 70mm
 DTSTART;TZID=America/Los_Angeles:20261129T140000
 DTEND;TZID=America/Los_Angeles:20261129T160000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcebd-2334-62f5-48c4-fadf0162246e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 29\, 2026 at 2 pm\n\nLocation: Academy Museu
@@ -3831,7 +3778,7 @@ BEGIN:VEVENT
 SUMMARY:Fear (La Paura) in 4K
 DTSTART;TZID=America/Los_Angeles:20261129T183000
 DTEND;TZID=America/Los_Angeles:20261129T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcebe-17ab-0bb5-1708-5843377f4226@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 29\, 2026 at 6:30 pm\n\nLocation: Academy Mu
@@ -3857,7 +3804,7 @@ BEGIN:VEVENT
 SUMMARY:Joan of Arc at the Stake in 35mm
 DTSTART;TZID=America/Los_Angeles:20261130T193000
 DTEND;TZID=America/Los_Angeles:20261130T223000
-DTSTAMP:20260827T185422Z
+DTSTAMP:20260828T195603Z
 UID:019fcebe-b2fc-b261-ca38-3420c3634eed@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 30\, 2026 at 7:30 pm\n\nLocation: Academy Mu
