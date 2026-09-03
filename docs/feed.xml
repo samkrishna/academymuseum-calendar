@@ -7,37 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:36:25 +0000</lastBuildDate>
-    <item>
-      <title>Monkey Business in 4K — Sep 2</title>
-      <link>https://www.academymuseum.org/en/programs/detail/monkey-business-019fc88b-243a-ad10-b3bf-fcbe2f99ee0d</link>
-      <description>Wednesday, September 2, 2026 at 2:30 pm
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 37m
-
-1952 | 97 min | USA | Black-and-White | English | Not Rated | 4K DCP 
-DIRECTED BY: Howard Hawks 
-PRODUCED BY: Sol C. Siegel 
-WRITTEN BY: Ben Hecht, Charles Lederer, I. A. L. Diamond 
-WITH: Cary Grant, Ginger Rogers, Charles Coburn, Marilyn Monroe
-
-Type: Screenings
-
-Dr. Barnaby Fulton (Cary Grant) is a scatterbrained chemist working to create an elixir of youth. When one of his chimpanzees, Esther, breaks loose, she mixes chemicals in Barnaby’s lab, dumping the concoction into the office’s water cooler. The formula generates the rejuvenation effect Barnaby has been seeking — along with more chaotic side effects in some cases. Monkey Business allowed Monroe, who co-stars as Lois Laurel, to showcase her brilliant timing, further solidifying her reputation as a comedic actress.</description>
-      <guid isPermaLink="false">019fc88b-243a-ad10-b3bf-fcbe2f99ee0d</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/faXL3KVkGWBH5t4gkfOJc/2faeee9792c367494f55b21ec8031067/Sep2_MONKEY_BUSINESS_Marilyn1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Sep 2026 14:30:00 -0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 12:38:39 +0000</lastBuildDate>
     <item>
       <title>The Women — Sep 2</title>
       <link>https://www.academymuseum.org/en/programs/detail/the-women-019fc8a7-c694-982e-f68b-8d69273eeb1d</link>
       <description>In person: Academy Governor Patricia Dehaney 
 Selected by the Makeup Artists and Hairstylists Branch
 
-Wednesday, September 2, 2026 at 7:30 pm
+Wednesday, September 2, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -55,7 +32,30 @@ Co-written by Anita Loos and Jane Murfin, The Women delivers 135 of them, each w
       <guid isPermaLink="false">019fc8a7-c694-982e-f68b-8d69273eeb1d</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/k2orTmq38okVcuWFTd1xr/41667704a7eaa6d31e91b96d1228e2ed/Sep2_WOMEN_BranchSelects2.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Sep 2026 19:30:00 -0700</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Monkey Business in 4K — Sep 2</title>
+      <link>https://www.academymuseum.org/en/programs/detail/monkey-business-019fc88b-243a-ad10-b3bf-fcbe2f99ee0d</link>
+      <description>Wednesday, September 2, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 37m
+
+1952 | 97 min | USA | Black-and-White | English | Not Rated | 4K DCP 
+DIRECTED BY: Howard Hawks 
+PRODUCED BY: Sol C. Siegel 
+WRITTEN BY: Ben Hecht, Charles Lederer, I. A. L. Diamond 
+WITH: Cary Grant, Ginger Rogers, Charles Coburn, Marilyn Monroe
+
+Type: Screenings
+
+Dr. Barnaby Fulton (Cary Grant) is a scatterbrained chemist working to create an elixir of youth. When one of his chimpanzees, Esther, breaks loose, she mixes chemicals in Barnaby’s lab, dumping the concoction into the office’s water cooler. The formula generates the rejuvenation effect Barnaby has been seeking — along with more chaotic side effects in some cases. Monkey Business allowed Monroe, who co-stars as Lois Laurel, to showcase her brilliant timing, further solidifying her reputation as a comedic actress.</description>
+      <guid isPermaLink="false">019fc88b-243a-ad10-b3bf-fcbe2f99ee0d</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/faXL3KVkGWBH5t4gkfOJc/2faeee9792c367494f55b21ec8031067/Sep2_MONKEY_BUSINESS_Marilyn1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Monkey Business in 4K — Sep 3</title>
@@ -150,7 +150,7 @@ Baz Luhrmann’s take on Shakespeare’s tragedy is perhaps one of the best-love
       <pubDate>Fri, 04 Sep 2026 19:30:00 -0700</pubDate>
     </item>
     <item>
-      <title>Snow White and the Seven Dwarfs — Sep 5</title>
+      <title>Snow White and the Seven Dwarfs in 4K — Sep 5</title>
       <link>https://www.academymuseum.org/en/programs/detail/snow-white-and-the-seven-dwarfs-019fc8af-40aa-8422-5027-ead44125da7f</link>
       <description>Saturday, September 5, 2026 at 11 am
 
@@ -158,9 +158,9 @@ Location: Academy Museum of Motion Pictures
 
 Runtime: 1h 23m
 
-1937 | 83 min. | USA | Color | English | Rated G | DCP 
+1937 | 83 min. | USA | Color | English | Rated G | 4K DCP 
 DIRECTED BY: David Hand, Perce Pearce, William Cottrell, Larry Morey, Wilfred Jackson, Ben Sharpsteen 
-PRODUCED BY: Walt Disney  
+PRODUCED BY: Walt Disney
 WRITTEN BY: Ted Sears, Richard Creedon, Otto Englander, Dick Rickard, Earl Hurd, Merrill De Maris, Dorothy Ann Blank, Webb Smith 
 WITH: Adriana Caselotti, Harry Stockwell, Lucille La Verne, Moroni Olsen
 
@@ -432,9 +432,9 @@ Sister Clodagh (Deborah Kerr) enlists others from her nunnery to found a school 
       <pubDate>Sun, 13 Sep 2026 14:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>Making Marie Antoinette Book Signing with Sofia Coppola — Sep 13</title>
+      <title>Making Marie Antoinette Book Signing with Sofia Coppola and Andrew Durham — Sep 13</title>
       <link>https://www.academymuseum.org/en/programs/detail/making-marie-antoinette-book-signing-with-sofia-coppola-019fdd99-9e6f-bd6d-2361-838c573abcca</link>
-      <description>Mark the release of Making Marie Antoinette with Academy Award-winning writer and director Sofia Coppola at the Academy Museum.
+      <description>Mark the release of Making Marie Antoinette with Academy Award-winning writer and director Sofia Coppola and photographer Andrew Durham at the Academy Museum.
 
 Sunday, September 13, 2026 at 4 pm
 
@@ -442,9 +442,9 @@ Location: Academy Museum of Motion Pictures
 
 Type: Book Signings
 
-Mark the release of Making Marie Antoinette with Academy Award-winning writer and director Sofia Coppola at the Academy Museum.
+Mark the release of Making Marie Antoinette with Academy Award-winning writer and director Sofia Coppola and photographer Andrew Durham at the Academy Museum.
 When Coppola set out to make her ambitious third feature film, she was given unprecedented access to the Palace of Versailles, where she created a world whose influence continues to reverberate nearly 20 years later. There to document it all was Coppola's longtime friend and collaborator Andrew Durham, who photographed daily life on and off the set from production through the film's premiere at Cannes. Making Marie Antoinette brings together an unprecedented collection of Durham's photos, alongside an oral history of the film's making by Keaton Bell and a new conversation between Durham and Coppola, offering a rare look into the making and mythology of one of Coppola's most celebrated films.
-Each ticket includes one copy of Making Marie Antoinette, which Sofia Coppola signs during the event.
+Each ticket includes one copy of Making Marie Antoinette, which Coppola and Durham will sign during the event.
 Guests may also purchase a separate ticket to a special presentation of Marie Antoinette (2006), beginning with a conversation with Coppola, followed by a screening of this sumptuous feature.</description>
       <guid isPermaLink="false">019fdd99-9e6f-bd6d-2361-838c573abcca</guid>
       <category>Book Signings</category>
@@ -452,11 +452,9 @@ Guests may also purchase a separate ticket to a special presentation of Marie An
       <pubDate>Sun, 13 Sep 2026 16:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>20th Anniversary of Marie Antoinette with Sofia Coppola — Sep 13</title>
+      <title>20th Anniversary of Marie Antoinette with Sofia Coppola and Kirsten Dunst — Sep 13</title>
       <link>https://www.academymuseum.org/en/programs/detail/20th-anniversary-of-marie-antoinette-with-sofia-coppola-and-019fc8ba-df50-d2c5-e7fd-83e0160ed0fa</link>
-      <description>In person: director Sofia Coppola and actor Kirsten Dunst
-
-Sunday, September 13, 2026 at 6:30 pm
+      <description>Sunday, September 13, 2026 at 6:30 pm
 
 Location: Academy Museum of Motion Pictures
 
@@ -470,7 +468,7 @@ WITH: Kirsten Dunst, Jason Schwartzman, Steve Coogan, Judy Davis
 Type: Screenings
 
 The third feature film from Oscar-winning writer-director Sofia Coppola (Lost in Translation, 2003) transposes her fascination with the inner lives of young women to 18th century Versailles with this semi-biographical story of Marie Antoinette, Queen of France from 1774 to 1793. Inspired by her favorite period dramas and biopics, including Ken Russell’s Lisztomania (1975) and Milos Forman’s Amadeus (1984), Coppola gained extraordinary access to shoot at the Palace at Versailles, and her attention to production design and costuming details cushion her characters in lavish, insulated surroundings—and garnered the film’s costume designer Milena Canonero her third Oscar win. Punctuated with anachronistic postpunk and new wave music, Coppola’s refreshing take on a centuries-old history brings the woes of the past into sharp comparison with present-day concerns of girls, teens, and young women for a deeply felt and beautifully rendered cinematic achievement. 
-In a separately ticketed event before the screening, Sofia Coppola signs copies of her new book, Making Marie Antoinette, at the Academy Museum Store.  
+In a separately ticketed event before the screening, Sofia Coppola and photographer Andrew Durham sign copies of their new book, Making Marie Antoinette, at the Academy Museum Store.  
 Programmed and note by K.J. Relth-Miller.</description>
       <guid isPermaLink="false">019fc8ba-df50-d2c5-e7fd-83e0160ed0fa</guid>
       <category>Screenings</category>
@@ -876,7 +874,9 @@ A popular comedy team of the 1940s and 1950s, Bud Abbott and Lou Costello, goes 
     <item>
       <title>Halloween with John Carpenter — Sep 26</title>
       <link>https://www.academymuseum.org/en/programs/detail/halloween-with-john-carpenter-019fc8bc-e468-3bc5-4967-67324b2f8ec4</link>
-      <description>Saturday, September 26, 2026 at 7:30 pm
+      <description>In person: director John Carpenter. Moderated by makeup artist Howard Berger
+
+Saturday, September 26, 2026 at 7:30 pm
 
 Location: Academy Museum of Motion Pictures
 
@@ -1319,7 +1319,8 @@ The Donahue clan, led by husband and wife Molly and Terry (Ethel Merman and Dan 
     <item>
       <title>Stalker — Oct 7</title>
       <link>https://www.academymuseum.org/en/programs/detail/stalker-019fce29-bd11-31bd-9f3e-486fb3077abb</link>
-      <description>Selected by the Production Design Branch
+      <description>In person: production designer Jeannine Oppewall 
+Selected by the Production Design Branch
 
 Wednesday, October 7, 2026 at 7:30 pm
 
@@ -1327,7 +1328,7 @@ Location: Academy Museum of Motion Pictures
 
 Runtime: 2h 41m
 
-1979 | 161 min | U.S.S.R. | Color | Russian | DCP 
+1979 | 161 min | USSR | Color | Russian | DCP 
 DIRECTED BY: Andrei Tarkovsky 
 WRITTEN BY: Arkady Strugatsky, Boris Strugatsky, Andrei Tarkovsky 
 WITH: Alisa Freindlich, Alekander Kaidanovsky, Anatoly Solonitsyn, Nikolai Grinko
@@ -1578,7 +1579,8 @@ One of Monroe’s most successful roles was as The Girl in director Billy Wilder
     <item>
       <title>An Evening of Short Films by Women Directors — Oct 21</title>
       <link>https://www.academymuseum.org/en/programs/detail/an-evening-of-short-films-by-women-directors-019fce2d-087e-1067-868a-6806c769079d</link>
-      <description>Selected by the Short Films Branch 
+      <description>In person: marketing producer/strategic publicist Kathleen McInnis and Academy Governors Chris Tashima and Bob Rogers 
+Selected by the Short Films Branch 
 Free for museum members
 
 Wednesday, October 21, 2026 at 7:30 pm
@@ -1901,7 +1903,8 @@ Programmed and note by K.J. Relth-Miller.</description>
     <item>
       <title>Road to Perdition in 35mm — Oct 28</title>
       <link>https://www.academymuseum.org/en/programs/detail/road-to-perdition-019fce2f-801e-c756-e852-6f258f23222f</link>
-      <description>Selected by the Sound Branch
+      <description>In person: supervising sound editor Scott Hecker and re-recording mixer Scott Millan 
+Selected by the Sound Branch
 
 Wednesday, October 28, 2026 at 7:30 pm
 
@@ -1918,7 +1921,8 @@ Print courtesy of the Academy Film Archive.
 
 Type: Screenings
 
-Director Sam Mendes’s next film after his 1999 Best Picture winner American Beauty is a somber and gorgeously crafted gangster drama, based on a graphic novel series by Max Allan Collins and Richard Piers Rayner. Tom Hanks plays Michael Sullivan, a loving father and stoic enforcer for an Irish-American crime family (led by supporting actor nominee Paul Newman), who must flee with his young son. Conrad L. Hall won a posthumous Oscar for his dark, moody cinematography, and the film was also nominated for its art direction (Dennis Gassner, Nancy Haigh), Thomas Newman’s moving score, and the atmospheric contributions of supervising sound editor Scott A. Hecker and sound mixers Scott Millan, Bob Beemer and John Patrick Pritchett.</description>
+Director Sam Mendes’s next film after his 1999 Best Picture winner American Beauty is a somber and gorgeously crafted gangster drama, based on a graphic novel series by Max Allan Collins and Richard Piers Rayner. Tom Hanks plays Michael Sullivan, a loving father and stoic enforcer for an Irish-American crime family (led by supporting actor nominee Paul Newman), who must flee with his young son. 
+Conrad L. Hall won a posthumous Oscar for his dark, moody cinematography, and the film was also nominated for its art direction (Dennis Gassner, Nancy Haigh), Thomas Newman’s moving score, and the atmospheric contributions of supervising sound editor Scott A. Hecker and sound mixers Scott Millan, Bob Beemer and John Patrick Pritchett.</description>
       <guid isPermaLink="false">019fce2f-801e-c756-e852-6f258f23222f</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4Dm2pQHaloG8ZLqE06bEj5/20aceaf8d32c8e61e37736be454c821f/Oct28_ROAD_TO_PERDITION_BranchSelects1MHL.jpg" length="0" type="image/jpeg"/>
@@ -2475,7 +2479,7 @@ Location: Academy Museum of Motion Pictures
 
 Runtime: 2h 43m
 
-2010 | 163 min | South Korea | Korean, Japanese | Not Rated  
+2010 | 163 min | South Korea | Scope | Korean/Japanese | Not Rated  
 DIRECTED BY: Kang Woo-suk 
 WRITTEN BY: Jung Ji-woo 
 PRODUCED BY: Jung Sun-young 
