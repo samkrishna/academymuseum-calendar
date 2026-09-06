@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:41:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 11:59:24 +0000</lastBuildDate>
     <item>
       <title>Romeo + Juliet in 35mm — Sep 4</title>
       <link>https://www.academymuseum.org/en/programs/detail/romeo-juliet-019fc89c-0b7d-e148-2d01-91e901f619ab</link>
@@ -58,7 +58,7 @@ Dr. Barnaby Fulton (Cary Grant) is a scatterbrained chemist working to create an
     <item>
       <title>Snow White and the Seven Dwarfs in 4K — Sep 5</title>
       <link>https://www.academymuseum.org/en/programs/detail/snow-white-and-the-seven-dwarfs-019fc8af-40aa-8422-5027-ead44125da7f</link>
-      <description>Saturday, September 5, 2026 at 11 am
+      <description>Saturday, September 5, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -76,12 +76,12 @@ Snow White, orphaned as a child, is forced to work under the reign of her evil s
       <guid isPermaLink="false">019fc8af-40aa-8422-5027-ead44125da7f</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/yWgM3dPBAtQPt4f7hCqQU/fa6143983eb7925b4e0616c5dfaae450/Sep5_SNOW_WHITE_AND_THE_SEVEN_DWARFS_FamilyMatinee3.png" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 05 Sep 2026 11:00:00 -0700</pubDate>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Fanny &amp; Alexander in 35mm — Sep 5</title>
       <link>https://www.academymuseum.org/en/programs/detail/fanny-alexander-019fc89d-9071-0842-2700-77f8e4ef116e</link>
-      <description>Saturday, September 5, 2026 at 2:30 pm
+      <description>Saturday, September 5, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -99,7 +99,7 @@ Swedish auteur Ingmar Bergman’s most sentimental and autobiographical work is 
       <guid isPermaLink="false">019fc89d-9071-0842-2700-77f8e4ef116e</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/BwMYuB1oDNz5BZIJHG4rg/607b08903b69a12001cbeb50fef1aaf5/Sep5_FANNY_AND_ALEXANDER_Glow1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 05 Sep 2026 14:30:00 -0700</pubDate>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Top Hat in 35mm — Sep 6</title>
