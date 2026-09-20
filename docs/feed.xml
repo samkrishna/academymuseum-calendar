@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:54:11 +0000</lastBuildDate>
     <item>
       <title>The King of Comedy with Dave Karger and Jason Bateman — Sep 18</title>
       <link>https://www.academymuseum.org/en/programs/detail/king-of-comedy-019fc8bb-8c3d-b21c-0477-0aafd9055dc2</link>
@@ -126,7 +126,7 @@ Sophia Serrano, Academy Museum of Motion Pictures Associate Curator, moderates.<
     <item>
       <title>Something Wicked This Way Comes in 35mm — Sep 19</title>
       <link>https://www.academymuseum.org/en/programs/detail/something-wicked-this-way-comes-019fc8b3-917c-69c6-df9f-edd6613947c8</link>
-      <description>Saturday, September 19, 2026 at 11 am
+      <description>Saturday, September 19, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -145,32 +145,12 @@ In a small, boring town, best friends Jim and Will eagerly await the excitement 
       <guid isPermaLink="false">019fc8b3-917c-69c6-df9f-edd6613947c8</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/2SeH2oLm32TwXW9f0ljVJX/6930965f674387a9ffd736a79d53db07/Sep19_SOMETHING_WICKED_THIS_WAY_COMES_FamilyMatinees1.png" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 11:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Inside Screenwriting: LA Plays Itself with Larry Karaszewski — Sep 19</title>
-      <link>https://www.academymuseum.org/en/programs/detail/inside-screenwriting-la-plays-itself-with-larry-karazsewski-019fedd0-08c5-7a04-b5a5-6d6c290ab634</link>
-      <description>Academy Governor Larry Karaszewski talks about his life as a Hollywood scribe in our Screenwriting: Takes on LA Noir gallery.
-
-Saturday, September 19, 2026 at 2 pm
-
-Location: Level 2
-
-Cost: Free with general admission
-
-Type: Conversations
-
-Academy Governor Larry Karaszewski talks about his life as a Hollywood scribe in our Screenwriting: Takes on LA Noir gallery. He also delves into the many ways film scripts have tried to define Los Angeles, using examples from his own work and the projects in the gallery. 
-Karaszewski stays for a brief Q&amp;A after the talk.</description>
-      <guid isPermaLink="false">019fedd0-08c5-7a04-b5a5-6d6c290ab634</guid>
-      <category>Conversations</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/7xIJaqAsLQzodjRAKw4ez2/a173b6030bba443dd3cd64197ae30733/Inside_Screenwriting.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 14:00:00 -0700</pubDate>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>The Others in 4K — Sep 19</title>
       <link>https://www.academymuseum.org/en/programs/detail/the-others-019fc8a1-c131-9950-e0a1-628733d7c571</link>
-      <description>Saturday, September 19, 2026 at 7:30 pm
+      <description>Saturday, September 19, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -188,7 +168,27 @@ Grace Stewart (Nicole Kidman) keeps the curtains drawn at all hours of the day i
       <guid isPermaLink="false">019fc8a1-c131-9950-e0a1-628733d7c571</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/UB9yt5oVKlkWvSNIJpZlg/cbe1b14f0c5039a1158232b8cecc0917/Sep16_OTHERS_Glow1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 19:30:00 -0700</pubDate>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Inside Screenwriting: LA Plays Itself with Larry Karaszewski — Sep 19</title>
+      <link>https://www.academymuseum.org/en/programs/detail/inside-screenwriting-la-plays-itself-with-larry-karazsewski-019fedd0-08c5-7a04-b5a5-6d6c290ab634</link>
+      <description>Academy Governor Larry Karaszewski talks about his life as a Hollywood scribe in our Screenwriting: Takes on LA Noir gallery.
+
+Saturday, September 19, 2026 at 2pm
+
+Location: Level 2
+
+Cost: Free with general admission
+
+Type: Conversations
+
+Academy Governor Larry Karaszewski talks about his life as a Hollywood scribe in our Screenwriting: Takes on LA Noir gallery. He also delves into the many ways film scripts have tried to define Los Angeles, using examples from his own work and the projects in the gallery. 
+Karaszewski stays for a brief Q&amp;A after the talk.</description>
+      <guid isPermaLink="false">019fedd0-08c5-7a04-b5a5-6d6c290ab634</guid>
+      <category>Conversations</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/7xIJaqAsLQzodjRAKw4ez2/a173b6030bba443dd3cd64197ae30733/Inside_Screenwriting.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 14:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Gigi in 35mm — Sep 20</title>
