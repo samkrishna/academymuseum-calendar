@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:24:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:17:59 +0000</lastBuildDate>
     <item>
       <title>How to Marry a Millionaire — Sep 23</title>
       <link>https://www.academymuseum.org/en/programs/detail/how-to-marry-a-millionaire-019fc894-e3d2-611a-9e68-2a9d483ca68a</link>
-      <description>Wednesday, September 23, 2026 at 2:30 pm
+      <description>Wednesday, September 23, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -29,7 +29,7 @@ Schatze, Pola, and Loco (Lauren Bacall, Marilyn Monroe, Betty Grable) are Manhat
       <guid isPermaLink="false">019fc894-e3d2-611a-9e68-2a9d483ca68a</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/2aSUItRCN9bqI2PXlAd3Sg/6b18f4dec1dc05c57b0bc7f54f765904/Sep21_HOW_TO_MARRY_A_MILLIONAIRE_Marilyn5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Sep 2026 14:30:00 -0700</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Far from Heaven in 35mm — Sep 23</title>
@@ -37,7 +37,7 @@ Schatze, Pola, and Loco (Lauren Bacall, Marilyn Monroe, Betty Grable) are Manhat
       <description>In person: producer Brad Simpson and Academy Governor Effie T. Brown 
 Selected by the Producers Branch
 
-Wednesday, September 23, 2026 at 7:30 pm
+Wednesday, September 23, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -55,7 +55,7 @@ A suburban housewife discovers her husband has a secret life, only to find herse
       <guid isPermaLink="false">019fc8ab-593d-505e-89af-09d3a09dd244</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/7buIKbl5GSfPJpzoibJiIu/c0c0fc23fa8aa8634acf765351b9090b/Sep23_FAR_FROM_HEAVEN_BranchSelects3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Sep 2026 19:30:00 -0700</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Gallery Spotlight: Dissident Cinema and Bong Joon Ho — Sep 25</title>
@@ -155,7 +155,7 @@ On Halloween night, 1963, in the small Illinois town of Haddonfield, 6-year-old 
     <item>
       <title>Special Effects in Horror with Tom Bellissimo — Sep 27</title>
       <link>https://www.academymuseum.org/en/programs/detail/special-effects-in-horror-with-tom-bellissimo-019ff30c-48e0-4b61-5a86-0f2d2c9c23c8</link>
-      <description>Frightfully talented special effects supervisor Tom Bellissimo takes museum visitors behind the scenes of some of his best-known work, including designs for Saw (2004), From Dusk till Dawn (1996), and The Mask (1994).
+      <description>Frightfully talented special effects supervisor Tom Bellissimo takes museum visitors behind the scenes of some of his best-known work, including designs for Saw (2004), From Dusk Till Dawn (1996), and The Mask (1994).
 
 Sunday, September 27, 2026 at 1 pm
 
@@ -190,7 +190,7 @@ WITH: Geraldine Chaplin, Julie Christie, Tom Courtenay, Omar Sharif
 
 Type: Screenings
 
-John Box and his Oscar-winning production design team (art director Terence Marsh and set decorator Dario Simoni) built early 20th century Moscow on elaborate sets in Spain as well as created Zhivago’s unforgettable ice palace for this David Lean-directed romantic epic. The resulting adaptation of the novel by Nobel Prize-winner Boris Pasternak became a box office smash. Omar Sharif and Julie Christie lead the all-star cast, with Maurice Jarre’s score (featuring “Lara’s Theme”) receiving one of the film’s five Oscars, which also included Color Cinematography (Freddie Young), Color Costume Design (Phyllis Dalton) and adapted screenplay (Robert Bolt).</description>
+John Box and his Oscar-winning production design team (art director Terence Marsh and set decorator Dario Simoni) built early 20th century Moscow on elaborate sets in Spain as well as created Zhivago’s unforgettable ice palace for this David Lean-directed romantic epic. The resulting adaptation of the novel by Nobel Prize-winner Boris Pasternak became a box office smash. Omar Sharif and Julie Christie lead the all-star cast, with Maurice Jarre’s score (featuring “Lara’s Theme”) receiving one of the film’s five Oscars, which also included Color Cinematography (Freddie Young), Color Costume Design (Phyllis Dalton), and Adapted Screenplay (Robert Bolt).</description>
       <guid isPermaLink="false">019fc8b6-eb8f-e390-20b3-65c983b6d891</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/plGdm3GogEzDdbORU7g2I/1250e3ca593dce1fdb290f11ba19d32c/Sep27_DOCTOR_ZHIVAGO_OscarSundays2.jpg" length="0" type="image/jpeg"/>
@@ -1245,6 +1245,7 @@ Type: Conversations
 
 Assistant Curator Nicholas Barlow and Curatorial Assistant Alexander James Salichs discuss the making of The Horror Show with Bradford Nordeen, THI Moving Image Lab Curatorial Fellow at the Academy of Motion Pictures. 
 Learn what it took to assemble a massive exhibition comprising nearly 350 original objects and more than 200 years of storytelling, all grouped into five chilling themes, and culminating in a Blood Room that is literally unmissable. 
+Senior Exhibitions Curator Jessica Niebel moderates.
 About Gallery SpotlightsGallery Spotlights feature special guests who bring fresh insights to our exhibitions. Join us for revealing monthly conversations connecting the objects in our galleries to the art and history of moviemaking.</description>
       <guid isPermaLink="false">01a0b061-93a1-0e15-a2dd-07bbffe0cb05</guid>
       <category>Conversations</category>
@@ -1317,18 +1318,15 @@ Schedule
 7–9:30pm | Tarot, palm reading, and astrology readings
 8pm | Inside Horror After Dark: Thrilling Makeup Effects with Ken Diaz 
 10pm | Screening: The Craft (1996) | David Geffen Theater
-This event has early access for Academy Museum members.
 
 Type: Screenings
 
 Step into the shadows and join the Academy Museum on Halloween for special after-hours party.
 Get into the Halloween spirit with a goth-themed night of brews and bites, tarot reading, spellbinding music, an anniversary screening of a beloved cult classic, a thrilling special guest, and more.  
 Inspired looks are highly encouraged. We want to see your hauntingly glamorous costumes. Adults 21 and over.  
-This event has early access for Academy Museum members. 
-Not a member? Join now for early access to this program, plus year-round discounts and free general admission.  
 
 Schedule7–10pm | After-hours access to The Horror Show   7–9:30pm | DJ, bar, and bites  7–9:30pm | Tarot, palm, and astrology readings  Embrace your past, present, and future in a fun tarot card, palm, or astrology reading.   
-8pm | Inside Horror After Dark: Thrilling Makeup Effects with Ken Diaz Venture behind the scenes of your favorite horror films to learn about one of the genre’s most important disciplines. 
+8–8:30pm | Inside Horror After Dark: Thrilling Makeup Effects with Ken Diaz Venture behind the scenes of your favorite horror films to learn about one of the genre’s most important disciplines. 
 Academy member and special effects makeup artist Ken Diaz, whose credits include The Thing (1982), My Bloody Valentine (2009) and Sinners (2025), gives a 30-minute talk deep within the harrowing halls of our exhibition The Horror Show, unveiling elements of bloody good makeup effects. 
 Stay for a brief Q&amp;A with Diaz after the talk. 
 10pm | Movie | The Craft (1996) | David Geffen Theater</description>
