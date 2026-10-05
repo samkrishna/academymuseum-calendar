@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 13:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:51:37 +0000</lastBuildDate>
     <item>
       <title>Escape From New York in 4K and Escape from LA presented by John Carpenter and Kurt Russell — Oct 3</title>
       <link>https://www.academymuseum.org/en/programs/detail/escape-from-new-york-with-escape-from-la-presented-by-john-carpenter-kurt-russell-019fcda3-39cc-7bc2-d01c-a3e6ec18e6e9</link>
@@ -100,7 +100,7 @@ Stay for a brief Q&amp;A with Pascale after the program.</description>
     <item>
       <title>Cabaret — Oct 4</title>
       <link>https://www.academymuseum.org/en/programs/detail/cabaret-019fce45-9a13-42b2-5717-e48163a64c67</link>
-      <description>Sunday, October 4, 2026 at 2 pm
+      <description>Sunday, October 4, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -118,12 +118,12 @@ The second feature from director-choreographer Bob Fosse is one of his greatest 
       <guid isPermaLink="false">019fce45-9a13-42b2-5717-e48163a64c67</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/vslxTfCznu4nGtcLOFUqB/475df85161e9b3fd9b15a4003c17d922/Oct4_CABARET_OscarSundays1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 04 Oct 2026 14:00:00 -0700</pubDate>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>The Thing in 4K — Oct 4</title>
       <link>https://www.academymuseum.org/en/programs/detail/the-thing-019fcda7-1449-ab44-0006-af9e9afec03e</link>
-      <description>Sunday, October 4, 2026 at 6:30 pm
+      <description>Sunday, October 4, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -141,7 +141,7 @@ In the first installment of what Carpenter would later call his Apocalypse Trilo
       <guid isPermaLink="false">019fcda7-1449-ab44-0006-af9e9afec03e</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/0VdRav0e7CyzJS2VTSnmw/7cabde42a8c1242ffd63d6f34851764c/Oct4_THING_Carpenter3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 04 Oct 2026 18:30:00 -0700</pubDate>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>There’s No Business Like Show Business — Oct 5</title>
