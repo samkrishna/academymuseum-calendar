@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 16:51:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:47:06 +0000</lastBuildDate>
     <item>
       <title>Escape From New York in 4K and Escape from LA presented by John Carpenter and Kurt Russell — Oct 3</title>
       <link>https://www.academymuseum.org/en/programs/detail/escape-from-new-york-with-escape-from-la-presented-by-john-carpenter-kurt-russell-019fcda3-39cc-7bc2-d01c-a3e6ec18e6e9</link>
@@ -144,35 +144,12 @@ In the first installment of what Carpenter would later call his Apocalypse Trilo
       <pubDate>Sun, 04 Oct 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>There’s No Business Like Show Business — Oct 5</title>
-      <link>https://www.academymuseum.org/en/programs/detail/theres-no-business-like-show-business-019fce20-c52d-80ff-535a-88bc053ac702</link>
-      <description>Monday, October 5, 2026 at 2:30 pm
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 57m
-
-1954 | 117 min | USA | Color | Scope | English | Not Rated | DCP 
-DIRECTED BY: Walter Lang 
-PRODUCED BY: Sol C. Siegel 
-WRITTEN BY: Phoebe Ephron, Henry Ephron 
-WITH: Ethel Merman, Donald O'Connor, Marilyn Monroe, Dan Dailey
-
-Type: Screenings
-
-The Donahue clan, led by husband and wife Molly and Terry (Ethel Merman and Dan Dailey), navigate the ups and downs of show biz, from their beginnings in Vaudeville to the Great Depression, in this musical comedy with songs by Irving Berlin. The family’s close bond is further tested with the arrival of the talented and driven Vicky Parker (Marilyn Monroe). Costume designer Travilla played an integral role in shaping Marilyn Monroe’s public image on- and off-screen. Together they famously produced looks that evaded censorship while still courting controversy. His designs for her showgirl characters are of particular note.</description>
-      <guid isPermaLink="false">019fce20-c52d-80ff-535a-88bc053ac702</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/25sfZRqjnzYAl6TYgwyfxH/c75d47ce5844103d08e4b607ae14837e/Oct5_THERES_NO_BUSINESS_LIKE_SHOW_BUSINESS_Marilyn4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 14:30:00 -0700</pubDate>
-    </item>
-    <item>
       <title>Resurrection in 4K with Ellen Burstyn — Oct 5</title>
       <link>https://www.academymuseum.org/en/programs/detail/resurrection-with-ellen-burstyn-019fce4f-6735-e9e2-7f81-f98161be92de</link>
       <description>4K restoration world premiere 
 In person: Ellen Burstyn
 
-Monday, October 5, 2026 at 7:30 pm
+Monday, October 5, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -190,7 +167,30 @@ An ordinary woman survives a near-death experience and discovers newfound powers
       <guid isPermaLink="false">019fce4f-6735-e9e2-7f81-f98161be92de</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/5VqiM6AOVVyPsT6hmTDFOd/da77b8f421f6d58807df54a5bdb2aed9/SELECT_Sep17_RESURRECTION_Spotlight1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 19:30:00 -0700</pubDate>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>There’s No Business Like Show Business — Oct 5</title>
+      <link>https://www.academymuseum.org/en/programs/detail/theres-no-business-like-show-business-019fce20-c52d-80ff-535a-88bc053ac702</link>
+      <description>Monday, October 5, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 57m
+
+1954 | 117 min | USA | Color | Scope | English | Not Rated | DCP 
+DIRECTED BY: Walter Lang 
+PRODUCED BY: Sol C. Siegel 
+WRITTEN BY: Phoebe Ephron, Henry Ephron 
+WITH: Ethel Merman, Donald O'Connor, Marilyn Monroe, Dan Dailey
+
+Type: Screenings
+
+The Donahue clan, led by husband and wife Molly and Terry (Ethel Merman and Dan Dailey), navigate the ups and downs of show biz, from their beginnings in Vaudeville to the Great Depression, in this musical comedy with songs by Irving Berlin. The family’s close bond is further tested with the arrival of the talented and driven Vicky Parker (Marilyn Monroe). Costume designer Travilla played an integral role in shaping Marilyn Monroe’s public image on- and off-screen. Together they famously produced looks that evaded censorship while still courting controversy. His designs for her showgirl characters are of particular note.</description>
+      <guid isPermaLink="false">019fce20-c52d-80ff-535a-88bc053ac702</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/25sfZRqjnzYAl6TYgwyfxH/c75d47ce5844103d08e4b607ae14837e/Oct5_THERES_NO_BUSINESS_LIKE_SHOW_BUSINESS_Marilyn4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>There’s No Business Like Show Business — Oct 7</title>
