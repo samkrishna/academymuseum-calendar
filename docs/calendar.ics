@@ -25,27 +25,27 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Big Trouble in Little China
-DTSTART;TZID=America/Los_Angeles:20261008T193000
-DTEND;TZID=America/Los_Angeles:20261008T223000
-DTSTAMP:20261008T151610Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20261009T150104Z
 UID:019fcdac-482d-7d90-7fe4-d84bcfe95fe6@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Dr. Gay Yuen\, board chair of the Friends of the Ch
- inese American Museum\n\nThursday\, October 8\, 2026 at 7:30 pm\n\nLocatio
- n: Academy Museum of Motion Pictures\n\nRuntime: 1h 40m\n\n1986 | 100 min 
- | USA | Color | Scope | English | Rated PG-13 | DCP \nDIRECTED BY: John C
- arpenter \nPRODUCED BY: Larry J. Franco \nWRITTEN BY: Gary Goldman\, Dav
- id Z. Weinstein\, W.D. Richter \nWITH: Kurt Russell\, Kim Cattrall\, Denn
- is Dun\, James Hong\n\nType: Screenings\n\nJohn Carpenter’s San Francisc
- o-set\, supernatural spin on Hollywood’s Chinatown tropes populates the 
- storied neighborhood with mystical beings. Kurt Russell is antihero Jack B
- urton\, an outsider who’s clueless without his Chinese American friend W
- ang Chi (Dennis Dun). Teaming up to save Wang’s fiancé from the vicious
-  Lords of Death\, the pair embarks on a curiously supernatural adventure t
- hrough the street of this historic Bay Area district. Originally written a
- s a period Western\, this cult favorite is an off-kilter\, distinctly Carp
- enterian take on traditional action films\, buoyed with the filmmaker’s 
- signature wry comedy. —Adapted from a note written by Arthur Dong.
+ inese American Museum\n\nThursday\, October 8\, 2026\n\nLocation: Academy 
+ Museum of Motion Pictures\n\nRuntime: 1h 40m\n\n1986 | 100 min | USA | Col
+ or | Scope | English | Rated PG-13 | DCP \nDIRECTED BY: John Carpenter 
+ \nPRODUCED BY: Larry J. Franco \nWRITTEN BY: Gary Goldman\, David Z. Wein
+ stein\, W.D. Richter \nWITH: Kurt Russell\, Kim Cattrall\, Dennis Dun\, J
+ ames Hong\n\nType: Screenings\n\nJohn Carpenter’s San Francisco-set\, su
+ pernatural spin on Hollywood’s Chinatown tropes populates the storied ne
+ ighborhood with mystical beings. Kurt Russell is antihero Jack Burton\, an
+  outsider who’s clueless without his Chinese American friend Wang Chi (D
+ ennis Dun). Teaming up to save Wang’s fiancé from the vicious Lords of 
+ Death\, the pair embarks on a curiously supernatural adventure through the
+  street of this historic Bay Area district. Originally written as a period
+  Western\, this cult favorite is an off-kilter\, distinctly Carpenterian t
+ ake on traditional action films\, buoyed with the filmmaker’s signature 
+ wry comedy. —Adapted from a note written by Arthur Dong.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/big-trouble-in-little
  -china-019fcdac-482d-7d90-7fe4-d84bcfe95fe6
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:There’s No Business Like Show Business
 DTSTART;TZID=America/Los_Angeles:20261009T143000
 DTEND;TZID=America/Los_Angeles:20261009T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce21-c0ea-edc0-5900-434e9905ca52@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, October 9\, 2026 at 2:30 pm\n\nLocation: Academy Muse
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:The Fog in 4K
 DTSTART;TZID=America/Los_Angeles:20261009T193000
 DTEND;TZID=America/Los_Angeles:20261009T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcdae-e077-355c-8056-cd70e34aefc8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, October 9\, 2026 at 7:30 pm\n\nLocation: Academy Muse
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:The Little Vampire in 35mm
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261010T121500
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce43-b9a7-6acf-46c8-25fdba2cb0c4@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, October 10\, 2026 at 11 am\n\nLocation: Academy Mus
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Get on the Bus 30th Anniversary Screening in 4K
 DTSTART;TZID=America/Los_Angeles:20261010T150000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce7d-e21b-f9de-ccf8-cfa1d672c55b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Reuben Cannon\, Gabriel Casseus\, Bill Borden\, Reg
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Aliens in 70mm
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce46-5898-ade3-4872-08b52c0324a2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, October 11\, 2026 at 2 pm\n\nLocation: Academy Museum
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Prince of Darkness in 35mm
 DTSTART;TZID=America/Los_Angeles:20261011T193000
 DTEND;TZID=America/Los_Angeles:20261011T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcdb0-0fc6-c6cb-200b-a4956125c273@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, October 11\, 2026 at 7:30 pm\n\nLocation: Academy Mus
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:The Seven Year Itch
 DTSTART;TZID=America/Los_Angeles:20261019T143000
 DTEND;TZID=America/Los_Angeles:20261019T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce23-41b9-6b5f-6f14-ff1a281254c8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, October 19\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:In the Mouth of Madness in 4K
 DTSTART;TZID=America/Los_Angeles:20261019T193000
 DTEND;TZID=America/Los_Angeles:20261019T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcdb6-5fab-378b-4f89-99a1fa5dba6e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actor Julie Carmen\n\nMonday\, October 19\, 2026 at
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:The Seven Year Itch
 DTSTART;TZID=America/Los_Angeles:20261021T143000
 DTEND;TZID=America/Los_Angeles:20261021T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce23-b6d4-30f1-f929-524f24ec6cf3@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, October 21\, 2026 at 2:30 pm\n\nLocation: Academy 
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening of Short Films by Women Directors
 DTSTART;TZID=America/Los_Angeles:20261021T193000
 DTEND;TZID=America/Los_Angeles:20261021T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce2d-087e-1067-868a-6806c769079d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: marketing producer/strategic publicist Kathleen Mc
@@ -340,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:Dark Star with Captain Voyeur
 DTSTART;TZID=America/Los_Angeles:20261022T193000
 DTEND;TZID=America/Los_Angeles:20261022T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcdcc-e90f-643a-99a9-df2b6043372d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Thursday\, October 22\, 2026 at 7:30 pm\n\nLocation: Academy M
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:The Seven Year Itch
 DTSTART;TZID=America/Los_Angeles:20261023T143000
 DTEND;TZID=America/Los_Angeles:20261023T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce24-34bf-21e7-5c70-d4850b9b0ae0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, October 23\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:The George Stevens Lecture on Directing presents Giant in 4K
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:01a0f465-b4b0-022e-5170-662007da0b5d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Caleb Deschanel\, George Stevens\, Jr.\n\nFriday\, 
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Vampires in 4K with Memoirs of an Invisible Man in 35mm
 DTSTART;TZID=America/Los_Angeles:20261023T193000
 DTEND;TZID=America/Los_Angeles:20261023T213000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcdd2-04c0-3ce5-734d-cf58b1fb1d61@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, October 23\, 2026 at 7:30 pm\n\nLocation: Academy Mus
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:Monster Mash
 DTSTART;TZID=America/Los_Angeles:20261024T110000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019f1fdb-7bb1-0d3a-96fc-ec6cc22ce4f2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Calling all creatures of the night: join the Academy Museum fo
@@ -462,44 +462,44 @@ DESCRIPTION:Calling all creatures of the night: join the Academy Museum fo
  effects makeup and hair demo | Grand Lobby  \n12:30–2:30pm | Vampire blo
  od SFX family workshop | Shirley Temple Education Studio | Lower Level 1\n
  1–5pm | Monster meet and greet | Grand Lobby  \n1:30\, 2:30\, and 3:30pm
-  | The Horror Tours | Level 4\n2:30pm | Movie | Blade (1998) | Ted Mann Th
- eater \n4–5pm | Killer Fitness performance and dance-along | Grand Lobby
-     \n7:30pm | Movie | Horror of Dracula (1958) | Ted Mann Theater\n\nType
- : Screenings\n\nCalling all creatures of the night: join the Academy Museu
- m for a fang-tastic day of special-effects makeup demonstrations\, thrilli
- ng tours\, monster appearances\, movies\, and activities—all exploring t
- he vampire\, the famous creature of the dark. Embrace this year’s theme 
- with Dracula\, vampire hunters\, and a relaxing monster resort.  \nFree wi
- th the purchase of a general admission ticket. Museum admission is free fo
- r youth 17 and under. \nDetails\n11am | Movie | Hotel Transylvania (2012) 
- | Ted Mann Theater | Lower Level 2\n11am–1:30pm | Special effects makeup
-  and hair demo | Grand Lobby  \nA scary-good time with transformations by 
- special effects makeup artists and Academy Award winners Joel Harlow and H
- oward Berger\, plus Patricia Dehaney\, Oscar winner and Academy Governor. 
- \nGeneral admission ticket not required. Program may end early.  \n12:30
- –2:30pm | Vampire blood special effects family workshop | Shirley Temple
-  Education Studio | Lower Level 1\nGet mixed up in the world of horror mak
- eup with a lesson on creating Hollywood-worthy vampire blood\, featuring t
- ools used by real artists. All ages are welcome.\n1–5pm | Monster meet a
- nd greet | Grand Lobby  \nMeet Universal Studios' classic movie monsters
- —Dracula\, the Bride of Frankenstein\, and Frankenstein's monster—for 
- a can't-miss photo opportunity. It’ll be a scream.  \nGeneral admission 
- ticket not required. Monsters meet for 30 minutes at a time.   \n1:30\, 2:
- 30\, and 3:30pm | The Horror Tours | Level 4\nOpen the door and peek insid
- e—if you dare—with a museum educator on a 30-minute guide tour of The 
- Horror Show exhibition. Get a behind-the-scenes look at the representation
-  of vampires and gothic horror in film\, and explore the production proces
- ses for many horror classics.\nTours are limited to 25 people and are firs
- t-come\, first-served. Please arrive at the meeting place on Level 4 up to
-  10 minutes before the start time to secure your spot. General admission t
- icket required.   \nThis exhibition explores themes that may not be suitab
- le for all ages and may disturb some visitors. Parental guidance is advise
- d. If you have questions about the content\, please speak with a gallery a
- ssociate. \n2:30pm | Movie | Blade (1998) | David Geffen Theater | Lower L
- evel 2\n4–5pm | Killer Fitness performance and dance-along | Grand Lobby
-     \nA horror performance and dance-along\, where fitness meets fear. \n7
- :30pm | Movie | Horror of Dracula (1958) | Ted Mann Theater | Lower Level 
- 2
+  | The Horror Tours | Level 4\n2:30pm | Movie | Blade (1998) | David Geffe
+ n Theater\n4–5pm | Killer Fitness performance and dance-along | Grand Lo
+ bby    \n7:30pm | Movie | Horror of Dracula (1958) | Ted Mann Theater\n\nT
+ ype: Screenings\n\nCalling all creatures of the night: join the Academy Mu
+ seum for a fang-tastic day of special-effects makeup demonstrations\, thri
+ lling tours\, monster appearances\, movies\, and activities—all explorin
+ g the vampire\, the famous creature of the dark. Embrace this year’s the
+ me with Dracula\, vampire hunters\, and a relaxing monster resort.  \nFree
+  with the purchase of a general admission ticket. Museum admission is free
+  for youth 17 and under. \nDetails\n11am | Movie | Hotel Transylvania (201
+ 2) | Ted Mann Theater | Lower Level 2\n11am–2pm | Special effects makeup
+  and hair demo | Sidney Poitier Grand Lobby  \nA scary-good time with tran
+ sformations by special effects makeup artists and Academy Award winners Jo
+ el Harlow and Howard Berger\, plus Patricia Dehaney\, Oscar winner and Aca
+ demy Governor. \nGeneral admission ticket not required. Program may end ea
+ rly.  \n12:30–2:30pm | Vampire blood special effects family workshop | S
+ hirley Temple Education Studio | Lower Level 1\nExperiment in the world of
+  makeup effects and learn how to create and mix SFX (special effects) vamp
+ ire blood. Gain an understanding of the tools makeup artists use for their
+  effects. All ages are welcome. \n1–5pm | Monster meet and greet | Grand
+  Lobby  \nMeet Universal Studios' classic movie monsters—Dracula\, the B
+ ride of Frankenstein\, and Frankenstein's monster—for a can't-miss photo
+  opportunity. It’ll be a scream.  \nGeneral admission ticket not require
+ d. Monsters meet for 30 minutes at a time.   \n1:30\, 2:30\, and 3:30pm | 
+ The Horror Tours | Level 4\nOpen the door and peek inside—if you dare—
+ with a museum educator on a 30-minute guide tour of The Horror Show exhibi
+ tion. Get a behind-the-scenes look at the representation of vampires and g
+ othic horror in film\, and explore the production processes for many horro
+ r classics.\nTours are limited to 15 people and are first-come\, first-ser
+ ved. Please arrive at the meeting place on Level 4 up to 10 minutes before
+  the start time to secure your spot. General admission ticket required.   
+ \nThis exhibition explores themes that may not be suitable for all ages an
+ d may disturb some visitors. Parental guidance is advised. If you have que
+ stions about the content\, please speak with a gallery associate. \n2:30pm
+  | Movie | Blade (1998) | David Geffen Theater | Lower Level 2\n4–5pm | 
+ Killer Fitness performance and dance-along | Grand Lobby    \nA horror per
+ formance and dance-along\, where fitness meets fear. \n7:30pm | Movie | Ho
+ rror of Dracula (1958) | Ted Mann Theater | Lower Level 2
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/monster-mash-019f1fdb
  -7bb1-0d3a-96fc-ec6cc22ce4f2
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Hotel Transylvania
 DTSTART;TZID=America/Los_Angeles:20261024T110000
 DTEND;TZID=America/Los_Angeles:20261024T123000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce81-5d86-638d-b7d7-5394af35897e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, October 24\, 2026 at 11 am\n\nLocation: Academy Mus
@@ -534,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:Blade in 4K
 DTSTART;TZID=America/Los_Angeles:20261024T143000
 DTEND;TZID=America/Los_Angeles:20261024T163000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce83-6b84-bb23-0a9e-f1f7b8d009b8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, October 24\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -560,25 +560,25 @@ BEGIN:VEVENT
 SUMMARY:Horror of Dracula in 4K
 DTSTART;TZID=America/Los_Angeles:20261024T193000
 DTEND;TZID=America/Los_Angeles:20261024T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce86-2243-5854-5276-e69b16a7e623@academymuseum.org
 CATEGORIES:Screenings
-DESCRIPTION:US 4K restoration premiere\n\nSaturday\, October 24\, 2026 at 
- 7:30 pm\n\nLocation: Academy Museum of Motion Pictures\n\nRuntime: 1h 22m
- \n\n1958 | 82 min. | UK | Color | English | 4K DCP \nDIRECTED BY: Terence 
- Fisher \nPRODUCED BY: Anthony Hinds \nWRITTEN BY: Jimmy Sangster \nWITH: P
- eter Cushing\, Christopher Lee\, Michael Gough\, Melissa Stribling\n\nType
- : Screenings\n\nThe stars (Peter Cushing\, Christopher Lee)\, screenwriter
-  (Jimmy Sangster)\, and director (Terence Fisher) of Hammer Films’ 1957 
- breakout hit The Curse of Frankenstein reunited for this exciting adaptati
- on of Bram Stoker’s classic novel. Cushing brought subtlety and intellig
- ence to the character of Dr. Van Helsing\, which he would play four more t
- imes for Hammer\, and Lee’s quietly charismatic portrayal of the Count (
- a role he would reprise in six sequels) made him one of the most iconic in
- terpreters of the role. With its bold Technicolor cinematography by Jack A
- sher and the thunderous orchestral score by Hammer regular James Bernard\,
-  the film helped establish the studio as a brand name in big-screen horror
- .
+DESCRIPTION:US 4K restoration premiere \nIn person: Academy Governor Gerry
+  Quist\n\nSaturday\, October 24\, 2026 at 7:30 pm\n\nLocation: Academy Mus
+ eum of Motion Pictures\n\nRuntime: 1h 22m\n\n1958 | 82 min. | UK | Color |
+  English | 4K DCP \nDIRECTED BY: Terence Fisher \nPRODUCED BY: Anthony Hin
+ ds \nWRITTEN BY: Jimmy Sangster \nWITH: Peter Cushing\, Christopher Lee\, 
+ Michael Gough\, Melissa Stribling\n\nType: Screenings\n\nThe stars (Peter 
+ Cushing\, Christopher Lee)\, screenwriter (Jimmy Sangster)\, and director 
+ (Terence Fisher) of Hammer Films’ 1957 breakout hit The Curse of Franken
+ stein reunited for this exciting adaptation of Bram Stoker’s classic nov
+ el. Cushing brought subtlety and intelligence to the character of Dr. Van 
+ Helsing\, which he would play four more times for Hammer\, and Lee’s qui
+ etly charismatic portrayal of the Count (a role he would reprise in six se
+ quels) made him one of the most iconic interpreters of the role. With its 
+ bold Technicolor cinematography by Jack Asher and the thunderous orchestra
+ l score by Hammer regular James Bernard\, the film helped establish the st
+ udio as a brand name in big-screen horror.
 LOCATION:Academy Museum of Motion Pictures
 URL:https://www.academymuseum.org/en/programs/detail/horror-of-dracula-019
  fce86-2243-5854-5276-e69b16a7e623
@@ -587,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:Men in Black in 35mm
 DTSTART;TZID=America/Los_Angeles:20261025T140000
 DTEND;TZID=America/Los_Angeles:20261025T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce46-c5ce-0889-bd76-0e3266b76f15@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, October 25\, 2026 at 2 pm\n\nLocation: Academy Museum
@@ -616,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:Christine
 DTSTART;TZID=America/Los_Angeles:20261025T183000
 DTEND;TZID=America/Los_Angeles:20261025T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce1e-0dad-beb1-27fe-7e0bb544d83a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, October 25\, 2026 at 6:30 pm\n\nLocation: Academy Mus
@@ -641,7 +641,7 @@ BEGIN:VEVENT
 SUMMARY:They Live by Night in 35mm with Nathan Gelgud and A. S. Hamrah
 DTSTART;TZID=America/Los_Angeles:20261026T193000
 DTEND;TZID=America/Los_Angeles:20261026T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce87-a827-bf83-b8a9-0fc6ac7bc84d@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: cartoonist Nathan Gelgud and critic A. S. Hamrah\n
@@ -679,7 +679,7 @@ BEGIN:VEVENT
 SUMMARY:Road to Perdition in 35mm
 DTSTART;TZID=America/Los_Angeles:20261028T193000
 DTEND;TZID=America/Los_Angeles:20261028T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce2f-801e-c756-e852-6f258f23222f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: supervising sound editor Scott Hecker and re-record
@@ -708,7 +708,7 @@ BEGIN:VEVENT
 SUMMARY:Gallery Spotlight: Creating The Horror Show
 DTSTART;TZID=America/Los_Angeles:20261030T120000
 DTEND;TZID=America/Los_Angeles:20261030T130000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:01a0b061-93a1-0e15-a2dd-07bbffe0cb05@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Go behind the scenes of this frightfully engaging exhibition w
@@ -732,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:Hansan: Rising Dragon (한산: 용의 출현) with Park Hae-il
 DTSTART;TZID=America/Los_Angeles:20261030T193000
 DTEND;TZID=America/Los_Angeles:20261030T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce28-77e9-867e-b116-4fbf49e1a102@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actor Park Hae-il\n\nFriday\, October 30\, 2026 at 
@@ -760,7 +760,7 @@ BEGIN:VEVENT
 SUMMARY:Decision to Leave (헤어질 결심) with Park Hae-il
 DTSTART;TZID=America/Los_Angeles:20261030T193000
 DTEND;TZID=America/Los_Angeles:20261030T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce27-6a63-4b4d-9352-4a2c3fd9026e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actor Park Hae-il\n\nThursday\, October 29\, 2026 a
@@ -788,7 +788,7 @@ BEGIN:VEVENT
 SUMMARY:The Witches
 DTSTART;TZID=America/Los_Angeles:20261031T110000
 DTEND;TZID=America/Los_Angeles:20261031T121500
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce44-08a6-7d94-e7af-9bf92c6bcc07@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, October 31\, 2026 at 11 am
@@ -818,7 +818,7 @@ BEGIN:VEVENT
 SUMMARY:Museum After Dark
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T224500
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019f240a-2c67-7918-db74-8932990ed413@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Celebrate Halloween at the Academy Museum with a goth-themed a
@@ -854,7 +854,7 @@ BEGIN:VEVENT
 SUMMARY:30th Anniversary of The Craft
 DTSTART;TZID=America/Los_Angeles:20261031T220000
 DTEND;TZID=America/Los_Angeles:20261031T234500
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce89-65f1-d75b-7550-d6d55b63dd80@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actors Robin Tunney and Rachel True\n\nSaturday\, O
@@ -883,7 +883,7 @@ BEGIN:VEVENT
 SUMMARY:Gosford Park in 35mm
 DTSTART;TZID=America/Los_Angeles:20261101T140000
 DTEND;TZID=America/Los_Angeles:20261101T153000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce7e-7fc4-7444-13d8-f903af546e07@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 1\, 2026 at 2 pm\n\nLocation: Academy Museum
@@ -911,7 +911,7 @@ BEGIN:VEVENT
 SUMMARY:Eungyo (은교) with Park Hae-il
 DTSTART;TZID=America/Los_Angeles:20261101T183000
 DTEND;TZID=America/Los_Angeles:20261101T193000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce81-14e6-a44b-f9a8-1dbc9ce699f2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: actor Park Hae-il\n\nSunday\, November 1\, 2026 at 
@@ -939,7 +939,7 @@ SUMMARY:F. W. Murnau’s Faust at 100 with a live score by Julianna Barwic
  k
 DTSTART;TZID=America/Los_Angeles:20261101T190000
 DTEND;TZID=America/Los_Angeles:20261101T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce83-299b-ab7d-c1f2-b65b04058a41@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 1\, 2026 at 7 pm\n\nLocation: Academy Museum
@@ -973,7 +973,7 @@ BEGIN:VEVENT
 SUMMARY:Bus Stop
 DTSTART;TZID=America/Los_Angeles:20261102T143000
 DTEND;TZID=America/Los_Angeles:20261102T153000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce85-2ae5-dbb1-521b-f5d7bef18de9@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 2\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -997,7 +997,7 @@ BEGIN:VEVENT
 SUMMARY:Arrival: A Conversation with Denis Villeneuve and Dr. Nina Beguš
 DTSTART;TZID=America/Los_Angeles:20261102T193000
 DTEND;TZID=America/Los_Angeles:20261102T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019ff719-cda6-18c3-2355-e69ab8eb784c@academymuseum.org
 CATEGORIES:Conversations,Screenings
 DESCRIPTION:In person: director Denis Villeneuve and Dr. Nina Beguš\n\nMo
@@ -1049,7 +1049,7 @@ BEGIN:VEVENT
 SUMMARY:The Last Princess (덕혜옹주)
 DTSTART;TZID=America/Los_Angeles:20261102T200000
 DTEND;TZID=America/Los_Angeles:20261102T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce87-f9d1-0202-9756-8f2e3a175c8f@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 2\, 2026 at 8 pm\n\nLocation: Academy Museum
@@ -1074,7 +1074,7 @@ BEGIN:VEVENT
 SUMMARY:Bus Stop
 DTSTART;TZID=America/Los_Angeles:20261104T143000
 DTEND;TZID=America/Los_Angeles:20261104T153000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce88-e357-e8fd-72e4-a308a92bb3c5@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, November 4\, 2026 at 2:30 pm\n\nLocation: Academy 
@@ -1099,7 +1099,7 @@ SUMMARY:My Dad Is 100 Years Old with Rome\, Open City presented by Isabell
  a Rossellini
 DTSTART;TZID=America/Los_Angeles:20261104T193000
 DTEND;TZID=America/Los_Angeles:20261104T213000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce8c-8328-1ce4-64d2-ca0302f3fadb@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Isabella Rossellini\n\nWednesday\, November 4\, 202
@@ -1122,7 +1122,7 @@ BEGIN:VEVENT
 SUMMARY:Memories of Murder (살인의 추억) in 4K
 DTSTART;TZID=America/Los_Angeles:20261104T200000
 DTEND;TZID=America/Los_Angeles:20261104T210000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce98-88b8-c32d-e44b-c505ede880cb@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, November 4\, 2026 at 8 pm\n\nLocation: Academy Mus
@@ -1148,7 +1148,7 @@ SUMMARY:Viva Ingrid! with Journey to Italy presented by Isabella Rossellin
  i
 DTSTART;TZID=America/Los_Angeles:20261105T193000
 DTEND;TZID=America/Los_Angeles:20261105T213000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce99-bdc4-db1d-1a14-a7095eb4691e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Isabella Rossellini\n\nThursday\, November 5\, 2026
@@ -1169,7 +1169,7 @@ BEGIN:VEVENT
 SUMMARY:Bus Stop
 DTSTART;TZID=America/Los_Angeles:20261106T143000
 DTEND;TZID=America/Los_Angeles:20261106T153000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce9b-3543-75bc-8dfc-3a8a0ddcd00c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, November 6\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -1193,7 +1193,7 @@ BEGIN:VEVENT
 SUMMARY:The Haunted Mansion
 DTSTART;TZID=America/Los_Angeles:20261107T110000
 DTEND;TZID=America/Los_Angeles:20261107T121500
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce9c-5db0-34c6-1956-cdcf167842e5@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 7\, 2026 at 11 am\n\nLocation: Academy Mus
@@ -1218,7 +1218,7 @@ BEGIN:VEVENT
 SUMMARY:Rossellini Through His Own Eyes (Rossellini visto da Rossellini)
 DTSTART;TZID=America/Los_Angeles:20261107T143000
 DTEND;TZID=America/Los_Angeles:20261107T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce9d-9e8e-1db2-660d-0c4d5016dd79@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 7\, 2026 at 2:30 pm\n\nLocation: Academy M
@@ -1242,7 +1242,7 @@ BEGIN:VEVENT
 SUMMARY:Rome\, Open City (Roma città aperta) in 35mm
 DTSTART;TZID=America/Los_Angeles:20261107T193000
 DTEND;TZID=America/Los_Angeles:20261107T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fce9e-c52e-1ee3-a07b-2484acf4e5f2@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 7\, 2026 at 7:30 pm\n\nLocation: Academy M
@@ -1271,7 +1271,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago in 35mm
 DTSTART;TZID=America/Los_Angeles:20261108T140000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcea0-a79c-07fd-95cf-01f9e0b0b58b@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 8\, 2026 at 2 pm\n\nLocation: Academy Museum
@@ -1301,7 +1301,7 @@ BEGIN:VEVENT
 SUMMARY:Waikiki Brothers (와이키키 브라더스)
 DTSTART;TZID=America/Los_Angeles:20261108T183000
 DTEND;TZID=America/Los_Angeles:20261108T213000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceaa-0d8c-29c6-78fd-3da5a274eff0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 8\, 2026 at 6:30 pm\n\nLocation: Academy Mus
@@ -1328,7 +1328,7 @@ BEGIN:VEVENT
 SUMMARY:Some Like It Hot in 4K
 DTSTART;TZID=America/Los_Angeles:20261109T143000
 DTEND;TZID=America/Los_Angeles:20261109T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcea2-e597-ea37-537e-ba990f989094@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 9\, 2026 at 2:30 pm\n\nLocation: Academy Mus
@@ -1353,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:Moss (이끼)
 DTSTART;TZID=America/Los_Angeles:20261109T193000
 DTEND;TZID=America/Los_Angeles:20261109T210000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcea5-0914-56f5-74e2-969a3339a5ec@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 9\, 2026 at 7:30 pm\n\nLocation: Academy Mus
@@ -1375,7 +1375,7 @@ BEGIN:VEVENT
 SUMMARY:Some Like It Hot in 4K
 DTSTART;TZID=America/Los_Angeles:20261111T143000
 DTEND;TZID=America/Los_Angeles:20261111T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcea3-63d6-402d-d4df-8d5f6eceed43@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Wednesday\, November 11\, 2026 at 2:30 pm\n\nLocation: Academy
@@ -1400,7 +1400,7 @@ BEGIN:VEVENT
 SUMMARY:War for the Planet of the Apes
 DTSTART;TZID=America/Los_Angeles:20261111T193000
 DTEND;TZID=America/Los_Angeles:20261111T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcea6-3bd2-a751-b0ce-f79d4ffa1e83@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Visual Effects Branch\n\nWednesday\, November 
@@ -1426,7 +1426,7 @@ SUMMARY:Community Conversation: Horror\, Representation\, Culture\, and th
  e Stories We Tell
 DTSTART;TZID=America/Los_Angeles:20261113T120000
 DTEND;TZID=America/Los_Angeles:20261113T130000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:01a1123c-29eb-1760-4c22-ce605be55949@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Nefti Camacho (Natural History Museum Los Angeles)\, Marie Jam
@@ -1451,7 +1451,7 @@ BEGIN:VEVENT
 SUMMARY:Some Like It Hot in 4K
 DTSTART;TZID=America/Los_Angeles:20261113T143000
 DTEND;TZID=America/Los_Angeles:20261113T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcea3-ccaa-c2d2-ff8b-84cf0163a319@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, November 13\, 2026 at 2:30 pm\n\nLocation: Academy Mu
@@ -1476,7 +1476,7 @@ BEGIN:VEVENT
 SUMMARY:In Focus: Queer for Fear Live!
 DTSTART;TZID=America/Los_Angeles:20261113T160000
 DTEND;TZID=America/Los_Angeles:20261113T180000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fdd24-5d9c-9faa-8ac4-dd2a684b07a3@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Drag legend Peaches Christ and scholar Dr. Heather O. Petrocel
@@ -1499,7 +1499,7 @@ BEGIN:VEVENT
 SUMMARY:Black Fire with Kevin Jerome Everson and Claudrena N. Harold
 DTSTART;TZID=America/Los_Angeles:20261113T193000
 DTEND;TZID=America/Los_Angeles:20261113T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcea8-1372-4e4b-7da1-c6c524c438f6@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: filmmakers Kevin Jerome Everson and Claudrena N. Ha
@@ -1542,7 +1542,7 @@ BEGIN:VEVENT
 SUMMARY:Frankenweenie in 35mm
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T123000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcea8-e8f6-6d3e-76aa-b9ad54f74461@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 14\, 2026 at 11 am\n\nLocation: Academy Mu
@@ -1569,7 +1569,7 @@ BEGIN:VEVENT
 SUMMARY:Inside Horror: Capturing the Sinister with Michael Goi
 DTSTART;TZID=America/Los_Angeles:20261114T140000
 DTEND;TZID=America/Los_Angeles:20261114T143000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:01a11304-7869-5237-8e58-1f28024d3b81@academymuseum.org
 CATEGORIES:Conversations
 DESCRIPTION:Academy Governor and cinematographer Michael Goi brings his un
@@ -1591,7 +1591,7 @@ BEGIN:VEVENT
 SUMMARY:Jealousy Is My Middle Name (질투는 나의 힘)  in 35mm
 DTSTART;TZID=America/Los_Angeles:20261114T183000
 DTEND;TZID=America/Los_Angeles:20261114T200000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcea1-c7b8-b5d6-b554-26b3946dfe22@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 14\, 2026 at 6:30 pm\n\nLocation: Academy 
@@ -1620,7 +1620,7 @@ BEGIN:VEVENT
 SUMMARY:The Grand Budapest Hotel in 35mm
 DTSTART;TZID=America/Los_Angeles:20261115T140000
 DTEND;TZID=America/Los_Angeles:20261115T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcead-4761-2c05-b6ca-afca843ad169@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 15\, 2026 at 2 pm\n\nLocation: Academy Museu
@@ -1650,7 +1650,7 @@ BEGIN:VEVENT
 SUMMARY:Paisàn in 35mm
 DTSTART;TZID=America/Los_Angeles:20261115T143000
 DTEND;TZID=America/Los_Angeles:20261115T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceae-f096-eafc-82d4-f45ed5f0628e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 15\, 2026 at 2:30 pm\n\nLocation: Academy Mu
@@ -1678,7 +1678,7 @@ BEGIN:VEVENT
 SUMMARY:Germany Year Zero (Germania anno zero) in 35mm
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T203000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb0-6341-861a-27b3-b8a22f7f663a@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 15\, 2026 at 7 pm\n\nLocation: Academy Museu
@@ -1707,7 +1707,7 @@ BEGIN:VEVENT
 SUMMARY:The Misfits in 4K
 DTSTART;TZID=America/Los_Angeles:20261116T143000
 DTEND;TZID=America/Los_Angeles:20261116T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb1-50e8-5b11-dffc-d44ae7c0f6e1@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 16\, 2026 at 2:30 pm\n\nLocation: Academy Mu
@@ -1733,7 +1733,7 @@ BEGIN:VEVENT
 SUMMARY:L’amore in 35mm
 DTSTART;TZID=America/Los_Angeles:20261116T193000
 DTEND;TZID=America/Los_Angeles:20261116T203000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb4-23c7-f820-6cf6-bf395ffa1298@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 16\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -1763,7 +1763,7 @@ BEGIN:VEVENT
 SUMMARY:The Getaway in 35mm
 DTSTART;TZID=America/Los_Angeles:20261118T193000
 DTEND;TZID=America/Los_Angeles:20261118T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb5-074b-2299-31fc-5113d9814f93@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Selected by the Writers Branch \nIn person: writer Walter Hill
@@ -1788,7 +1788,7 @@ BEGIN:VEVENT
 SUMMARY:50th Anniversary of Carrie with Sissy Spacek
 DTSTART;TZID=America/Los_Angeles:20261119T193000
 DTEND;TZID=America/Los_Angeles:20261119T213000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019efac4-788f-5c34-1b3d-6cf7811d1697@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:In person: Sissy Spacek\n\nThursday\, November 19\, 2026 at 7:
@@ -1817,7 +1817,7 @@ BEGIN:VEVENT
 SUMMARY:The Misfits in 4K
 DTSTART;TZID=America/Los_Angeles:20261120T143000
 DTEND;TZID=America/Los_Angeles:20261120T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb2-2191-b9ef-b1b8-e8bd741c5187@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Friday\, November 20\, 2026 at 2:30 pm\n\nLocation: Academy Mu
@@ -1843,7 +1843,7 @@ BEGIN:VEVENT
 SUMMARY:Journey to Italy (Viaggio in Italia) in 4K
 DTSTART;TZID=America/Los_Angeles:20261120T193000
 DTEND;TZID=America/Los_Angeles:20261120T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb5-ef5d-bf8f-6798-bb9bfde1aafd@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:US restoration premiere\n\nFriday\, November 20\, 2026 at 7:30
@@ -1870,7 +1870,7 @@ BEGIN:VEVENT
 SUMMARY:Wendell & Wild
 DTSTART;TZID=America/Los_Angeles:20261121T110000
 DTEND;TZID=America/Los_Angeles:20261121T123000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb6-94fe-1960-94f0-62fd5b1b66a0@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 21\, 2026 at 11 am\n\nLocation: Academy Mu
@@ -1898,7 +1898,7 @@ BEGIN:VEVENT
 SUMMARY:The Misfits in 4K
 DTSTART;TZID=America/Los_Angeles:20261121T143000
 DTEND;TZID=America/Los_Angeles:20261121T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb2-f294-8b76-65ba-9dfb991f3ebc@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 21\, 2026 at 2:30 pm\n\nLocation: Academy 
@@ -1925,7 +1925,7 @@ BEGIN:VEVENT
 SUMMARY:Stromboli in 35mm
 DTSTART;TZID=America/Los_Angeles:20261121T193000
 DTEND;TZID=America/Los_Angeles:20261121T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb7-6427-55b4-002f-045e576614b8@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 21\, 2026 at 7:30 pm\n\nLocation: Academy 
@@ -1954,7 +1954,7 @@ BEGIN:VEVENT
 SUMMARY:The Favourite
 DTSTART;TZID=America/Los_Angeles:20261122T140000
 DTEND;TZID=America/Los_Angeles:20261122T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb8-441b-b5b9-ada8-4e32ba7253fa@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 22\, 2026 at 2 pm\n\nLocation: Academy Museu
@@ -1982,7 +1982,7 @@ BEGIN:VEVENT
 SUMMARY:The Flowers of St. Francis (Francesco\, giullare di Dio) in 35mm
 DTSTART;TZID=America/Los_Angeles:20261122T183000
 DTEND;TZID=America/Los_Angeles:20261122T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb9-32b4-32a5-5370-e7362e42607c@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 22\, 2026 at 6:30 pm\n\nLocation: Academy Mu
@@ -2008,7 +2008,7 @@ SUMMARY:The Machine That Kills Bad People (La macchina ammazzacattivi) in
   35mm
 DTSTART;TZID=America/Los_Angeles:20261123T193000
 DTEND;TZID=America/Los_Angeles:20261123T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceb9-ef3b-238d-3db7-1f2c9aee90e9@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 23\, 2026 at 7:30 pm\n\nLocation: Academy Mu
@@ -2035,7 +2035,7 @@ BEGIN:VEVENT
 SUMMARY:Gremlins
 DTSTART;TZID=America/Los_Angeles:20261128T110000
 DTEND;TZID=America/Los_Angeles:20261128T123000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fceba-f20a-417b-ed3c-bd5163cf63fa@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Accessible screening\n\nSaturday\, November 28\, 2026 at 11 am
@@ -2066,7 +2066,7 @@ BEGIN:VEVENT
 SUMMARY:Europe ’51
 DTSTART;TZID=America/Los_Angeles:20261128T193000
 DTEND;TZID=America/Los_Angeles:20261128T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcebb-d046-d251-bb9d-d238cf827fbb@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Saturday\, November 28\, 2026 at 7:30 pm\n\nLocation: Academy 
@@ -2096,7 +2096,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Time… in Hollywood in 70mm
 DTSTART;TZID=America/Los_Angeles:20261129T140000
 DTEND;TZID=America/Los_Angeles:20261129T160000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcebd-2334-62f5-48c4-fadf0162246e@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Sunday\, November 29\, 2026 at 2 pm\n\nLocation: Academy Museu
@@ -2125,7 +2125,7 @@ BEGIN:VEVENT
 SUMMARY:Fear (La Paura) in 4K
 DTSTART;TZID=America/Los_Angeles:20261129T183000
 DTEND;TZID=America/Los_Angeles:20261129T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcebe-17ab-0bb5-1708-5843377f4226@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:4K restoration world premiere\n\nSunday\, November 29\, 2026 a
@@ -2152,7 +2152,7 @@ BEGIN:VEVENT
 SUMMARY:Joan of Arc at the Stake in 35mm
 DTSTART;TZID=America/Los_Angeles:20261130T193000
 DTEND;TZID=America/Los_Angeles:20261130T223000
-DTSTAMP:20261008T151610Z
+DTSTAMP:20261009T150104Z
 UID:019fcebe-b2fc-b261-ca38-3420c3634eed@academymuseum.org
 CATEGORIES:Screenings
 DESCRIPTION:Monday\, November 30\, 2026 at 7:30 pm\n\nLocation: Academy Mu
