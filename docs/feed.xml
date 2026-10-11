@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 14:16:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:42:09 +0000</lastBuildDate>
     <item>
       <title>The Fog in 4K — Oct 9</title>
       <link>https://www.academymuseum.org/en/programs/detail/the-fog-019fcdae-e077-355c-8056-cd70e34aefc8</link>
@@ -55,35 +55,11 @@ The Donahue clan, led by husband and wife Molly and Terry (Ethel Merman and Dan 
       <pubDate>Fri, 09 Oct 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>The Little Vampire in 35mm — Oct 10</title>
-      <link>https://www.academymuseum.org/en/programs/detail/the-little-vampire-019fce43-b9a7-6acf-46c8-25fdba2cb0c4</link>
-      <description>Saturday, October 10, 2026 at 11 am
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 35m
-
-2000 | 95 min. | Netherlands, Germany, USA, UK | Color | English | Rated PG | 35mm 
-DIRECTED BY: Uli Edel 
-PRODUCED BY: Richard Claus 
-WRITTEN BY: Karey Kirkpatrick, Larry Wilson 
-WITH: Jonathan Lipnicki, Richard E. Grant, Jim Carter, Alice Krige 
-Print courtesy of the Academy Film Archive
-
-Type: Screenings
-
-Friendless, plagued by nightmares, Tony Thompson, 8, struggles to adapt to his new home in Scotland and reconcile his obsession with vampires. His nightmares seem to come true when he meets child vampire Rudolph, though the two boys quickly become friends when they realize Tony’s nightmares contain essential information for Rudolph to break a centuries-old curse. Based on Angela Sommer-Bodenburg's children’s book series of the same name, this charming and whimsical tale of finding friendship in unlikely places is populated with eerie cemeteries, beautifully designed aristocratic costumes, and, of course, vampire cows.</description>
-      <guid isPermaLink="false">019fce43-b9a7-6acf-46c8-25fdba2cb0c4</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4DvaAoR5FR6WscwELtyDR1/36ad01eed0c2dc70812644400198b08c/Oct10_LITTLE_VAMPIRE_FamilyMatinees1.png" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 10 Oct 2026 11:00:00 -0700</pubDate>
-    </item>
-    <item>
       <title>Get on the Bus 30th Anniversary Screening in 4K — Oct 10</title>
       <link>https://www.academymuseum.org/en/programs/detail/30th-anniversary-of-get-on-the-bus-019fce7d-e21b-f9de-ccf8-cfa1d672c55b</link>
       <description>In person: Reuben Cannon, Gabriel Casseus, Bill Borden, Reggie Rock Bythewood, Hill Harper, Kim Taylor Coleman, and Olden Lee
 
-Saturday, October 10, 2026 at 3 pm
+Saturday, October 10, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -102,7 +78,31 @@ Spike Lee’s Get on the Bus, which was shot in three weeks, was financed by a s
       <guid isPermaLink="false">019fce7d-e21b-f9de-ccf8-cfa1d672c55b</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/7HwGhrOqynk5KMxGzMYSsD/b661eb92d9fc651b5fdb268d241a7aaa/SELECT_Oct10_GET_ON_THE_BUS_Spotlight1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 10 Oct 2026 15:00:00 -0700</pubDate>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Little Vampire in 35mm — Oct 10</title>
+      <link>https://www.academymuseum.org/en/programs/detail/the-little-vampire-019fce43-b9a7-6acf-46c8-25fdba2cb0c4</link>
+      <description>Saturday, October 10, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 35m
+
+2000 | 95 min. | Netherlands, Germany, USA, UK | Color | English | Rated PG | 35mm 
+DIRECTED BY: Uli Edel 
+PRODUCED BY: Richard Claus 
+WRITTEN BY: Karey Kirkpatrick, Larry Wilson 
+WITH: Jonathan Lipnicki, Richard E. Grant, Jim Carter, Alice Krige 
+Print courtesy of the Academy Film Archive
+
+Type: Screenings
+
+Friendless, plagued by nightmares, Tony Thompson, 8, struggles to adapt to his new home in Scotland and reconcile his obsession with vampires. His nightmares seem to come true when he meets child vampire Rudolph, though the two boys quickly become friends when they realize Tony’s nightmares contain essential information for Rudolph to break a centuries-old curse. Based on Angela Sommer-Bodenburg's children’s book series of the same name, this charming and whimsical tale of finding friendship in unlikely places is populated with eerie cemeteries, beautifully designed aristocratic costumes, and, of course, vampire cows.</description>
+      <guid isPermaLink="false">019fce43-b9a7-6acf-46c8-25fdba2cb0c4</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4DvaAoR5FR6WscwELtyDR1/36ad01eed0c2dc70812644400198b08c/Oct10_LITTLE_VAMPIRE_FamilyMatinees1.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Aliens in 70mm — Oct 11</title>
