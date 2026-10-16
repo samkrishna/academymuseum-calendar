@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 13:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:02:32 +0000</lastBuildDate>
     <item>
       <title>The Seven Year Itch — Oct 19</title>
       <link>https://www.academymuseum.org/en/programs/detail/the-seven-year-itch-019fce23-41b9-6b5f-6f14-ff1a281254c8</link>
@@ -235,6 +235,32 @@ Vampires in 4KBased on John Steakley’s novel of the same name, John Carpenter�
       <pubDate>Fri, 23 Oct 2026 19:30:00 -0700</pubDate>
     </item>
     <item>
+      <title>Hotel Transylvania — Oct 24</title>
+      <link>https://www.academymuseum.org/en/programs/detail/hotel-transylvania-019fce81-5d86-638d-b7d7-5394af35897e</link>
+      <description>In person: Sony Pictures Animation Director Alan Hawkins
+
+Saturday, October 24, 2026 at 11 am
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 31m
+
+2012 | 91 min. | USA | Color | English | Rated PG | DCP 
+DIRECTED BY: Genndy Tartakovsky 
+PRODUCED BY: Michelle Murdocca 
+WRITTEN BY: Peter Baynham, Robert Smigel 
+STORY BY: Todd Durham, Dan Hageman, Kevin Hageman 
+WITH: Adam Sandler, Andy Samberg, Selena Gomez, Kevin James
+
+Type: Screenings
+
+A hapless young backpacker (voiced by Andy Samberg) stumbles upon an Eastern European resort and falls for the owner’s daughter (Selena Gomez), unaware that he’s discovered a hotel for monsters and that his prospective father-in-law is Dracula himself. Adam Sandler leads the stellar comedic voice cast as the Count, with Kevin James as Frankenstein’s monster, Fran Drescher as his bride, Steve Buscemi as a werewolf, and David Spade as the Invisible Man. Director Genndy Tartakovsky’s inventive visuals are an ideal match for the script’s winning mixture of humor and sentiment. The film would spawn three sequels and a TV series.</description>
+      <guid isPermaLink="false">019fce81-5d86-638d-b7d7-5394af35897e</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4vk6fUFrZ9fL8eacOiMngo/acf0d9205bf5cfbaccbe05e5d8fec5a7/Oct24_HOTEL_TRANSVYLVANIA_Spotlight1MHL.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 24 Oct 2026 11:00:00 -0700</pubDate>
+    </item>
+    <item>
       <title>Monster Mash — Oct 24</title>
       <link>https://www.academymuseum.org/en/programs/detail/monster-mash-019f1fdb-7bb1-0d3a-96fc-ec6cc22ce4f2</link>
       <description>Calling all creatures of the night: join the Academy Museum for a fang-tastic day exploring the vampire, the most famous creature of the dark, with special-effects demos, thrilling tours, monster appearances, and more.
@@ -280,30 +306,6 @@ A horror performance and dance-along, where fitness meets fear.
       <guid isPermaLink="false">019f1fdb-7bb1-0d3a-96fc-ec6cc22ce4f2</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/1ibc3dogqWubRI0CvPQI2g/43897980f69e04b463be96606830dc9a/AMMP_MonsterMash_FrontPageMarquee_090426_VG_R1.2__1_.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 24 Oct 2026 11:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Hotel Transylvania — Oct 24</title>
-      <link>https://www.academymuseum.org/en/programs/detail/hotel-transylvania-019fce81-5d86-638d-b7d7-5394af35897e</link>
-      <description>Saturday, October 24, 2026 at 11 am
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 31m
-
-2012 | 91 min. | USA | Color | English | Rated PG | DCP 
-DIRECTED BY: Genndy Tartakovsky 
-PRODUCED BY: Michelle Murdocca 
-WRITTEN BY: Peter Baynham, Robert Smigel 
-STORY BY: Todd Durham, Dan Hageman, Kevin Hageman 
-WITH: Adam Sandler, Andy Samberg, Selena Gomez, Kevin James
-
-Type: Screenings
-
-A hapless young backpacker (voiced by Andy Samberg) stumbles upon an Eastern European resort and falls for the owner’s daughter (Selena Gomez), unaware that he’s discovered a hotel for monsters and that his prospective father-in-law is Dracula himself. Adam Sandler leads the stellar comedic voice cast as the Count, with Kevin James as Frankenstein’s monster, Fran Drescher as his bride, Steve Buscemi as a werewolf, and David Spade as the Invisible Man. Director Genndy Tartakovsky’s inventive visuals are an ideal match for the script’s winning mixture of humor and sentiment. The film would spawn three sequels and a TV series.</description>
-      <guid isPermaLink="false">019fce81-5d86-638d-b7d7-5394af35897e</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/4vk6fUFrZ9fL8eacOiMngo/acf0d9205bf5cfbaccbe05e5d8fec5a7/Oct24_HOTEL_TRANSVYLVANIA_Spotlight1MHL.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 24 Oct 2026 11:00:00 -0700</pubDate>
     </item>
     <item>
@@ -1120,7 +1122,7 @@ The third film in the contemporary version of the Planet of the Apes series find
     <item>
       <title>Community Conversation: Horror, Representation, Culture, and the Stories We Tell — Nov 13</title>
       <link>https://www.academymuseum.org/en/programs/detail/community-conversation-horror-representation-culture-the-stories-we-tell-01a1123c-29eb-1760-4c22-ce605be55949</link>
-      <description>Nefti Camacho (Natural History Museum Los Angeles), Marie Jamora (Cinema Sala), and E’lon Joi (Black Film Allegiance) dive deeply into horror lore—its real-world influences and cultural roots—discussing how uniquely this one genre reflects the human condition.
+      <description>Neftali Camacho (Natural History Museum Los Angeles), Marie Jamora (Cinema Sala), and E’lon Joi (Black Film Allegiance) dive deeply into horror lore—its real-world influences and cultural roots—discussing how uniquely this one genre reflects the human condition.
 
 Friday, November 13, 2026 at 12 pm
 
@@ -1128,7 +1130,7 @@ Location: Sidney Poitier Grand Lobby
 
 Type: Conversations
 
-Natural History Museum Los Angeles Senior Collections Manager of Herpetology Nefti Camacho, Cinema Sala Founder and President Marie Jamora, and Black Film Allegiance Founder and CEO E’lon Joi explore the influences behind monsters in cinema; how cultures have been represented by these characters; what the horror genre means to different communities; the generational impact of these stories; and more. 
+Natural History Museum Los Angeles Senior Collections Manager of Herpetology Neftali Camacho, Cinema Sala Founder and President Marie Jamora, and Black Film Allegiance Founder and CEO E’lon Joi explore the influences behind monsters in cinema; how cultures have been represented by these characters; what the horror genre means to different communities; the generational impact of these stories; and more. 
 Visitors are encouraged to explore The Horror Show exhibition on Level 4 (L4) before or after the program.</description>
       <guid isPermaLink="false">01a1123c-29eb-1760-4c22-ce605be55949</guid>
       <category>Conversations</category>
