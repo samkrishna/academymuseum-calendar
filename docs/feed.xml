@@ -7,36 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 15:19:02 +0000</lastBuildDate>
-    <item>
-      <title>The Seven Year Itch — Oct 19</title>
-      <link>https://www.academymuseum.org/en/programs/detail/the-seven-year-itch-019fce23-41b9-6b5f-6f14-ff1a281254c8</link>
-      <description>Monday, October 19, 2026 at 2:30 pm
-
-Location: Academy Museum of Motion Pictures
-
-Runtime: 1h 45m
-
-1955 | 105 min | USA | Color | Scope | English | Not Rated | DCP 
-DIRECTED BY: Billy Wilder 
-PRODUCED BY: Charles K. Feldman, Billy Wilder 
-WRITTEN BY: Billy Wilder, George Axelrod 
-WITH: Marilyn Monroe, Tommy Ewell, Evelyn Keyes, Sonny Tufts
-
-Type: Screenings
-
-One of Monroe’s most successful roles was as The Girl in director Billy Wilder’s The Seven Year Itch, a comedy about a restless husband left to his own devices for the summer. To market the film, photographer Sam Shaw proposed the indelible subway grate moment, which dozens of publicity photographers attended on location in New York City. Due to sound issues, the real scene was shot on the 20th Century-Fox lot in Los Angeles. Outside of this iconic scene, the exhibition Marilyn Monroe: Hollywood Icon also features silk pajamas worn during a pivotal moment in developing Monroe’s girl-next-door character.</description>
-      <guid isPermaLink="false">019fce23-41b9-6b5f-6f14-ff1a281254c8</guid>
-      <category>Screenings</category>
-      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/5suAY32XOJcyKxAh2rdaDq/38ce5228902658760ca0d0597c52dab0/Oct19_SEVEN_YEAR_ITCH_Marilyn1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 14:30:00 -0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 13:22:20 +0000</lastBuildDate>
     <item>
       <title>In the Mouth of Madness in 4K — Oct 19</title>
       <link>https://www.academymuseum.org/en/programs/detail/in-the-mouth-of-madness-019fcdb6-5fab-378b-4f89-99a1fa5dba6e</link>
       <description>In person: actor Julie Carmen
 
-Monday, October 19, 2026 at 7:30 pm
+Monday, October 19, 2026
 
 Location: Academy Museum of Motion Pictures
 
@@ -54,7 +31,30 @@ Directed and scored by John Carpenter, and written by Michael De Luca, this love
       <guid isPermaLink="false">019fcdb6-5fab-378b-4f89-99a1fa5dba6e</guid>
       <category>Screenings</category>
       <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/3hkh91IKdK6Iahr4gFzIQs/91bd091b0fa93cb3751f823b174661a2/Oct19_IN_THE_MOUTH_OF_MADNESS_Carpenter8.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 19:30:00 -0700</pubDate>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Seven Year Itch — Oct 19</title>
+      <link>https://www.academymuseum.org/en/programs/detail/the-seven-year-itch-019fce23-41b9-6b5f-6f14-ff1a281254c8</link>
+      <description>Monday, October 19, 2026
+
+Location: Academy Museum of Motion Pictures
+
+Runtime: 1h 45m
+
+1955 | 105 min | USA | Color | Scope | English | Not Rated | DCP 
+DIRECTED BY: Billy Wilder 
+PRODUCED BY: Charles K. Feldman, Billy Wilder 
+WRITTEN BY: Billy Wilder, George Axelrod 
+WITH: Marilyn Monroe, Tommy Ewell, Evelyn Keyes, Sonny Tufts
+
+Type: Screenings
+
+One of Monroe’s most successful roles was as The Girl in director Billy Wilder’s The Seven Year Itch, a comedy about a restless husband left to his own devices for the summer. To market the film, photographer Sam Shaw proposed the indelible subway grate moment, which dozens of publicity photographers attended on location in New York City. Due to sound issues, the real scene was shot on the 20th Century-Fox lot in Los Angeles. Outside of this iconic scene, the exhibition Marilyn Monroe: Hollywood Icon also features silk pajamas worn during a pivotal moment in developing Monroe’s girl-next-door character.</description>
+      <guid isPermaLink="false">019fce23-41b9-6b5f-6f14-ff1a281254c8</guid>
+      <category>Screenings</category>
+      <enclosure url="https://images.ctfassets.net/m3qyzuwrf176/5suAY32XOJcyKxAh2rdaDq/38ce5228902658760ca0d0597c52dab0/Oct19_SEVEN_YEAR_ITCH_Marilyn1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0700</pubDate>
     </item>
     <item>
       <title>The Seven Year Itch — Oct 21</title>
